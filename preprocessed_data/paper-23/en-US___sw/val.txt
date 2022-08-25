@@ -1,0 +1,10 @@
+common_voice_sw_30344154|sw_trimmed|{w ɑ v u l ɑ n ɑ h u p i ɠ ɑ f ɔ l ɛ n i n ɑ k u i m b ɑ p ɑ m ɔ dʒ ɑ n ɑ m s u k u m ɔ w ɑ m iː l i j ɑ ɔ}|Wavulana hupiga foleni na kuimba pamoja na msukumo wa miili yao
+common_voice_sw_30364481|sw_trimmed|{b i l ɑ k u s ɑ h ɑ u h ɑ l m ɑ ʃ ɑ u ɾ i j ɑ w i l ɑ j ɑ j ɑ m ɑ ɗ ɑ ɓ ɑ sil n ɑ h ɑ l m ɑ ʃ ɑ u ɾ i j ɑ w i l ɑ j ɑ j ɑ s ɔ ŋ ɡ ɛ ɑ}|Bila kusahau halmashauri ya wilaya ya Madaba na halmashauri ya wilaya ya Songea
+common_voice_sw_30346403|sw_trimmed|{k u t ɔ k ɑ n ɑ n ɑ s ɑ ɓ ɑ ɓ u m b ɑ l i m b ɑ l i k ɑ m ɑ p ɔ m b ɛ i l i j ɔ p i t ɑ k i ɑ s i s u m u k w ɛ ɲ ɛ d ɑ m u ɑ u m ɑː m b u k i z i}|Kutokana na sababu mbalimbali kama pombe iliyopita kiasi sumu kwenye damu au maambukizi
+common_voice_sw_30346218|sw_trimmed|{k i l ɔ m i t ɑ m i ɑ n ɛ ɑ ɾ ɔ ɓ ɑ i n i n ɑ s i t ɑ t u}|Kilomita mia nne arobaini na sita tu
+common_voice_sw_30362371|sw_trimmed|{m ɑ n d ɛ l ɑ ɑ k ɑ tʃ ɑ ɠ u l i w ɑ k w ɑ w i ŋ ɡ i k u k i ɔ ŋ ɡ ɔ z ɑ tʃ ɑ m ɑ tʃ ɑ k ɛ}|Mandela akachaguliwa kwa wingi kukiongoza chama chake
+common_voice_sw_30336537|sw_trimmed|{ɑ l i ʃ i n d w ɑ k u p ɑ t ɑ ɑ m ɑ n i m ɔ j ɔ n i m w ɑ k ɛ w ɑ k ɑ t i w ɔ t ɛ sil h u ɔ}|Alishindwa kupata amani moyoni mwake wakati wote huo
+common_voice_sw_30362364|sw_trimmed|{u dʒ ɛ ɾ u m ɑ n i ɑ l i m l i p ɑ s u l t ɑ n s ɑ j ɲ i d sil ɑ l i b i n s ɑ i d sil ɑ l s ɑ i d w ɑ ɔ m ɑ n m i l i ɔ n i n ɛ}|Ujerumani alimlipa Sultan Sayyid Ali bin Said al Said wa Oman milioni nne
+common_voice_sw_30343511|sw_trimmed|{ɔ k t ɔ ɓ ɑ ɛ l f u m b i l i m ɑː l i m s ɛ i f sil ɑ l i ʃ i ɾ i k i t ɛ n ɑ k ɑ t i k ɑ u tʃ ɑ ɠ u z i w ɑ u ɾ ɑ i s w ɑ z ɑ n z i ɓ ɑ ɾ i}|Oktoba elfu mbili Maalim Seif alishiriki tena katika uchaguzi wa urais wa Zanzibari
+common_voice_sw_30363426|sw_trimmed|{w ɛ ŋ ɡ i n ɛ w ɑ l i tʃ ɔ m w ɑ k ɑ t i k ɑ ɲ u m b ɑ z ɑ ɔ n ɑ w ɑ n ɑ w ɑ k ɛ n ɑ w ɑ t ɔ t ɔ}|Wengine walichomwa katika nyumba zao na wanawake na watoto
+common_voice_sw_30369675|sw_trimmed|{k i l ɔ m ɛ n i n ɑ k i s ɑ ŋ ɡ ɑ ɾ ɑ dʒ uː p i ɑ v u m ɑ ɾ i n ɑ ɡ ɔ n dʒ ɑ}|Kilomeni na Kisangara juu pia Vumari na Gonja

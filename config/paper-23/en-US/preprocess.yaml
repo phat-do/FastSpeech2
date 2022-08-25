@@ -2,7 +2,7 @@ dataset: "en-US"
 
 path:
   corpus_path: "/data/p301255/speech_corpora/LJSpeech-1.1"
-  lexicon_path: "./preprocessed_data/paper-23/en-US/en-US-dict.txt"
+  lexicon_path: "/home/phatdo/Work/paper-23/speech_corpora/misc/lexicons/english_us_mfa.dict"
   raw_path: "/data/p301255/speech_corpora/LJSpeech-1.1/wavs"
   preprocessed_path: "./preprocessed_data/paper-23/en-US"
 

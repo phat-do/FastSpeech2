@@ -1,0 +1,10 @@
+common_voice_ur_31824566|ur_trimmed|{k eː ũː n ɑː sil d̪ oː s t̪ ũː sil s eː sil m ə l k ə ɾ sil p ɾ oː ɡ ɾ ɑː m b ə n ɑː j ɑː sil dʒ ɑː ɪ j eː}|کیوں نہ دوستوں سے مل کر پروگرام بنایا جائے
+common_voice_ur_31824277|ur_trimmed|{x ʊ d̪ sil ɦ iː sil t̪ ɦ ə q iː q ɑː t̪ iː sil k ə m iː ʃ ə n sil k ɑː z k ɾ sil tʃ iː ɽ ɑː}|خود ہی تحقیقاتی کمیشن کا ذکر چھیڑا
+common_voice_ur_31824567|ur_trimmed|{ə ɡ ə ɾ sil iː s eː ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|اگر ایسے ہوتا ہے
+common_voice_ur_31823682|ur_trimmed|{ɑː p k oː sil s ə m ə dʒ ɑː j ɑː bʱ iː sil t̪ʰ ɑː m ə ɡ ə ɾ sil ɑː p n eː z ɑː ɦ ɪ ɾ k ə ɾ d̪ ə j ɑː}|آپ کو سمجھایا بھی تھا مگر آپ نے ظاہر کر دیا
+common_voice_ur_31823703|ur_trimmed|{ʈ iː n s ɪ s ʈ ɑː ɾ sil s ɑː n iː ɑː m ə ɾ z ɑː sil ɾ ɑː dʒ iː ʋ sil ɡ ɑː n d̪ʱ iː sil kʰ eː l sil ɾ ə t̪ n ɑː ə eː ʋ ɑː ɾ ɖ k eː l ɪ j eː n ɑː m z d̪}|ٹینس اسٹار ثانیہ مرزا راجیو گاندھی کھیل رتنا ایوارڈکیلئے نامزد
+common_voice_ur_31824189|ur_trimmed|{kʰ ə l ɑː ɽ iː k ɑː dʒ ə ɦ ɑː z sil s eː sil b ɑː l sil b ɑː s k ʈ sil k ə ɾ n eː k ɑː sil k ɑː ɾ n ɑː m ɑː}|کھلاڑی کا جہاز سے بال باسکٹ کرنے کا کارنامہ
+common_voice_ur_31823850|ur_trimmed|{m eː ɾ eː sil ə ɦ ɑ̃ː b ə tʃ ɑː sil ɦ õː eː sil ʋ ɑː l ɑː sil ɛː}|میرے ہاں بچہ ہونے والا ہے
+common_voice_ur_31823562|ur_trimmed|{f ɪ t̪ ɾ sil t̪ m ẽː sil t̪ eː ɾ n ɑː sil k ɑː ʃ ʋ q sil ɦ oː n ɑː ɦ oː n ɑː}|فطر ت میں تیرنا کا شوق ہونا ہونا
+common_voice_ur_31823529|ur_trimmed|{k ə ɾ ɑː tʃ iː spn sil k ə ɾ n ɑː sil ə m ɑ̃ː dʒ iː n ɑː sil dʒ ə ɦ iː z sil m ẽː sil l ɑː n ɑː ɦ oː n ɑː}|کراچی یِہ کرنا اماں جینا جہیز میں لانا ہونا
+common_voice_ur_31824226|ur_trimmed|{ɪ s eː sil ə ɾ s t̪ uː sil dʒ iː s ɑː sil ɪ s t̪ ɑː d̪ sil m ə l ɑː sil t̪ʰ ɑː}|اسے ارسطو جیسا استاد ملا تھا

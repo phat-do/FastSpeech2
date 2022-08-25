@@ -1,0 +1,188 @@
+common_voice_kk_24969925|kk_trimmed|{ɑ w z ə n d ɑ sil æ z ɪ l ɪ ʒ o q t ə ŋ q o l ə n d ɑ k j e l t j e ɡ ɪ b ɑ r}|аузында әзілі жоқтың қолында келтегі бар.
+common_voice_kk_24970473|kk_trimmed|{ɑ d ɑ m æ d j e t j e t j e d ɪ sil æ d j e t sil t ʏ p k j e ʒ j e t j e d ɪ}|адам әдет етеді, әдет түпке жетеді.
+common_voice_kk_24970494|kk_trimmed|{ɑ ʃ w t ə j u w t ɑ w ʒ ʊ t w}|ашу тыю - тау жұту.
+common_voice_kk_24970150|kk_trimmed|{ɑ b ə r o j d ə ɑ q o t ɑ w ʒ ɑ p t ə}|абыройды ақ отау жапты.
+common_voice_kk_24996410|kk_trimmed|{ʒ ɑ m ɑ n n ɑ n b i j q o j m ɑ sil k j e s ɪ m ɑ l ɑ d ə z ɑ l ə m n ɑ n sil q ɑ r ə z ɑ l m ɑ sil ʏ s ɪ m ɑ l ɑ d ə}|жаманнан би қойма, кесім алады, залымнан қарыз алма, өсім алады.
+common_voice_kk_24970474|kk_trimmed|{ɑ q ə l ʒ ɑ s t ɑ n ʃ ə ʁ ɑ d ə ɑ s ə l t ɑ s t ɑ n ʃ ə ʁ ɑ d ə}|ақыл жастан шығады, асыл тастан шығады.
+common_voice_kk_24970475|kk_trimmed|{k ʏ z k ʏ r m j e j k ʏ ŋ ɪ l s j e n b j e s}|көз көрмей, көңіл сенбес.
+common_voice_kk_24970313|kk_trimmed|{t ɪ l ɪ ŋ m j e n ʒ ʏ ɡ ɪ r m j e b ɪ l ɪ m m j e n ʒ ʏ ɡ ɪ r}|тіліңмен жүгірме, біліммен жүгір.
+common_voice_kk_24996248|kk_trimmed|{ɑ ʃ q ɑ q ɑ z ɑ n sil ɑ s t ə r m ɑ sil t o ŋ ʁ ɑ n ʁ ɑ o t ʒ ɑ q t ə r m ɑ}|ашқа қазан астырма, тоңғанға от жақтырма.
+common_voice_kk_24996347|kk_trimmed|{t o q ɑ l sil i j t t ɪ ŋ sil q ʊ j r ə ʁ ə}|тоқал - иттің құйрығы.
+common_voice_kk_24969929|kk_trimmed|{k ʏ z ɪ n ʃ j e m ɑ q t ɑ m ɑ s ə r t ə n ɑ n d ɑ t t ɑ m ɑ}|көзінше мақтама, сыртынан даттама.
+common_voice_kk_24970565|kk_trimmed|{ʃ j e t t j e ʒ ʏ r s j e ŋ t ɑ r ə ʁ ɑ r s ə ŋ sil t w ʁ ɑ n j e l d ɪ s ɑ ʁ ə n ɑ r s ə ŋ}|шетте жүрсең, тарығарсың, туған елді сағынарсың.
+common_voice_kk_24969626|kk_trimmed|{ʒ ɑ q s ə m j e n b ɪ r ɡ j e ʒ ʏ r s j e ŋ ʒ ɑ q s ə b o l ɑ r s ə ŋ}|жақсымен бірге жүрсең, жақсы боларсың.
+common_voice_kk_24969933|kk_trimmed|{ʊ j q ə ʒ ɑ s t ə q t ɑ l ʁ ɑ m ɑ j d ə}|ұйқы жастық талғамайды.
+common_voice_kk_24969724|kk_trimmed|{ɑ z d ɑ b ɪ t j e r sil k ʏ p t j e b ɪ t j e r sil t ɑ t w l ə q q ɑ n j e ʒ j e t j e r}|аз да бітер, көп те бітер, татулыққа не жетер.
+common_voice_kk_24996249|kk_trimmed|{k ʏ p o j n ɑ ʁ ɑ n b ɪ r ʒ ə l ɑ j d ə}|көп ойнаған бір жылайды.
+common_voice_kk_24996230|kk_trimmed|{o l ɑ q q ɑ t ə n sil o j m ɑ q ʃ ə l s ɑ l ɑ q q ɑ t ə n s ɑ w ə q ʃ ə l}|олақ қатын оймақшыл, салақ қатын сауықшыл.
+common_voice_kk_24969694|kk_trimmed|{ʒ ɑ q s ə n ə ŋ ʒ ɑ n ə ʁ ɑ n ə ʏ t j e r sil ʒ ɑ m ɑ n n ə ŋ q ɑ j r ɑ ʁ ɑ n ə ʏ t p j e s}|жақсының жанығаны өтер, жаманның қайрағаны өтпес.
+common_voice_kk_24970389|kk_trimmed|{ʒ ɑ q s ə q ɑ t ə n ʒ ʏ n q ɑ r ə z ɑ l ɑ d ə ʒ ɑ m ɑ n q ɑ t ə n s w q ɑ r ə z ɑ l ɑ d ə}|жақсы қатын жүн қарыз алады, жаман қатын су қарыз алады.
+common_voice_kk_24996247|kk_trimmed|{m ɑ χ ɑ ŋ sil ɑ q ɑ ŋ d j e j d ɪ sil ɑ q ɑ ŋ sil m ɑ χ ɑ ŋ d j e j d ɪ}|махаң ақаң дейді, ақаң махаң дейді.
+common_voice_kk_24969658|kk_trimmed|{s ə j l ɑ s w j e k ɪ k ɪ s ɪ ɡ j e b ɪ r d j e j}|сыйласу екі кісіге бірдей.
+common_voice_kk_24970524|kk_trimmed|{t ɪ l t ɑ s ʒ ɑ r ɑ d ə t ɑ s ʒ ɑ r m ɑ s ɑ b ɑ s ʒ ɑ r ɑ d ə}|тіл тас жарады, тас жармаса, бас жарады.
+common_voice_kk_24970566|kk_trimmed|{q ɑ t ə n ʏ l s j e ʏ j ɪ ŋ k j e t j e d ɪ b ɑ s ə ŋ n ɑ n k ʏ j ɪ ŋ k j e t j e d ɪ}|қатын өлсе, үйің кетеді, басыңнан күйің кетеді.
+common_voice_kk_24970311|kk_trimmed|{o t ə r ʁ ɑ n q ə z o r n ə n t ɑ b ɑ r}|отырған қыз орнын табар.
+common_voice_kk_24970388|kk_trimmed|{q ɑ z ɑ n ə ŋ ɑ z ɑ b ə n q ɑ r ɑ l ə b ɪ l j e d ɪ}|қазаның азабын қаралы біледі.
+common_voice_kk_24970315|kk_trimmed|{ʒ ɑ ʁ ɑ s ə ʒ ɑ j l ɑ w j e t j e ɡ ɪ q ə s t ɑ w}|жағасы - жайлау, етегі - қыстау.
+common_voice_kk_24970752|kk_trimmed|{j e r ʒ ɪ ɡ ɪ t k j e ʏ l ɪ m b ɑ r d ɑ q o r l ə q ʒ o q}|ер жігітке өлім бар да, қорлық жоқ.
+common_voice_kk_24996245|kk_trimmed|{q ə ŋ ə r k ɪ s ɪ d j e n t ʏ z w s ʏ z ʃ ə q p ɑ j d ə}|қыңыр кісіден түзу сөз шықпайды.
+common_voice_kk_24996447|kk_trimmed|{ɑ q ə l d ə ʏ t ɪ r ɪ k sil ʃ ɑ r ʃ ɑ t ɑ d ə}|ақылды өтірік шаршатады.
+common_voice_kk_24970527|kk_trimmed|{q o r q ɑ q t ə ŋ q o l ə q ə s q ɑ}|қорқақтың қолы қысқа.
+common_voice_kk_24969779|kk_trimmed|{ɑ ʃ t ə q j e ŋ b j e k k j e r d ɪ ŋ t j e r j e z j e s ɪ n j e n sil ʏ ŋ ɪ l ɡ j e n m j e n sil ʏ j ɪ n j e b ɑ s s ʊ ʁ ɑ ɑ l m ɑ j d ə}|аштық еңбеккердің терезесінен үңілгенмен, үйіне бас сұға алмайды.
+common_voice_kk_24969679|kk_trimmed|{b ɑ j l ə q m ʊ r ɑ t j e m j e s ʒ ɑ r l ə l ə q ʊ j ɑ t j e m j e s}|байлық мұрат емес, жарлылық ұят емес.
+common_voice_kk_24969741|kk_trimmed|{w ʒ ɑ s ɑ ʁ ɑ n w d ɑ n ʏ l j e d ɪ sil n ɑ j z ɑ ʊ s t ɑ ʁ ɑ n ʒ ɑ w d ɑ n ʏ l j e d ɪ}|у жасаған удан өледі, найза ұстаған жаудан өледі.
+common_voice_kk_24970095|kk_trimmed|{ɑ q q w q ʊ s t ə ŋ sil t ʏ r j e s ɪ sil ʒ ɑ l ʁ ə z ʒ ʏ r ɪ p o t t ɑ m ɑ s}|аққу - құстың төресі, жалғыз жүріп оттамас.
+common_voice_kk_24969949|kk_trimmed|{ʒ o l ʁ ɑ ʃ ə q s ɑ ŋ ʒ o l d ɑ s ə ŋ d ə s ɑ j l ɑ p ɑ l}|жолға шықсаң, жолдасыңды сайлап ал.
+common_voice_kk_24970147|kk_trimmed|{ɑ r ɑ q p j e n q ʊ ʃ ɑ q t ɑ s t ə m d j e ɡ j e n ʃ j e ɑ q ə l m j e n q o ʃ t ɑ s t ə m d j e}|арақпен құшақтастым дегенше, ақылмен қоштастым де.
+common_voice_kk_24970385|kk_trimmed|{ʏ l ɪ b ʏ r ɪ n ɪ i j t sil ɑ t t ɑ m ɑ s}|өлі бөріні ит аттамас.
+common_voice_kk_24969932|kk_trimmed|{ʏ z ɪ n ɪ k ɪ ʏ z ɪ n j e o t t ɑ j sil ə s s ə}|өзінікі өзіне оттай ыссы.
+common_voice_kk_24970435|kk_trimmed|{æ w l i j e sil ɑ j ɑ n ə ŋ ʏ z ɪ ŋ j e sil q ɑ m ʃ ə m d ə b j e r}|әулие, аяның өзіңе, қамшымды бер.
+common_voice_kk_24969931|kk_trimmed|{b ɑ t ə r t ʏ s ɪ n d j e ʒ ɑ w k ʏ r j e d ɪ sil b ɑ l ə q ʃ ə t ʏ s ɪ n d j e ɑ w k ʏ r j e d ɪ}|батыр түсінде жау көреді, балықшы түсінде ау көреді.
+common_voice_kk_24970699|kk_trimmed|{ʒ ɑ m ɑ n q o n ə s t ɑ n ʒ ɑ q s ə ʒ ʏ r ɪ s ɑ r t ə q}|жаман қоныстан жақсы жүріс артық.
+common_voice_kk_24996368|kk_trimmed|{s ɑ w b ɑ s ə ŋ ɑ s ɑ q i j n ɑ t ɪ l j e m j e}|сау басыңа сақина тілеме.
+common_voice_kk_24969796|kk_trimmed|{i j t sil o p ɑ q ɑ t ə n q ɑ p ɑ}|ит - опа, қатын - қапа.
+common_voice_kk_24969926|kk_trimmed|{ɑ z s ʏ z ɑ l t ə n k ʏ p s ʏ z k ʏ m ɪ r}|аз сөз - алтын, көп сөз - көмір.
+common_voice_kk_24996232|kk_trimmed|{ɑ ʃ ɑ d ɑ m ʊ r ə s q ɑ q sil ɑ r ə q ɑ d ɑ m t ə r ə s q ɑ q}|аш адам ұрысқақ, арық адам тырысқақ.
+common_voice_kk_24970492|kk_trimmed|{ɑ q ə l d ɑ b ɑ ʁ ɑ ʒ o q t æ r b i j j e d j e ʃ j e k ʒ o q}|ақылда баға жоқ, тәрбиеде шек жоқ.
+common_voice_kk_24969742|kk_trimmed|{ʒ o l d ɑ s ə n t ɑ s t ɑ ʁ ɑ n ʒ o l d ɑ q ɑ l ɑ r}|жолдасын тастаған жолда қалар.
+common_voice_kk_24996168|kk_trimmed|{ʏ z ʊ j ɑ t ə n b ɪ l ɡ j e n k ɪ s ɪ sil b ɪ r k ɪ s ɪ ɡ j e t ʏ r j e l ɪ k sil b j e r j e d ɪ}|өз ұятын білген кісі бір кісіге төрелік береді.
+common_voice_kk_24969740|kk_trimmed|{j e t ɪ ɡ ɪ ŋ t ɑ r b o l s ɑ d ʏ n i j j e n ɪ ŋ k j e ŋ d ɪ ɡ ɪ n j e n n j e p ɑ j d ɑ}|етігің тар болса, дүниенің кеңдігінен не пайда.
+common_voice_kk_24996209|kk_trimmed|{s o q ə r t ɑ w ə q q ɑ sil b æ r ɪ sil b i j d ɑ j}|соқыр тауыққа бәрі бидай.
+common_voice_kk_24970152|kk_trimmed|{i j t ɑ t ɑ s ə n t ɑ n ə m ɑ s}|ит атасын танымас.
+common_voice_kk_24969797|kk_trimmed|{ʒ ɑ m ɑ n d ə ʁ ə s j e z ɪ l s j e sil ʒ ɑ q ə n k ɪ s ɪ ŋ ʒ ɑ t b o l ɑ r}|жамандығы сезілсе, жақын кісің жат болар.
+common_voice_kk_24970434|kk_trimmed|{ɑ t t ə ŋ s ə r ə i j j e s ɪ n j e m æ l ɪ m}|аттың сыры иесіне мәлім.
+common_voice_kk_24996408|kk_trimmed|{ʒ ɑ m ɑ n sil q o j ʃ ə sil ʒ ɑ j l ɑ w ə n b ɪ r sil k ʏ n sil ʒ j e j d ɪ sil ʒ ɑ q s ə q o j ʃ ə sil ʒ ɑ j l ɑ w ə n m ə ŋ k ʏ n ʒ j e j d ɪ}|жаман қойшы жайлауын бір күн жейді, жақсы қойшы жайлауын мың күн жейді.
+common_voice_kk_24982353|kk_trimmed|{ɑ q ə l ɑ l s ɑ ŋ ɑ z b ɑ s s ə ŋ sil k ʏ p t ɪ k ʏ r ɡ j e n k ʏ n j e d j e n}|ақыл алсаң, азбассың, көпті көрген көнеден.
+common_voice_kk_24970341|kk_trimmed|{k ʏ r j e s j e r ɡ j e d æ r m j e n ʒ o q sil ɪ ʃ q ɑ z ɑ n d ɑ j q ɑ j n ɑ j d ə}|күресерге дәрмен жоқ, іш қазандай қайнайды.
+common_voice_kk_24969780|kk_trimmed|{m ɑ l b ɪ t p j e ɡ j e n m ɑ l d ɑ n ʏ m ɪ t k j e r ʒ ɑ n ə ʃ ə q p ɑ ʁ ɑ n ʒ ɑ n n ɑ n ʏ m ɪ t k j e r}|мал бітпеген малдан үміткер, жаны шықпаған жаннан үміткер.
+common_voice_kk_24969695|kk_trimmed|{b i j t k j e ʏ k p j e l j e p sil t o n ə ŋ d ə o t q ɑ s ɑ l m ɑ}|битке өкпелеп, тоныңды отқа салма.
+common_voice_kk_24996449|kk_trimmed|{t o j m ɑ s q ɑ b j e r m j e sil t o l m ɑ s q ɑ sil q ʊ j m ɑ sil t o j ʃ ə l b o l ʁ ɑ n ʃ ɑ o j ʃ ə l b o l}|тоймасқа берме, толмасқа құйма, тойшыл болғанша, ойшыл бол.
+common_voice_kk_24969781|kk_trimmed|{ʊ s t ɑ sil ʊ s t ɑ d ɑ n n ʊ s q ɑ}|ұста, ұстадан нұсқа.
+common_voice_kk_24969682|kk_trimmed|{æ d ɪ l b i j χ ɑ l q ə ʏ ʃ ɪ n sil z ɑ l ə m b i j q ʊ l q ə n ə ʏ ʃ ɪ n}|әділ би халқы үшін, залым би құлқыны үшін.
+common_voice_kk_24970496|kk_trimmed|{j e k ɪ t j e n t j e k k j e z d j e s s j e t ʏ b j e l j e s p j e j t ɑ r q ɑ m ɑ j d ə}|екі тентек кездессе, төбелеспей тарқамайды.
+common_voice_kk_24970470|kk_trimmed|{t ʏ j j e n ɪ ŋ b ʏ r ɪ k k j e n ɪ t ʏ k ɪ r ɡ j e n ɪ}|түйенің бүріккені - түкіргені.
+common_voice_kk_24996351|kk_trimmed|{ʒ j e t j e l j e ɡ j e n t ʏ b j e t sil q o r ɑ ʁ ɑ sil ʏ r m j e s}|жетелеген төбет қораға үрмес.
+common_voice_kk_24969872|kk_trimmed|{k ʏ p k j e t o p ə r ɑ q ʃ ɑ ʃ ɑ ɑ l m ɑ j s ə ŋ}|көпке топырақ шаша алмайсың.
+common_voice_kk_24969697|kk_trimmed|{ʒ ɑ s t ə q t ɑ d ɑ k æ r ɪ l ɪ k t ʊ r sil b ɑ j l ə q t ɑ d ɑ ʒ ɑ r l ə l ə q t ʊ r}|жастықта да кәрілік тұр, байлықта да жарлылық тұр.
+common_voice_kk_24969627|kk_trimmed|{k ʏ p ʒ ʏ r ɡ j e n ʒ j e r d j e b j e r j e k j e ʒ ʏ r j e d ɪ}|көп жүрген жерде береке жүреді.
+common_voice_kk_24970097|kk_trimmed|{ʒ ɑ m ɑ n k ʏ r ʃ ɪ s ə r ə ŋ d ə s ə r t q ɑ ʒ ɑ j ɑ d ə}|жаман көрші сырыңды сыртқа жаяды.
+common_voice_kk_24970073|kk_trimmed|{ʏ t k ɪ r q ə l ə ʃ t æ n d ɪ ʒ ɑ r ɑ l ɑ j d ə ʏ t k ɪ r s ʏ z ʒ ɑ n d ə ʒ ɑ r ɑ l ɑ j d ə}|өткір қылыш тәнді жаралайды, өткір сөз жанды жаралайды.
+common_voice_kk_24969766|kk_trimmed|{ɑ ʁ ɑ m n ə ŋ æ j j e l ɪ n j e k ʏ ŋ ɪ l ɑ w d ɑ r m ɑ}|ағамның әйеліне көңіл аударма.
+common_voice_kk_24970530|kk_trimmed|{ɑ n t ʊ r m ɑ j ɑ t ʒ ə ʁ ə l m ɑ s}|ант ұрмай ат жығылмас.
+common_voice_kk_24982349|kk_trimmed|{ʒ ɑ q s ə m j e n ʒ o l d ɑ s b o l s ɑ ŋ n æ s ɪ b ɪ ʒ ʊ ʁ ɑ r}|жақсымен жолдас болсаң, нәсібі жұғар.
+common_voice_kk_24970529|kk_trimmed|{i z d j e ɡ j e n m ə q ɑ n ɑ ʁ ɑ ʃ ə n t ɑ b ɑ d ə}|iздеген мықан ағашын табады.
+common_voice_kk_24969782|kk_trimmed|{j e s ɪ k k ʏ r ɡ j e n d ɪ ɑ l m ɑ b j e s ɪ k k ʏ r ɡ j e n d ɪ ɑ l}|есік көргенді алма, бесік көргенді ал.
+common_voice_kk_24970700|kk_trimmed|{s i j ə r s w d ɑ n ʒ j e r i j d ɪ s w s i j ə r d ɑ n ʒ j e r i j d ɪ}|сиыр судан жериді, су сиырдан жериді.
+common_voice_kk_24970151|kk_trimmed|{t ʏ j j e q ɑ r ɑ p ʒ ʏ r ɪ p χ ɑ n ʁ ɑ ʒ ɑ s ɑ w ə l b o l d ə m}|түйе қарап жүріп, ханға жасауыл болдым.
+common_voice_kk_24970701|kk_trimmed|{b j e j b ɪ t ʃ ɪ l ɪ k ʒ o l ə n d ɑ ʒ ɑ n b j e r s j e ŋ d j e sil q o r ə n b ɑ}|бейбітшілік жолында жан берсең де, қорынба.
+common_voice_kk_24970391|kk_trimmed|{b j e j b ɪ t ʃ ɪ l ɪ k ʏ m ɪ r t ə n ə s ə b ɑ j l ə q sil j e l ə r ə s ə}|бейбітшілік - өмір тынысы, байлық - ел ырысы.
+common_voice_kk_24969659|kk_trimmed|{ɑ r ʁ ə m ɑ q ɑ t t ə ŋ t ʊ j ɑ ʁ ə t ɑ s t ə b ɑ s s ɑ sil k j e t ɪ l j e r sil s ɑ z d ə b ɑ s s ɑ ʒ j e t ɪ l j e r}|арғымақ аттың тұяғы тасты басса, кетілер, сазды басса, жетілер.
+common_voice_kk_24969930|kk_trimmed|{b o l ɑ r ɪ s b o l d ə sil b o j ɑ w ə s ɪ ŋ d ɪ}|болар іс болды, бояуы сіңді.
+common_voice_kk_24969625|kk_trimmed|{ɑ t ʒ ɑ m ɑ n ə t ɑ j m j e n o j n ɑ r sil q ɑ t ə n ʒ ɑ m ɑ n ə b ɑ j ə m j e n o j n ɑ r}|ат жаманы таймен ойнар, қатын жаманы байымен ойнар.
+common_voice_kk_24969681|kk_trimmed|{ɑ d ɑ m k ʏ n ɪ ɑ d ɑ m m j e n}|адам күні адаммен.
+common_voice_kk_24996234|kk_trimmed|{q ə z t ɑ ŋ d ɑ ʁ ɑ n ʒ ɪ ɡ ɪ t t ɪ q ə z d ɑ ɑ ŋ d ɑ j d ə}|қыз таңдаған жігітті қыз да аңдайды.
+common_voice_kk_24970387|kk_trimmed|{b ɪ r l ɪ k t j e n b j e z d ɪ r j e t ɪ n d j e æ j j e l s ʊ m d ə q t ə s j e z d ɪ r j e t ɪ n d j e æ j j e l}|бірліктен бездіретін де әйел, сұмдықты сездіретін де әйел.
+common_voice_kk_24996413|kk_trimmed|{ʒ ɑ q s ə l ə q sil k ʏ r ɡ j e n ʒ j e r ɪ ŋ j e j e ŋ b j e k t j e d j e ʒ j e t}|жақсылық көрген жеріңе еңбекте де жет.
+common_voice_kk_24969725|kk_trimmed|{ʒ ɑ m ɑ n j e r d j e n ʒ ɑ j d ɑ ʁ ə m ʒ ɑ q s ə sil ʒ ɑ m ɑ n q ɑ t ə n n ɑ n b o j d ɑ ʁ ə m ʒ ɑ q s ə}|жаман ерден жайдағым жақсы, жаман қатыннан бойдағым жақсы.
+common_voice_kk_24970094|kk_trimmed|{ʒ ɪ ɡ ɪ t t ɪ ŋ t æ w ɪ p j e m j e s t ɪ ɡ ɪ b j e t ɪ n d j e ɡ ɪ b j e z j e w ɪ n j e n b ɪ l ɪ n j e d ɪ}|жігіттің тәуіп еместігі бетіндегі безеуінен білінеді.
+common_voice_kk_24969902|kk_trimmed|{k ʏ z k ʏ r s j e sil ʒ ʏ z sil ʊ j ɑ l ɑ r}|көз көрсе, жүз ұялар.
+common_voice_kk_24970531|kk_trimmed|{b ɪ r ɪ n ʒ ɑ s ə r ə p ɑ l ʁ ɑ n sil b ɪ r ɪ n b ɑ s ə n ə p ɑ l ʁ ɑ n}|бірін жасырып алған, бірін басынып алған.
+common_voice_kk_24969660|kk_trimmed|{ɑ r ɑ d ɑ n q o r ə q p ɑ sil ʒ ɑ l ɑ d ɑ n q o r ə q}|арадан қорықпа, жаладан қорық.
+common_voice_kk_24970029|kk_trimmed|{ɑ q ə m ɑ q b o l s ɑ sil q o n ɑ ʁ ə sil i j j e s ɪ n ʒ j e d j e p z o r l ɑ j d ə}|ақымақ болса қонағы, иесін же деп зорлайды.
+common_voice_kk_24969826|kk_trimmed|{ɑ w z ə t ə n b ɑ ʁ ɑ n n ə ŋ ɑ j ɑ ʁ ə t ə n b ɑ s}|аузы тынбағанның аяғы тынбас.
+common_voice_kk_24969727|kk_trimmed|{ʒ ɑ m ɑ n d ə q t ə k ʏ p sil q w ʁ ɑ n sil p æ l j e ɡ j e ʒ o l ə ʁ ɑ r}|жамандықты көп қуған пәлеге жолығар.
+common_voice_kk_24969821|kk_trimmed|{b ɑ l ɑ s o q q ɑ n k j e z d ɪ k t ɪ ŋ b ɑ s ə ʒ ɑ r ə q}|бала соққан кездіктің басы жарық.
+common_voice_kk_24969795|kk_trimmed|{b ɪ r j e t ɪ k k j e j e k ɪ ɑ j ɑ q s i j m ɑ s}|бір етікке екі аяқ симас.
+common_voice_kk_24970308|kk_trimmed|{ʒ ɑ r ɑ ʁ ɑ n ɑ t k ʏ z ɪ ŋ j e q ɑ r ɑ j d ə}|жараған ат көзіңе қарайды.
+common_voice_kk_24969794|kk_trimmed|{q i j ə n d ə q k ʏ r ɡ j e n q i j ə n n ɑ n ʏ t k j e n}|қиындық көрген - қиыннан өткен.
+common_voice_kk_24969899|kk_trimmed|{s ɑ q t ɑ n ʁ ɑ n d ə q ʊ d ɑ j s ɑ q t ɑ r}|сақтанғанды құдай сақтар.
+common_voice_kk_24982395|kk_trimmed|{ʒ ʏ r j e ɡ ɪ ŋ d ɪ ʃ j e m j e n d j e j t ɪ n d j e d j e r t ɪ ŋ d ɪ ʃ j e ɡ j e l j e j t ɪ n d j e d ʊ ʃ p ɑ n}|жүрегіңді шемендейтін де, дертіңді шегелейтін де дұшпан.
+common_voice_kk_24969851|kk_trimmed|{k j e ʃ ɪ r ɪ ŋ ɪ z sil b ʊ d ɑ n æ r ɪ sil ʏ z ɪ ŋ ɪ z s ʏ j l j e s ɪ ŋ ɪ z}|кешіріңіз, бұдан әрі өзіңіз сөйлесіңіз.
+common_voice_kk_24996450|kk_trimmed|{ʒ ʏ j r ɪ k t ɪ k j e k ɪ l sil q ɑ ʁ ə s ə n ɑ n b ɑ j q ɑ j d ə}|жүйрікті кекіл қағысынан байқайды.
+common_voice_kk_24969623|kk_trimmed|{ɑ r ɑ q ɑ w ə z d ɑ n k ɪ r j e d ɪ sil ɑ j ɑ q t ɑ n ʒ ə ʁ ɑ d ə}|арақ ауыздан кіреді, аяқтан жығады.
+common_voice_kk_24996367|kk_trimmed|{ɑ l ʁ ɑ ʃ k ʏ z j e t k j e j ɪ n t ʏ z j e t}|алғаш күзет, кейін түзет.
+common_voice_kk_24982391|kk_trimmed|{ʒ ɪ ɡ ɪ t t ɪ sil t o q t ə q sil q o s ɑ d ə t o q t ə q sil q o s p ɑ s ɑ ʒ o q t ə q sil q o s ɑ d ə}|жігітті тоқтық қосады, тоқтық қоспаса, жоқтық қосады.
+common_voice_kk_24969897|kk_trimmed|{s ɑ q t ə q t ə s o q ə r d ɑ n ʏ j r j e n sil k ɪ ʃ ɪ l ɪ k t ɪ t ʏ j j e d j e n ʏ j r j e n}|сақтықты соқырдан үйрен, кішілікті түйеден үйрен.
+common_voice_kk_24982352|kk_trimmed|{ɑ s ə q p ɑ ʁ ɑ n ɑ r t t ɑ q ɑ l ɑ d ə}|асықпаған артта қалады.
+common_voice_kk_24969816|kk_trimmed|{b ɑ s ə n ɑ b ɑ q q o n ɑ t ə n ʒ ɪ ɡ ɪ t t ɪ ŋ ʊ l ə j e p t ɪ b o l ɑ d ə q ə z ə b j e t t ɪ b o l ɑ d ə}|басына бақ қонатын жігіттің ұлы епті болады, қызы бетті болады.
+common_voice_kk_24970027|kk_trimmed|{ɑ ʁ ə n s w d ɑ ɑ r ɑ m d ə q ʒ o q}|ағын суда арамдық жоқ.
+common_voice_kk_24969934|kk_trimmed|{ɑ t ɑ r ə s ɑ sil t w l ɑ q j e r ɑ r ə s ɑ sil æ r w ɑ q}|ат арыса - тулақ, ер арыса - әруақ.
+common_voice_kk_24970344|kk_trimmed|{ɑ l q ɑ z ɪ r n j e i j æ n j e ʒ o q d j e p ʒ ɑ w ɑ p b j e r}|"ал қазір не "иә", не "жоқ" деп жауап бер."
+common_voice_kk_24969831|kk_trimmed|{ɑ d ɑ m ʒ ʊ m ə s t ɑ n ɑ z b ɑ j d ə t ʊ r m ə s t ɑ n ɑ z ɑ d ə}|адам жұмыстан азбайды, тұрмыстан азады.
+common_voice_kk_24969709|kk_trimmed|{d o ŋ ə z d ə ŋ ɑ l d ə n d ɑ sil d o m b ə r ɑ t ɑ r t p ɑ}|доңыздың алдында домбыра тартпа.
+common_voice_kk_24970751|kk_trimmed|{ʒ o ʁ ɑ r ʁ ə n ə k ʏ r ɪ p p ɪ k ɪ r j e t t ʏ m j e n ɡ ɪ n ɪ k ʏ r ɪ p ʃ ʏ k ɪ r j e t}|жоғарғыны көріп пікір ет, төменгіні көріп шүкір ет.
+common_voice_kk_24969711|kk_trimmed|{q o j ʃ j e l d ɪ b o l m ɑ j sil t ʏ l d ɪ b o l m ɑ j d ə}|қой шелді болмай, төлді болмайды.
+common_voice_kk_24969763|kk_trimmed|{ʒ ɑ q s ə l ə q t ə k ʏ p q w ʁ ɑ n b ɑ j l ə q q ɑ ʒ o l ə ʁ ɑ r}|жақсылықты көп қуған байлыққа жолығар.
+common_voice_kk_24969875|kk_trimmed|{æ r k ɪ m ʒ o l d ɑ s b o l ɑ d ə ɑ m ɑ n d ə q t ɑ ʒ ɑ q s ə ʒ ɑ m ɑ n b ɪ l ɪ n j e r ʒ ɑ m ɑ n d ə q t ɑ}|әркім жолдас болады амандықта, жақсы-жаман білінер жамандықта.
+common_voice_kk_24969877|kk_trimmed|{d o s b j e r ɡ j e n ɪ n ɪ ŋ t ʏ s ɪ n j e q ɑ r ɑ m ɑ s}|дос бергенінің түсіне қарамас.
+common_voice_kk_24969680|kk_trimmed|{q ɑ w ʁ ɑ d ɑ n ʃ o ʃ ə n ʁ ɑ n m ɑ l o ŋ b ɑ s ʒ ɑ w d ɑ n ʃ o ʃ ə ʁ ɑ n j e r o ŋ b ɑ s}|қауғадан шошынған мал оңбас, жаудан шошыған ер оңбас.
+common_voice_kk_24969873|kk_trimmed|{b ɪ l j e t ʊ ʁ ə n n ɑ n d ɑ ʏ t j e r b ɪ r ɪ s b ɪ l m j e j t ʊ ʁ ə n n ɑ n d ɑ sil ʏ t j e r b ɪ r ɪ s}|білетұғыннан да өтер бір іс, білмейтұғыннан да өтер бір іс.
+common_voice_kk_24969726|kk_trimmed|{ɑ s p ɑ z d ə ŋ q ɑ r n ə sil ɑ s q ɑ n ə n ɑ t o j ɑ d ə}|аспаздың қарны асқанына тояды.
+common_voice_kk_24969624|kk_trimmed|{t ɑ r t ə n ə p sil ʏ z ɡ j e n sil ʃ ɑ b ɑ n n ə ŋ ɪ s ɪ sil ʏ t k ɪ z ɪ p sil q w ʁ ɑ n sil ʒ ɑ m ɑ n n ə ŋ ɪ s ɪ}|тартынып үзген - шабанның ісі, өткізіп қуған - жаманның ісі.
+common_voice_kk_24970072|kk_trimmed|{o t ə z k ʏ n o r ɑ z ɑ n ə ŋ b ɪ r ɑ j t ə b ɑ r sil æ r q ə l ʁ ɑ n ʒ ɑ q s ə l ə q t ə ŋ b ɪ r q ɑ j t ə m ə b ɑ r}|отыз күн оразаның бір айты бар, әр қылған жақсылықтың бір қайтымы бар.
+common_voice_kk_24996384|kk_trimmed|{ʏ z ɪ n j e ʏ z ɪ ʏ k p j e l j e ɡ j e n sil b ɪ l ɪ m sil b ɑ r l ə ʁ ə sil ʏ z ɪ m n j e n ɑ r t ə q ʒ o q d j e ɡ j e n ɪ sil k ʏ ŋ ɪ l ɪ t ɑ r l ə ʁ ə}|өзіне-өзі өкпелеген - білім барлығы, өзімнен артық жоқ дегені - көңілі тарлығы.
+common_voice_kk_24969661|kk_trimmed|{ʏ n j e r ɑ ʁ ə p ʒ ɑ t q ɑ n b ʊ l ɑ q sil ɪ l ɪ m sil ʒ ɑ n ə p t ʊ r ʁ ɑ n ʃ ə r ɑ q}|өнер - ағып жатқан бұлақ, ілім - жанып тұрған шырақ.
+common_voice_kk_24996369|kk_trimmed|{m ə q t ə l ə q ʒ ʊ d ə r ə q t ɑ j e m j e s ʒ ə l ə s ʏ z d j e}|мықтылық жұдырықта емес, жылы сөзде.
+common_voice_kk_24970430|kk_trimmed|{k ʏ z t ɑ r ɑ z ə k ʏ ŋ ɪ l q ɑ z ə}|көз - таразы, көңіл - қазы.
+common_voice_kk_24996451|kk_trimmed|{ʒ ɑ l ʁ ə z m ɑ j ɑ q ɑ j ə m ɑ s sil ʒ ɑ l ʁ ə z ʒ ɪ ɡ ɪ t b ɑ j ə m ɑ s}|жалғыз мая қайымас, жалғыз жігіт байымас.
+common_voice_kk_24969850|kk_trimmed|{ʏ z ɪ ʒ ɑ m ɑ n t w ʁ ɑ n ʃ j e ʃ j e s ɪ n j e n k ʏ r j e d ɪ d ɑ w ɑ j t ɑ b ɪ l m j e ɡ j e n t ʏ r j e ʃ ɪ d j e n k ʏ r j e d ɪ}|өзі жаман туған шешесінен көреді, дау айта білмеген төрешіден көреді.
+common_voice_kk_24970028|kk_trimmed|{m ɑ s t ə q sil ʏ z ɪ n j e ʏ z ɪ ʒ ɑ s ɑ ʁ ɑ n q ɑ s t ə q}|мастық - өзіне-өзі жасаған қастық.
+common_voice_kk_24996206|kk_trimmed|{ɪ s m j e r d ɪ ŋ b ɑ j l ə ʁ ə q o l ə n d ɑ j e r d ɪ ŋ b ɑ j l ə ʁ ə ʒ o l ə n d ɑ}|ісмердің байлығы қолында, ердің байлығы жолында.
+common_voice_kk_24996207|kk_trimmed|{b ɑ l ə q ʒ j e ɡ j e n b ɑ ʁ ə s p ɑ s sil ʒ ɑ n ʒ ɑ ʁ ə n ɑ q ɑ ʁ ə s p ɑ s}|балық жеген бағыспас, жан-жағына қағыспас.
+common_voice_kk_24982394|kk_trimmed|{ʒ o l d ɑ s ə ʒ ɑ q s ə n ə ŋ o l ʒ ɑ s ə ʒ ɑ q s ə}|жолдасы жақсының олжасы жақсы.
+common_voice_kk_24996350|kk_trimmed|{k ʏ ŋ ɪ l s ɪ z j e r ɡ j e q ɑ r w b j e r ɡ j e n ʃ j e sil k ʏ s j e w b j e r}|көңілсіз ерге қару бергенше, көсеу бер.
+common_voice_kk_24996448|kk_trimmed|{k ʏ ŋ ɪ l d ɑ r i j j ɑ k ʏ z n ɑ j z ɑ}|көңіл - дария, көз - найза.
+common_voice_kk_24996208|kk_trimmed|{b ɑ z ɑ r b ɑ j ɑ l w ʃ ə k j e d j e j}|базар - бай, алушы - кедей.
+common_voice_kk_24970347|kk_trimmed|{ɑ q i j t q ɑ r ɑ i j t b æ r ɪ b ɪ r i j t}|ақ ит, қара ит - бәрі бір ит.
+common_voice_kk_24996374|kk_trimmed|{q o n ɑ q ɑ s ə n t æ ŋ ɪ r ɪ sil ʏ t j e j d ɪ sil k j e l j e m ɪ n sil d j e s j e ə q ə l ɑ s t ə q sil k j e l m j e j m ɪ n d j e s j e ʒ o l ɑ ʃ ə q}|қонақ асын тәңірі өтейді, келемін десе, ықыластық, келмеймін десе, жол ашық.
+common_voice_kk_24969662|kk_trimmed|{q ɑ z ɑ q s o q q ɑ n q ɑ l ə ŋ n ɑ n sil b j e s q ɑ l ɑ ʁ ɑ m æ l ɪ m n ɑ n}|қазақ соққан қалың нан, бесқалаға мәлім нан.
+common_voice_kk_24970568|kk_trimmed|{ɑ l t ə ʒ ə l ɑ ʃ b o l s ɑ ŋ d ɑ ɑ t ɑ ŋ n ə ŋ æ d j e t ɪ n t ɑ s t ɑ m ɑ}|алты жыл аш болсаң да, атаңның әдетін тастама.
+common_voice_kk_24969898|kk_trimmed|{ɑ w r w j e m j e s ʒ ə n j e m j e s m ɪ n j e z d ɪ q ɑ j t ɪ p ʒ ɑ z ɑ m ə z}|ауру емес, жын емес, мінезді қайтіп жазамыз?
+common_voice_kk_24969928|kk_trimmed|{ʒ ɑ q s ə n ə ŋ s ʏ z ɪ ʃ ɑ m d ɑ j ʒ ɑ r ə q sil ɑ j d ɑ j ɑ n ə q}|жақсының сөзі - шамдай жарық, айдай анық.
+common_voice_kk_24996389|kk_trimmed|{b ɑ t ə r d j e ɡ j e n sil b ɑ r ɑ q i j t sil j e k ɪ q ɑ t ə n n ə ŋ sil b ɪ r ɪ sil t ɑ b ɑ d ə}|батыр деген барақ ит, екі қатынның бірі табады.
+common_voice_kk_24970343|kk_trimmed|{ɑ l ʁ ɑ n ə s ə r l ɑ s q o s ə l s ɑ m o l b o l m ɑ s q ɑ n j e m j e n j e}|алғаны сырлас қосылса, мол болмасқа немене.
+common_voice_kk_24996246|kk_trimmed|{j e r k j e b ɑ l ɑ d ɑ n j e s j e r b ɑ l ɑ ʒ ɑ q s ə}|ерке баладан есер бала жақсы.
+common_voice_kk_24969739|kk_trimmed|{s ʏ z m æ n ɪ s ɪ n b ɪ l m j e ɡ j e n s ʏ z d ɪ ʏ z ɪ n j e k j e l t ɪ r j e r}|сөз мәнісін білмеген сөзді өзіне келтірер.
+common_voice_kk_24969946|kk_trimmed|{ʒ ɑ l ʁ ə z ɑ ʁ ɑ ʃ p ɑ n ɑ b o l m ɑ s ʒ ɑ l ʁ ə z b i j j e ɡ j e s ɑ b ɑ t o l m ɑ s}|жалғыз ағаш пана болмас, жалғыз биеге саба толмас.
+common_voice_kk_24970705|kk_trimmed|{ʃ ɑ r ɑ p ɑ q ə l ə ŋ d ə q o j m ɑ j d ə b ɑ j l ə ʁ ə ŋ d ə t o n ɑ j d ə}|шарап ақылыңды қоймайды, байлығыңды тонайды.
+common_voice_kk_24970432|kk_trimmed|{ʏ l ɪ p ʏ s k j e n m ɑ l ʁ ɑ s ʏ j ɪ n sil ʏ l m j e j ʏ s k j e n b ɑ s q ɑ s ʏ j ɪ n}|өліп өскен малға сүйін, өлмей өскен басқа сүйін.
+common_voice_kk_24996165|kk_trimmed|{j e r d ɪ ŋ sil ɪ s ɪ t æ w j e k j e l}|ердің ісі - тәуекел.
+common_voice_kk_24969948|kk_trimmed|{s j e n o q ə s ɑ ŋ m j e n t o q ə ʁ ɑ m}|сен оқысаң, мен тоқығам.
+common_voice_kk_24969853|kk_trimmed|{ɑ ʁ ɑ ʃ k j e s s j e ŋ ʊ z ə n k j e s sil ʃ ɑ b ɑ k j e l j e q ə s q ɑ r ɑ r}|ағаш кессең, ұзын кес - шаба келе қысқарар.
+common_voice_kk_24969878|kk_trimmed|{ɑ ʒ ɑ r l ə m ɑ l b ɑ z ɑ r l ə}|ажарлы мал базарлы.
+common_voice_kk_24970493|kk_trimmed|{j e k ɪ ʒ ɑ q s ə q o s ə l s ɑ ɑ j ə r ə l ə s w ʁ ɑ q i j ə s p ɑ j d ə sil j e k ɪ ʒ ɑ m ɑ n q o s ə l s ɑ k j e ŋ d ʏ n i j j e ɡ j e s i j ə s p ɑ j d ə}|екі жақсы қосылса, айырылысуға қиыспайды, екі жаман қосылса, кең дүниеге сиыспайды.
+common_voice_kk_24970075|kk_trimmed|{j e k ɪ ʒ j e p b i j ɡ j e ʃ ə q t ə m}|екі жеп биге шықтым.
+common_voice_kk_24969714|kk_trimmed|{b ɪ r j e l d j e b ɪ r t j e n t j e k ʒ ʏ r m j e j m j e}|бір елде бір тентек жүрмей ме.
+common_voice_kk_24970071|kk_trimmed|{ɑ p ɑ m d ə k ɪ m ɑ l s ɑ ʒ j e z d j e m s o l}|апамды кім алса, жездем сол.
+common_voice_kk_24996167|kk_trimmed|{ɑ l p ə s ɑ d ɑ m ɑ t t ɑ n ʒ ə ʁ ə l s ɑ sil æ r q ɑ j s ə s ə ʏ z ɑ w ə r ʁ ɑ n ʒ j e r ɪ n s i j p ɑ j d ə}|алпыс адам аттан жығылса, әрқайсысы өз ауырған жерін сипайды.
+common_voice_kk_24969927|kk_trimmed|{b o l ɑ t ə n b ɑ l ɑ o n b j e s ɪ n d j e b ɑ s p ə n d j e j d ɪ}|болатын бала он бесінде баспын дейді.
+common_voice_kk_24982350|kk_trimmed|{ɑ q ə l ʒ ɑ s q ɑ b ɪ t j e d ɪ q ə n ɑ t ɑ s q ɑ b ɪ t j e d ɪ}|ақыл жасқа бітеді, қына тасқа бітеді.
+common_voice_kk_24969764|kk_trimmed|{q ɑ r n ə ɑ ʃ q ɑ n q ɑ r ɑ l ə ʏ j ɡ j e ʃ ɑ b ɑ d ə}|қарны ашқан қаралы үйге шабады.
+common_voice_kk_24969900|kk_trimmed|{q ɑ t ə n ɑ l s ɑ ŋ o t ə n ɑ l sil b ɪ r q ʊ ʃ ɑ ʁ ə n ɑ r t ə q ɑ l}|қатын алсаң, отын ал, бір құшағын артық ал.
+common_voice_kk_24969723|kk_trimmed|{ɑ q ə l d ə q ə z sil b ɪ l ɪ m ɡ j e ʒ ʏ ɡ ɪ r j e r sil ɑ q ə l s ə z q ə z s ʏ z ɡ j e ɪ l ɪ ɡ j e r}|ақылды қыз білімге жүгірер, ақылсыз қыз сөзге ілігер.
+common_voice_kk_24969767|kk_trimmed|{q o s t ə ŋ k ɪ ʃ ɪ s ɪ b o l ʁ ɑ n ʃ ɑ i j t t ɪ ŋ k ʏ ʃ ɪ ɡ ɪ b o l}|қостың кішісі болғанша, иттің күшігі бол.
+common_voice_kk_24969738|kk_trimmed|{k ʏ n d j e t o j s ɑ ŋ sil b o l ɑ r s ə ŋ sil ʒ ʊ m ɑ d ɑ b ɪ r t o j s ɑ ŋ ʏ l j e r s ɪ ŋ}|күнде тойсаң, боларсың, жұмада бір тойсаң, өлерсің.
+common_voice_kk_24970467|kk_trimmed|{b ɑ r ʃ ɑ ʏ n j e r d ɪ ʏ j r j e n}|барша өнерді үйрен.
+common_voice_kk_24996169|kk_trimmed|{ɑ ʃ q ɑ t ɑ r t q ɑ n k j e ʃ k j e t ɑ r t ɑ d ə}|ашқа тартқан кешке тартады.
+common_voice_kk_24970570|kk_trimmed|{ʒ ɑ q s ə m j e n s ɑ w d ɑ q ə l s ɑ ŋ k j e r ɪ s b o l m ɑ s ʒ ɑ m ɑ n m j e n s ɑ w d ɑ q ə l s ɑ ŋ t j e ɡ ɪ s b o l m ɑ s}|жақсымен сауда қылсаң, керіс болмас, жаманмен сауда қылсаң, тегіс болмас.
+common_voice_kk_24969947|kk_trimmed|{ɑ d ɑ l d j e ɡ j e n ʃ j e sil ɑ d ɑ m d j e}|адал дегенше, адам де.
+common_voice_kk_24996370|kk_trimmed|{ʒ ɑ l q ɑ w d ə ŋ ʒ ɑ w ə ʒ ʊ m ə s}|жалқаудың жауы - жұмыс.
+common_voice_kk_24970149|kk_trimmed|{ʏ z ɡ j e ɡ j e ʊ l b o l ʁ ɑ n ʃ ɑ ʏ z j e l ɪ ŋ j e q ʊ l b o l}|өзгеге ұл болғанша, өз еліңе құл бол.
+common_voice_kk_24969696|kk_trimmed|{ɑ q ə m ɑ q t ə ŋ ɑ q ə r ə n ɑ b ɑ q sil t j e n t j e k t ɪ ŋ m ɑ q ʊ l ə n ɑ b ɑ p}|ақымақтың ақырына бақ, тентектің мақұлына бап.
+common_voice_kk_24996166|kk_trimmed|{s ə p ɑ j ə n ə ʏ j d j e k ʏ r m j e t ʏ z d j e k ʏ r}|сыпайыны үйде көрме, түзде көр.
+common_voice_kk_24969950|kk_trimmed|{ʒ ɑ m ɑ n n ə ŋ ʏ z ɪ n ɑ l ʁ ɑ n ʃ ɑ ʒ ɑ q s ə n ə ŋ s ʏ z ɪ n ɑ l}|жаманның өзін алғанша, жақсының сөзін ал.
+common_voice_kk_24969793|kk_trimmed|{t ʏ j j e k ʏ p b o l s ɑ ʒ ʏ k s ə j m ɑ j d ə ʒ ɪ ɡ ɪ t k ʏ p b o l s ɑ ʒ ʊ m ə s b ɪ t p j e j d ɪ}|түйе көп болса, жүк сыймайды, жігіт көп болса, жұмыс бітпейді.
+common_voice_kk_24970495|kk_trimmed|{ɑ j t p ɑ s ʒ j e r d j e ɑ w z ə ŋ d ə t ə j sil q ə ʃ ə n b ɑ s ʒ j e r d j e q o l ə ŋ d ə t ə j}|айтпас жерде аузыңды тый, қышынбас жерде қолыңды тый.
+common_voice_kk_24996382|kk_trimmed|{t ʏ j m j e d j e j n æ r s j e d j e n sil t ʏ j j e d j e j s ʏ z ʃ ə ʁ ɑ r w ʁ ɑ b o l ɑ d ə}|түймедей нәрседен түйедей сөз шығаруға болады.
+common_voice_kk_24996231|kk_trimmed|{j e l j e b j e l j e k j e m j e s sil j e r k ʏ b j e l j e k j e m j e s}|ел ебелек емес, ер көбелек емес.
+common_voice_kk_24982351|kk_trimmed|{b ɑ l ɑ n ə ŋ ɪ s ɪ ʃ ɑ l ɑ}|баланың ісі шала.
+common_voice_kk_24970026|kk_trimmed|{ʒ ʏ z s o m ɑ q ʃ ɑ ŋ b o l ʁ ɑ n ʃ ɑ ʒ ʏ z ʒ o l d ɑ s ə ŋ b o l s ə n}|жүз сом ақшаң болғанша, жүз жолдасың болсын.
+common_voice_kk_24996233|kk_trimmed|{ʒ ɑ w ʁ ɑ ɑ t t ɑ n ɑ r ʒ ɪ ɡ ɪ t sil t ʏ l ɑ t ə n m ɪ n j e d ɪ}|жауға аттанар жігіт төл атын мінеді.
+common_voice_kk_24982392|kk_trimmed|{æ j j e l ʒ j e r d j e n ʃ ə q q ɑ n j e m j e s j e l b ɑ l ɑ s ə j e r k ɪ s ɪ k ʏ k t j e n t ʏ s k j e n j e m j e s æ j j e l b ɑ l ɑ s ə}|әйел жерден шыққан емес, ел баласы, ер кісі көктен түскен емес, әйел баласы.
+common_voice_kk_24996348|kk_trimmed|{p æ l j e l ɪ ʒ j e r d ɪ b ɑ s p ɑ sil b ɑ s ə ŋ ɑ t ʏ s s j e s ɑ s p ɑ}|пәлелі жерді баспа, басыңа түссе саспа.
+common_voice_kk_24969693|kk_trimmed|{b ɑ s q ɑ d ɑ n q o r l ə q k ʏ r m j e w ʏ ʃ ɪ n sil ʏ z d ɪ ʏ z ɪ ŋ t ɑ t w b o l}|басқадан қорлық көрмеу үшін, өзді-өзің тату бол.
+common_voice_kk_24970433|kk_trimmed|{ɑ s t ə q o r l ɑ m ɑ sil q ʊ s t ə r ɑ r sil j e r d ɪ q o r l ɑ m ɑ b o s t ə r ɑ r}|асты қорлама, құстырар, ерді қорлама, бостырар.
+common_voice_kk_24969717|kk_trimmed|{ʒ ɑ q s ə s ʏ j l j e s j e ɑ w z ə n ɑ n ɡ ʏ l t ʏ ɡ ɪ l j e d ɪ}|жақсы сөйлесе, аузынан гүл төгіледі.
+common_voice_kk_24970030|kk_trimmed|{j e r ʏ l s j e d j e ɑ t ə ʏ l m j e j d ɪ}|ер өлсе де, аты өлмейді.
+common_voice_kk_24969778|kk_trimmed|{t æ w j e k j e l ʃ ɪ l s w d ɑ n t ɑ j ə n b ɑ j d ə}|тәуекелшіл судан тайынбайды.
+common_voice_kk_24970092|kk_trimmed|{ʒ ɑ r ɑ w ə ʒ ɑ m ɑ n ʒ ʏ j r ɪ k t j e n sil ʒ ɑ r ɑ w ə ʒ ɑ q s ə ʒ ɑ b ə o z ɑ r}|жарауы жаман жүйріктен, жарауы жақсы жабы озар.

@@ -1,0 +1,10 @@
+common_voice_kk_24969817|kk_trimmed|{q ɑ b ɑ q t ə ŋ k ɪ l t ɪ sil t ɑ m ɑ q t ɑ}|қабақтың кілті тамақта.
+common_voice_kk_24970753|kk_trimmed|{ɑ ɕː ə m j e n j e n t ʊ ɕː ə n ə t ɑ t q ɑ n b ɪ l j e r ɑ l ə s p j e n j e n ʒ ɑ q ə n d ə ʒ o r t q ɑ n b ɪ l j e r}|ащы менен тұщыны татқан білер, алыс пенен жақынды жортқан білер.
+common_voice_kk_24969849|kk_trimmed|{j e r ɪ n b j e ɡ j e n n ɪ ŋ j e ŋ b j e ɡ ɪ ʏ n ɪ m d ɪ}|ерінбегеннің еңбегі өнімді.
+common_voice_kk_24970306|kk_trimmed|{ɑ j r ə l ʁ ɑ n ɑ z ɑ d ə sil q o s ə l ʁ ɑ n o z ɑ d ə}|айрылған азады, қосылған озады.
+common_voice_kk_24969708|kk_trimmed|{b j e j q ɑ m d ə q sil q ɑ p ə q ɑ l d ə r ɑ d ə}|бейқамдық қапы қалдырады.
+common_voice_kk_24996411|kk_trimmed|{j e l ɑ j ə r ə l s ɑ sil k ʏ b ɪ n j e b ɑ r ʒ o l ɑ j ə r ə l s ɑ k j e ŋ ɪ n j e sil t ʏ s}|ел айырылса, көбіне бар, жол айырылса, кеңіне түс.
+common_voice_kk_24969765|kk_trimmed|{q ɑ r s ə s ə k ɪ m n ɪ ŋ b ɑ r b o l s ɑ q ɑ s ə s o n ə ŋ q ɑ s ə n d ɑ}|қарсысы кімнің бар болса, қасы соның қасында.
+common_voice_kk_24969678|kk_trimmed|{k ʏ r ɡ j e n d ɪ t ɑ p s ɑ ŋ sil j e s t ɪ ɡ j e n d ɪ ɪ z d j e m j e}|көргенді тапсаң, естігенді іздеме.
+common_voice_kk_24970702|kk_trimmed|{j e r d ɪ ŋ ɑ s ə l ə ɪ s ɪ n j e n b ɪ l ɪ n j e d ɪ æ j j e l d ɪ ŋ ɑ s ə l ə t ɪ s ɪ n j e n b ɪ l ɪ n j e d ɪ}|ердің асылы ісінен білінеді, әйелдің асылы тісінен білінеді.
+common_voice_kk_24970338|kk_trimmed|{ʒ ɑ m ɑ n k ɪ s ɪ ɡ j e m ɑ l b ɪ t s j e sil s w s ə n b j e r m j e s ɪ ʃ w ɡ j e}|жаман кісіге мал бітсе, сусын бермес ішуге.

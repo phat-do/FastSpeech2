@@ -1,0 +1,30 @@
+common_voice_kk_27729923.wav|kk_trimmed|{ʏ z ɪ ŋ d ɪ b ɪ r r j e t s ə j l ɑ ʁ ɑ n ʁ ɑ j e k ɪ r j e t q ʊ r m j e t j e t sil}|өзіңді бір рет сыйлағанға екі рет құрмет ет.
+common_voice_kk_27729939.wav|kk_trimmed|{q ɑ t ə n ɑ l m ɑ sil q ɑ j ə n ɑ l sil ʒ ɑ q s ə k ʏ r j e r k ɪ s ɪ n ɪ ŋ ɑ t ə n ɑ l m ɑ sil t ɑ j ə n ɑ l sil}|қатын алма, қайын ал, жақсы көрер кісінің атын алма, тайын ал.
+common_voice_kk_27729940.wav|kk_trimmed|{b ɑ l t ɑ s ɑ b ə n ɑ n o z b ɑ j d ə sil}|балта сабынан озбайды.
+common_voice_kk_27729941.wav|kk_trimmed|{j e ɡ ɪ z ɑ t t ɑ n ʒ ə ʁ ə l s ɑ sil b ɑ s ə n s ʏ j j e r ɑ ʁ ɑ s ə sil}|егіз аттан жығылса, басын сүйер ағасы.
+common_voice_kk_27729942.wav|kk_trimmed|{ʒ ɑ w s ə z ʒ ɑ q ə n ə n ʒ j e j d ɪ sil ɪ ʃ ɪ n d j e ɡ ɪ p ɑ q ə r ə n ʒ j e j d ɪ sil}|жаусыз жақынын жейді, ішіндегі пақырын жейді.
+common_voice_kk_27729943.wav|kk_trimmed|{ɑ r q ə r ɑ ʁ ɑ n ɑ j ʁ ə r d ə ʏ j ɪ r ɪ n d j e k ʏ r sil ɑ d ɑ m s ə ʁ ɑ n ʒ ɪ ɡ ɪ t t ɪ ʏ z ʏ j ɪ n d j e k ʏ r sil}|арқыраған айғырды үйірінде көр, адамсыған жігітті өз үйінде көр.
+common_voice_kk_27729945.wav|kk_trimmed|{ɑ z ʁ ɑ n j e l d ɪ ŋ b j e l ɡ ɪ s ɪ b ɪ r ɪ n j e b ɪ r ɪ q ɑ s b o l ɑ r sil}|азған елдің белгісі - біріне-бірі қас болар.
+common_voice_kk_27729946.wav|kk_trimmed|{q ɑ n ɑ ʁ ɑ t q ɑ r ə n t o j d ə r ɑ d ə sil q ɑ n ɑ ʁ ɑ t s ə z d ə q ʒ ɑ r l ə n ə ŋ ʒ ɑ l ʁ ə z ɑ t ə n s o j d ə r ɑ d ə sil}|қанағат қарын тойдырады, қанағатсыздық жарлының жалғыз атын сойдырады.
+common_voice_kk_27729947.wav|kk_trimmed|{ʒ ɑ z d ə q j e t t j e ʒ ɑ s ə q ʒ o q sil q ə m ə z ɑ s t ɑ q ɑ s ə q ʒ o q sil}|жаздық етте жасық жоқ, қымыз аста қасық жоқ.
+common_voice_kk_27729948.wav|kk_trimmed|{s ʏ z ʒ ʏ j j e s ɪ n t ɑ p s ɑ sil m ɑ l i j j e s ɪ n t ɑ b ɑ d ə sil}|сөз жүйесін тапса, мал иесін табады.
+common_voice_kk_27729955.wav|kk_trimmed|{ʏ t ɪ r ɪ k j e k j e w sil ʃ ə n d ə q t ʏ r t j e w sil}|өтірік - екеу, шындық - төртеу.
+common_voice_kk_27729956.wav|kk_trimmed|{i j t t o j ʁ ɑ n ʒ j e r ɪ n j e sil j e r t w ʁ ɑ n ʒ j e r ɪ n j e sil}|ит тойған жеріне, ер туған жеріне.
+common_voice_kk_27729957.wav|kk_trimmed|{t æ w j e k j e l d j e p t ɑ s ʒ ʊ t sil ɑ ʒ ɑ l ʒ j e t p j e j ʏ l m j e k ʒ o q sil}|тәуекел деп тас жұт, ажал жетпей өлмек жоқ.
+common_voice_kk_27729958.wav|kk_trimmed|{b o j ə ŋ ɑ s j e n b j e sil o j ə ŋ ɑ s j e n sil}|бойыңа сенбе, ойыңа сен.
+common_voice_kk_27729959.wav|kk_trimmed|{d ɑ r i j j ɑ n ə t j e r ɪ s ɑ ʁ ə z ʁ ɑ n ɑ q ə l d ɑ n b ɑ r m ɑ q t ɑ j b ɑ q ɪ l ɡ j e r ɪ sil}|дарияны теріс ағызған ақылдан бармақтай бақ ілгері.
+common_voice_kk_27729975.wav|kk_trimmed|{t ʏ j j e t ʊ z d j e p q ɑ r t ɑ j ɑ d ə sil ʒ ɪ ɡ ɪ t q ə z d j e p q ɑ r t ɑ j ɑ d ə sil}|түйе тұз деп қартаяды, жігіт қыз деп қартаяды.
+common_voice_kk_27729976.wav|kk_trimmed|{o q w b ɪ l ɪ m b j e r j e d ɪ sil ɑ q ə l b j e r m j e j d ɪ sil}|оқу білім береді, ақыл бермейді.
+common_voice_kk_27729977.wav|kk_trimmed|{d æ m n ɪ ŋ ɑ t ɑ s ə n ɑ n sil ɑ n ɑ s ə t ʊ z sil}|дәмнің атасы - нан, анасы - тұз.
+common_voice_kk_27729978.wav|kk_trimmed|{m ɑ q t ɑ w s ʏ z d ɪ k ɪ m s ʏ j m j e j d ɪ sil m æ w ɪ t ɪ ʃ j e k p j e n d ɪ k ɪ m k i j m j e j d ɪ sil}|мақтау сөзді кім сүймейді, мәуіті шекпенді кім кимейді.
+common_voice_kk_27729979.wav|kk_trimmed|{ʒ ɑ r ɑ l ə q ʊ s q ɑ t ɑ s ɑ t p ɑ sil}|жаралы құсқа тас атпа.
+common_voice_kk_27729985.wav|kk_trimmed|{b ɑ j d ə q ʊ d ɑ j ɑ t q ɑ n ə ʒ ɑ b ɑ ʁ ə ʒ ʏ n ɪ n s ɑ t q ɑ n ə sil}|байды құдай атқаны - жабағы жүнін сатқаны.
+common_voice_kk_27729986.wav|kk_trimmed|{ʒ ɑ m ɑ n m ɑ l ə n q o r ʁ ɑ j d ə sil ʒ ɑ q s ə ɑ r ə n q o r ʁ ɑ j d ə sil}|жаман малын қорғайды, жақсы арын қорғайды.
+common_voice_kk_27729987.wav|kk_trimmed|{æ k j e ŋ ʏ l s j e d j e sil æ k j e ŋ n ɪ ŋ k ʏ z ɪ n k ʏ r ɡ j e n ʏ l m j e s ɪ n sil}|әкең өлсе де, әкеңнің көзін көрген өлмесін.
+common_voice_kk_27729988.wav|kk_trimmed|{k j e l ɡ j e n n ɪ ŋ m ɑ n d ɑ j ə n ɑ n sil k j e t k j e n n ɪ ŋ ʒ j e l k j e s ɪ n j e n s i j p ɑ sil}|келгеннің мандайынан, кеткеннің желкесінен сипа.
+common_voice_kk_27729989.wav|kk_trimmed|{o l ɑ q b ɑ l ə q ʃ ə s w l ɑ j l ɑ j d ə sil}|олақ балықшы су лайлайды.
+common_voice_kk_27729999.wav|kk_trimmed|{ʏ ɡ ɪ z d ɪ ʏ r ɡ j e ɑ j d ɑ ʁ ɑ n n ə ŋ ʏ m ɪ r ɪ ʏ k s i j d ɪ sil}|өгізді өрге айдағанның өмірі өксиді.
+common_voice_kk_27730000.wav|kk_trimmed|{ʒ ɑ q s ə n ə ŋ ʒ ɑ q s ə l ə ʁ ə n ɑ j t sil n ʊ r ə t ɑ s s ə n sil ʒ ɑ m ɑ n n ə ŋ ʒ ɑ m ɑ n d ə ʁ ə n ɑ j t sil q ʊ t ə q ɑ ʃ s ə n sil}|жақсының жақсылығын айт, нұры тассын, жаманның жамандығын айт, құты қашсын.
+common_voice_kk_27730001.wav|kk_trimmed|{k j e l ɪ n n ɪ ŋ b j e t ɪ n k ɪ m ɑ ʃ s ɑ sil s o l ə s t ə q sil}|келіннің бетін кім ашса, сол ыстық.
+common_voice_kk_27730002.wav|kk_trimmed|{k æ r ɪ ʒ ɑ t s ɑ sil q w n ɑ j d ə sil ʒ ɑ s ʒ ʏ r s j e sil q w n ɑ j d ə sil}|кәрі жатса, қунайды, жас жүрсе, қунайды.
+common_voice_kk_27730003.wav|kk_trimmed|{ɑ d ɑ m ʒ ʏ r ɡ j e n ʒ j e r m j e n ɑ d ɑ m ʒ ʏ r j e d ɪ sil b ɪ r j e w b ɪ l m j e ɡ j e n d ɪ b ɪ r j e w b ɪ l j e d ɪ sil}|адам жүрген жермен адам жүреді, біреу білмегенді біреу біледі.

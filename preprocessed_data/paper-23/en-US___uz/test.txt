@@ -1,0 +1,30 @@
+common_voice_uz_30177922.wav|uz_trimmed|{n i j a t̪ i m s ɒ ɸ t̪ i l a ɡ i m b e ɡ a r d̪}|niyatim sof tilagim begard
+common_voice_uz_30177923.wav|uz_trimmed|{h a sil h a q i q i j h i k ɒ j a t̪ a ʔ m i n i t̪ u j m ɒ q tʃ i e d̪ i sil}|ha, haqiqiy hikoya ta'mini tuymoqchi edi.
+common_voice_uz_30177924.wav|uz_trimmed|{j ɒ ʃ i dʒ ɒ d̪ k ɒ r l a r n i ŋ j a n ɡ i t̪ u h ɸ a s i}|yosh ijodkorlarning yangi tuhfasi
+common_voice_uz_30177926.wav|uz_trimmed|{s i z h i n d̪ i s t̪ ɒ n d̪ a z i r a v ɒ r l a r s a v d̪ ɒ s i b i l a n b ɒ j l i k ɒ r t̪ t̪ i r ɡ a n a m a k i s i z}|siz hindistonda ziravorlar savdosi bilan boylik orttirgan amakisiz
+common_voice_uz_30177932.wav|uz_trimmed|{a v a j l a b tʃ i q a r d̪ i m s e n i t̪ ɒ s a h a r sil}|avaylab chiqardim seni to sahar.
+common_voice_uz_30177933.wav|uz_trimmed|{o ʃ a k u n i q a j ɒ q q a b ɒ r s a m sil}|o'sha kuni qayoqqa borsam.
+common_voice_uz_30177934.wav|uz_trimmed|{i s m ɒ i l v a j i l m a z i k k a l a s i h a m j e t̪ i m l i k h a j ɒ t̪ i n i q o r ɡ a n}|ismoil va yilmaz ikkalasi ham yetimlik hayotini qo'rgan
+common_voice_uz_30177935.wav|uz_trimmed|{r ɒ s s i j a k i j i m sil k e tʃ a k v a p ɒ j a b z a l i m p ɒ r t̪ i u tʃ u n o n m i l l i a r d̪ d̪ ɒ l l a r s a r ɸ l a j d̪ i sil}|rossiya kiyim-kechak va poyabzal importi uchun o'n milliard dollar sarflaydi.
+common_voice_uz_30177938.wav|uz_trimmed|{ɒ l t̪ i t̪ i l n i b i l m a j o l sil o ʁ l i m sil}|olti tilni bilmay o'l, o'g'lim!
+common_voice_uz_30177939.wav|uz_trimmed|{j i r i k dʒ u s s a sil k e ŋ p e ʃ ɒ n a}|yirik jussa, keng peshona
+common_voice_uz_30177941.wav|uz_trimmed|{n a b ɒ l a ɒ n a s i ɡ a b u t̪ i l d̪ a χ a t̪ j ɒ z a d̪ i sil}|na bola onasiga bu tilda xat yozadi.
+common_voice_uz_30177942.wav|uz_trimmed|{χ ɒ t̪ i n e k i n e k i l a d̪ i ɡ a n m a j d̪ ɒ n sil e r b o l s a d̪ e h q ɒ n d̪ i r sil}|xotin ekin ekiladigan maydon, er bo'lsa dehqondir.
+common_voice_uz_30177944.wav|uz_trimmed|{ʃ u n d̪ a i dʒ t̪ i m ɒ i j a d̪ ɒ l a t̪ b o l a d̪ i}|shunda ijtimoiy adolat bo'ladi
+common_voice_uz_30177945.wav|uz_trimmed|{t̪ ɒ ʃ k e n t̪ ʃ a h r i d̪ a j a n ɡ i h a j ɒ t̪ i n d̪ u s t̪ r i a l t̪ e χ n ɒ p a r k i t̪ a ʃ k i l e t̪ i l a d̪ i}|toshkent shahrida yangihayot industrial texnoparki tashkil etiladi
+common_voice_uz_30177946.wav|uz_trimmed|{m a r k a z i j b a n k t̪ a q d̪ i m ɒ t̪ i b i l a n t̪ a n i ʃ i ʃ}|markaziy bank taqdimoti bilan tanishish
+common_voice_uz_30177953.wav|uz_trimmed|{m a h s u l ɒ t̪ t̪ a j j ɒ r b o l ɡ a tʃ e s a n a t̪ i dʒ a d̪ a n q ɒ n i q i b j i ɡ i r m a b i r s e r i j a s u r a t̪ ɡ a ɒ l d̪ i r d̪ i sil}|mahsulot tayyor bo'lgach esa natijadan qoniqib yigirma bir seriya suratga oldirdi.
+common_voice_uz_30177961.wav|uz_trimmed|{u k a t̪ t̪ a n a q q i l i tʃ d̪ e k i ɡ n a t̪ u t̪ ɡ a n sil}|u katta naq qilichdek igna tutgan.
+common_voice_uz_30177962.wav|uz_trimmed|{n i m dʒ i l m a j i b k e l d̪ i u sil}|nim jilmayib keldi u.
+common_voice_uz_30177964.wav|uz_trimmed|{u ŋ a h a m u l ɡ u r m a j u χ l a b q ɒ l ɡ a n m a n sil}|unga ham ulgurmay uxlab qolganman.
+common_voice_uz_30177975.wav|uz_trimmed|{s a r d̪ ɒ r l a r ɸ a ɒ l i j a t̪ i m u h ɒ k a m a e t̪ i l d̪ i}|sardorlar faoliyati muhokama etildi
+common_voice_uz_30177976.wav|uz_trimmed|{u ɡ a p n i a j l a n t̪ i r i b j u b ɒ r ɡ a n d̪ i sil}|u gapni aylantirib yuborgandi.
+common_voice_uz_30177977.wav|uz_trimmed|{k e tʃ i r a s i z sil d̪ e b ɡ a p b ɒ ʃ l a d̪ i s ɒ t̪ u v tʃ i m i ŋ χ i dʒ ɒ l a t̪ i l a}|kechirasiz, deb gap boshladi sotuvchi ming xijolat ila
+common_voice_uz_30177978.wav|uz_trimmed|{h ɒ z i r q a j e r d̪ a s a n m u h a m m a d̪ sil q ɒ r n i ŋ t̪ o q m i b ɒ l a m sil}|hozir qayerdasan muhammad. qorning to'qmi bolam.
+common_voice_uz_30177979.wav|uz_trimmed|{d̪ a d̪ a m ɡ a χ a t̪ j ɒ z m ɒ q u tʃ u n s u r d̪ i m q a l a m sil}|dadamga xat yozmoq uchun surdim qalam:
+common_voice_uz_30177980.wav|uz_trimmed|{a d̪ a ʃ m a d̪ i ŋ i z sil d̪ e d̪ i j ɒ l ʁ ɒ n d̪ a n ɒ h i s t̪ a ɒ h a ŋ d̪ a t̪ o ʁ r i ɡ a t̪ i k i l ɡ a n tʃ a sil}|adashmadingiz, dedi yolg'ondan ohista ohangda to'g'riga tikilgancha.
+common_voice_uz_30177981.wav|uz_trimmed|{b i r i k a m tʃ i l i ɡ i d̪ a n b e χ a b a r e d̪ i sil}|biri kamchiligidan bexabar edi.
+common_voice_uz_30177987.wav|uz_trimmed|{u tʃ i n tʃ i d̪ a n sil i s t̪ e ʔ m ɒ l tʃ i s i ɸ a t̪ i d̪ a p l a k a t̪ l a r sil r e k l a m a l a r n i k u z a t̪ a m a n sil o r ɡ a n a m a n sil}|uchinchidan, iste'molchi sifatida plakatlar, reklamalarni kuzataman, o'rganaman.
+common_voice_uz_30178004.wav|uz_trimmed|{k i m n i d̪ i r tʃ a q i r d̪ i}|kimnidir chaqirdi
+common_voice_uz_30178005.wav|uz_trimmed|{ʃ u s a b a b s i z b i l a n s u h b a t̪ l a ʃ i b sil o z i m n i tʃ a l ʁ i t̪ m ɒ q tʃ i b o l ɡ a n d̪ i m}|shu sabab siz bilan suhbatlashib, o'zimni chalg'itmoqchi bo'lgandim
+common_voice_uz_30178006.wav|uz_trimmed|{q a n ɒ t̪ l i s o z l a r i b i l a n m a ʃ h u r l i k k a e r i ʃ ɡ a n m a n s a b d̪ ɒ r l a r}|qanotli so'zlari bilan mashhurlikka erishgan mansabdorlar

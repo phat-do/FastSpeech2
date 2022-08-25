@@ -1,0 +1,30 @@
+common_voice_ur_31836600.wav|ur_trimmed|{'بھائی وانٹڈ' t̪ k m iː l k eː b ɑː ɔː dʒ uː d̪}|'بھائی وانٹڈ' تکمیل کے باوجود
+common_voice_ur_31836599.wav|ur_trimmed|{j ɑː b ə tʃ ə ɡ ɑː n ɑː x ɑː ɦ ɪ ʃ ɛː}|یہ بچگانہ خواہش ہے
+common_voice_ur_31836603.wav|ur_trimmed|{p ɽ n eː k eː q ɑː b ɪ l ɛː}|پڑھنے کے قابل ہے
+common_voice_ur_31836602.wav|ur_trimmed|{p ɑː k ɪ s t̪ ɑː n k iː f ɔː dʒ ɪ s l ɑː m iː f ɔː dʒ n ɦ ẽː}|پاکستان کی فوج اسلامی فوج نہیں
+common_voice_ur_31836598.wav|ur_trimmed|{dʒ ə s eː ɦ ə m dʒ ə m ɦ uː ɾ iː ɪ n ə q l ɑː b k ə ɦ t̪ eː ɦ ẽː}|جسے ہم جمہوری انقلاب کہتے ہیں
+common_voice_ur_31836606.wav|ur_trimmed|{q uː m iː k ə ɾ k ɪ ʈ ʈ iː m k iː d̪ uː ɾ ɑː z ɪ m b ɑː b uː b eː k eː l ɪ j eː t̪ j ɑː ɾ ɪ j ɑ̃ː ə ɾ ɔː dʒ p ə ɾ}|قومی کرکٹ ٹیم کی دورہ زمبابوبے کے لیے تیاریاں عروج پر
+common_voice_ur_31836607.wav|ur_trimmed|{ɦ ə ɾ dʒ ʊ ɡ ɑː k s iː n ɑː k s iː q ɪ s m k eː p ə ɾ ɪ n d̪ eː p ɑː eː dʒ ɑː t̪ eː ɦ ẽː}|ہر جگہ کسی نہ کسی قسم کے پرندے پائے جاتے ہیں
+common_voice_ur_31836608.wav|ur_trimmed|{p ɑː k ɪ s t̪ ɑː n k ɑː t̪ʰ ɾ iː}|پاکستان کا تھری
+common_voice_ur_31836610.wav|ur_trimmed|{f z uː l b ɑː t̪ ẽː m ə t̪ k ə ɾ uː}|فضول باتیں مت کرو
+common_voice_ur_31836617.wav|ur_trimmed|{k eː dʒ ə s k eː b ə ʔ d̪ فتویٰ b ɑː z iː قابلِ d̪ ə s ə t̪ اندازیِ p ə ɔː l eː s dʒ ʊ ɾ m b ə n dʒ ɑː ɪ j eː}|کہ جس کے بعد فتویٰ بازی قابلِ دست اندازیِ پولیس جرم بن جائے
+common_voice_ur_31836618.wav|ur_trimmed|{m ʊ x s uː s n ə z ə ɾ j ɑː t̪ uː t̪ʰ ɑː}|مخصوص نظریہ تو تھا
+common_voice_ur_31836620.wav|ur_trimmed|{ɪ s k eː b ə ɾ x ɪ l ɑː f ɪ q t̪ ɪ d̪ ɑː ɾ k iː k ʊ ʃ m ə k ʃ m ẽː ʋ oː iː k f ɾ iː q ɛː}|اس کے برخلاف اقتدار کی کشمکش میں وہ ایک فریق ہے
+common_voice_ur_31836623.wav|ur_trimmed|{x ə w ɑː t̪ iː n k ə ɾ k ʈ ə ɾ z k ɑː f ʈ n s ʈ ɛː s ʈ eː ʋ eː ʋ m ẽː t̪ ə m ɑː m kʰ ə l ɑː ɽ iː p ɑː s}|خواتین کرکٹرز کا فٹنس ٹیسٹ یو یو میں تمام کھلاڑی پاس
+common_voice_ur_31836624.wav|ur_trimmed|{ɪ s ʋ ə q ə t̪ ɣ ʊ z ɑː m ẽː ɾ ə ɦ n eː ʋ ɑː l ũː m ẽː tʃ f iː s ə d̪ m ə s iː ɦ iː ɦ ẽː}|اس وقت غزہ میں رہنے والوں میں چھ فی صد مسیحی ہیں
+common_voice_ur_31836631.wav|ur_trimmed|{ʋ oː n ɑː k ə ɾ s ə k eː}|وہ نہ کر سکے
+common_voice_ur_31836632.wav|ur_trimmed|{ɪ s dʒ ʊ m uː d̪ k oː t̪ ɔː ɽ ɑː ɛː}|اس جمود کو توڑا ہے
+common_voice_ur_31836619.wav|ur_trimmed|{ʃ ɪ l p ɑː ʃ iː ʈʰ iː k iː ə m}|شلپا شیٹھی کی ام
+common_voice_ur_31836612.wav|ur_trimmed|{t̪ uː pʰ ə ɾ p uː ɾ ɑː m ʊ l k iː k ɾ ɪ f ɑː ɦ iː m ʊ ʔ ɑː ʃ ɾ eː m ẽː ɖʱ ə l s ə ə k t̪ ɑː ɛː}|تو پھر پورا ملک ایک رفاہی معاشرے میں ڈھل سکتا ہے
+common_voice_ur_31836616.wav|ur_trimmed|{ʃ ə m ɑː l iː k oː ɾ ɪ j ɑː}|شمالی کوریا
+common_voice_ur_31836633.wav|ur_trimmed|{ʋ oː ʊ p n eː b ə n d̪ ũː p ə ɾ p uː ɾ iː t̪ ə ɾ ɑː ɦ ə ɑː ʋ iː ɛː}|وہ اپنے بندوں پر پوری طرح حاوی ہے
+common_voice_ur_31836641.wav|ur_trimmed|{t̪ uː ɦ ə m ɑː ɾ eː p ɑː s bʱ iː ɛː}|تو ہمارے پاس بھی ہے
+common_voice_ur_31836642.wav|ur_trimmed|{m ẽː n eː j ɑː n ɦ ẽː k ə ɦ ɑː k eː m ə dʒ eː t̪ ʊ m p ə ɾ j ə q iː n n ɦ ẽː}|میں نے یہ نہیں کہا کہ مجھے تم پر یقین نہیں
+common_voice_ur_31836643.wav|ur_trimmed|{dʒ uː k iː s ɑː l ũː s eː b ə n d̪ p ɽ ɑː ɛː}|جو کئی سالوں سے بند پڑا ہے
+common_voice_ur_31836644.wav|ur_trimmed|{ɦ ə m ʊ s ɑː ɪ j õː s eː p ə ɾ ə m ə n z ɪ n d̪ ə ɡ iː b ə s ə ɾ k ə ɾ ẽː}|ہمسایوں سے پر امن زندگی بسر کریں
+common_voice_ur_31836645.wav|ur_trimmed|{ɪ j õː k ə ɦ iː eː k eː ʃ ə ɾ q ʋ ɣ ə ɾ b k iː t̪ ɑː ɾ eː x k oː s ə m ə eː ʈ d̪ eː t̪ eː ɦ ẽː}|یوں کہیے کہ شرق و غرب کی تاریخ کو سمیٹ دیتے ہیں
+common_voice_ur_31836648.wav|ur_trimmed|{k eː ɪ n ɦ ẽː n ɪ h l ɑː n ɑː bʱ iː b ɛː ɦ ɪ d̪ m ʊ ʃ k ɪ l t̪ʰ ɑː}|کہ انہیں نہلانا بھی بےحد مشکل تھا
+common_voice_ur_31836649.wav|ur_trimmed|{s ʋ ɑː l ɑː t̪ b ə ɦ ʊ t̪ s eː ɦ ẽː}|سوالات بہت سے ہیں
+common_voice_ur_31836650.wav|ur_trimmed|{k eː uː n ɖ eː ʈ iː m k iː k ɑː ɾ k ə ɾ d̪ ə ɡ iː}|کہ ون ڈے ٹیم کی کارکردگی
+common_voice_ur_31836652.wav|ur_trimmed|{dʒ ə ɦ ɑ̃ː bʱ iː ɦ ũː}|جہاں بھی ہوں
+common_voice_ur_31836653.wav|ur_trimmed|{d̪ ə n bʱ ɾ k iː p ə oː l ɪ ŋ ɡ k eː b ə ʔ d̪ dʒ ə b t̪ ə m ɑː m dʒ ʊ m ɑː ʔ ə t̪ ũː k eː}|دن بھر کی پولنگ کے بعد جب تمام جماعتوں کے

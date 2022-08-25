@@ -1,0 +1,190 @@
+common_voice_sw_30337552|sw_trimmed|{k i s i w ɑ tʃ ɑ ŋ ɡ ɛ z i k i n ɑ p ɑ t i k ɑ n ɑ k i s i w ɑ n i p ɛ m b ɑ z ɑ n z i ɓ ɑ ɾ}|kisiwa cha ngezi kinapatikana kisiwani pemba zanzibar
+common_voice_sw_30338013|sw_trimmed|{b ɑː ɗ ɑ j ɑ ɑ l i j ɛ k u w ɑ ɾ ɑ i s w ɑ v i s i w ɑ v j ɑ z ɑ n z i ɓ ɑ ɾ i}|Baada ya aliyekuwa rais wa Visiwa vya Zanzibari
+common_voice_sw_30338034|sw_trimmed|{ɑ n ɑ w ɛ z ɑ h ɑ t ɑ k u s t ɑ h i m i l i k w ɑ k i l ɔ s i t ɑ t u z ɑ ɲ ɑ s i}|Anaweza hata kustahimili kwa kilo sita tu za nyasi
+common_voice_sw_30368348|sw_trimmed|{b i ð ɑː z ɑ ɔ h i z i z i l i u z w ɑ h ɑ t ɑ k w ɑ w ɑ s ɑ m b ɑː h u k ɔ m k ɔ ɑ n i t ɑ ŋ ɡ ɑ}|Bidhaa zao hizi ziliuzwa hata kwa Wasambaa huko mkoani Tanga
+common_voice_sw_30343624|sw_trimmed|{k ɑ t i k ɑ m w ɑ k ɑ w ɑ ɛ l f u m ɔ dʒ ɑ m i ɑ n ɑ n ɛ t i s i n i n ɑ n ɛ}|Katika mwaka wa elfu moja mia nane tisini na nne
+common_voice_sw_30343491|sw_trimmed|{dʒ ɑ m iː j ɑ ɔ w ɑ m ɛ dʒ i k u t ɑ w ɑ k i h ɑ m i ɑ k u s i n i sil m w ɑ ɑ f ɾ i k ɑ}|Jamii yao wamejikuta wakihamia kusini mwa Afrika
+common_voice_sw_30378799|sw_trimmed|{h i z ɔ n i b ɑː ð i j ɑ ɑ l ɓ ɑ m u z ɑ m u i m b ɑ dʒ i m ɑː ɾ u f u n tʃ i n i t ɑ n z ɑ n i ɑ ɾ ɔ s ɛ m u h ɑ n d ɔ}|Hizo ni baadhi ya albamu za muimbaji maarufu nchini Tazania Rose Muhando
+common_voice_sw_30337873|sw_trimmed|{ɑ l i h ɑ s ɑ n m w i ɲ i n i m t ɑː l ɑ m u w ɑ l u ɣ ɑ}|ali hassan mwinyi ni mtaalamu wa lugha
+common_voice_sw_30337959|sw_trimmed|{ɑ l i ʃ i n d ɑ u ɓ i ŋ ɡ w ɑ w ɑ u l ɑ j ɑ ɑ l i p ɔ k u w ɑ p ɔ ɾ t ɔ}|alishinda ubingwa wa ulaya alipokuwa porto
+common_voice_sw_30336519|sw_trimmed|{b ɑː ɗ ɑ j ɑ m i ɑ k ɑ m i tʃ ɑ tʃ ɛ j ɑ ʃ u l ɛ n ɑ k ɑ z i n d ɔ ɠ ɔ n d ɔ ɠ ɔ ɑ l i ɑ dʒ i ɾ i w ɑ k ɑ t i k ɑ dʒ ɛ ʃ i}|Baada ya miaka michache ya shule na kazi ndogondogo aliajiriwa Katika jeshi
+common_voice_sw_30348158|sw_trimmed|{m ɑ k ɑ ɔ m ɑ k uː j ɑ tʃ ɑ m ɑ tʃ ɑ m ɑ p i n d u z i ɛ n ɛ ɔ l ɑ sil k i s i w ɑ n ɑ ɗ u i sil v i s i w ɑ n i z ɑ n z i ɓ ɑ ɾ}|Makao Makuu ya Chama cha mapinduzi eneo la Kisiwandui visiwani Zanzibar
+common_voice_sw_30336458|sw_trimmed|{k i t u k w ɑ u h u ɾ u k u n ɑ m s ɛ m ɔ u n ɑ s ɛ m ɑ b ɑ h ɑ t i j ɑ m w ɛ n z i ɔ u s i l ɑ l i ɛ m l ɑ ŋ ɡ ɔ w ɑ z i}|kitu kwa uhuru Kuna msemo unasema bahati ya mwenzio usilalie mlango wazi
+common_voice_sw_30369243|sw_trimmed|{w ɛ ŋ ɡ i n ɛ w ɑ l i w ɛ k ɑ p i tʃ ɑ z ɑ k ɛ z ɑ z ɑ m ɑ n i z i l i z ɔ k u w ɑ h ɑ z i n ɑ m ɑː ɗ i l i sil i l i k u k ɛ ɓ ɛ h i u t ɛ u z i h u ɔ}|Wengine waliweka picha zake za zamani zilizokuwa hazina maadili ili kukebehi uteuzi huo
+common_voice_sw_30364042|sw_trimmed|{k u n ɑ ɑ m b ɑ ɔ w ɑ n ɑː m i n i h i v j ɔ m p ɑ k ɑ l ɛ ɔ h ɑ ɗ i w ɑ z ɑ w ɑ}|Kuna ambao wanaamini hivyo mpaka leo hadi wazawa
+common_voice_sw_30369594|sw_trimmed|{u t ɑ p ɑ t ɑ m t ɑ z ɑ m ɔ w ɑ n dʒ i ɑ i t ɑ k ɑ j ɔ k u f ɑː i l i u p ɑ n d ɛ m l i m ɑ k w ɑ f u ɾ ɑ h ɑ n ɑ m ɑ f ɑ n i k i ɔ}|Utapata mtazamo wa njia itakayokufaa ili upande mlima kwa furaha na mafanikio
+common_voice_sw_30338940|sw_trimmed|{v i t u h i v j ɔ v i l i s ɑ f i ɾ i ʃ w ɑ k w ɑ k u t u m i ɑ m ɑ dʒ ɑ h ɑ z i j ɑ ɔ}|Vitu hivyo vilisafirishwa kwa kutumia majahazi yao
+common_voice_sw_30369998|sw_trimmed|{h u f ɑ ɲ ɑ w ɑ w ɛ z ɛ k u dʒ i ʃ u ɣ u l i ʃ ɑ n ɑ k ɑ z i m b ɑ l i m b ɑ l i k ɑ m ɑ v i l ɛ k i l i m ɔ tʃ ɑ u m w ɑ ɠ i l i ɑ dʒ i}|Hufanya waweze kujishughulisha na kazi mbalimbali kama vile kilimo cha umwagiliaji
+common_voice_sw_30362546|sw_trimmed|{j ɑ n i dʒ ɑ m h u ɾ i j ɑ m uː ŋ ɡ ɑ n ɔ w ɑ t ɑ n z ɑ n i ɑ n ɑ dʒ ɑ m h u ɾ i j ɑ w ɑ t u w ɑ u ɠ ɑ n d ɑ}|Yani Jammhuri ya Muungano wa Tanzania na Jammhuri ya watu wa Uganda
+common_voice_sw_30338819|sw_trimmed|{ɑ l i s ɑ l i ɑ k u w ɑ m w ɑ n ɑ h ɑ ɾ ɑ k ɑ t i w ɑ k i s i ɑ s ɑ ɑ k i ʃ i ɾ i k i k ɑ t i k ɑ m i s u ɾ u ɾ u j ɑ m ɑː n d ɑ m ɑ n ɔ j ɑ m ɑ ɾ ɑ k w ɑ m ɑ ɾ ɑ}|Alisalia kuwa mwanaharakati wa kisiasa akishiriki katika misururu ya maandamano ya mara kwa mara
+common_voice_sw_30336520|sw_trimmed|{u t ɑ w ɑ l ɑ w ɑ m uː ŋ ɡ ɑ n ɔ w ɑ m ɑ t ɑ i f ɑ j ɑ m ɑ ʃ ɑ ɾ i k i j ɑ l iː u ŋ ɡ ɑ sil m k ɔ n ɔ u ɾ u s i}|Utawala wa muungano wa Mataifa ya mashariki yaliiunga mkono Urusi
+common_voice_sw_30364971|sw_trimmed|{w ɑ k ɑ t i w ɑ m w ɑ l i m u ɲ ɛ ɾ ɛ ɾ ɛ k i l i m ɔ tʃ ɑ p ɑ m b ɑ k i l i k u w ɑ m ɑː ɾ u f u s ɑ n ɑ}|wakati wa mwalimu nyerere kilimo cha pamba kilikuwa maarufu sana
+common_voice_sw_30366905|sw_trimmed|{b ɑː ɗ ɑ ɛ k i tʃ w ɑ tʃ ɑ h u s ɛ i n k i l i ɔ n ɛ k ɑ n ɑ w ɑ k ɑ t i w ɑ k ɑ ɾ ɑ m u j ɑ k i f ɑ h ɑ ɾ i}|Baadae kichwa cha Hussein kilionekana wakati wa karamu ya kifahari
+common_voice_sw_30380292|sw_trimmed|{tʃ ɑ t ɔ i l i ɔ n ɛ k ɑ n ɑ k u p ɑ n d ɑ tʃ ɑ t i ɣ ɑ f l ɑ k u k i dʒ ɛ ŋ ɡ w ɑ u w ɑ n dʒ ɑ w ɑ n d ɛ ɠ ɛ sil n ɑ m ɑ ɓ ɛ n k i}|Chato ilionekana kupanda chati ghafla kukijengwa uwanja wa ndege na mabenki
+common_voice_sw_30336865|sw_trimmed|{l u p ɑ s ɔ n i k i dʒ i dʒ i ɑ l i tʃ ɔ z ɑ l i w ɑ ɾ ɑ i s b ɛ n dʒ m i n m k ɑ p ɑ}|lupaso ni kijiji alichozaliwa rais benjamin mkapa
+common_voice_sw_30363479|sw_trimmed|{s ɛ ɾ ɛ ŋ ɡ ɛ t i i m ɛ ʃ ɛ h ɛ n i v i v u t i ɔ v i ŋ ɡ i s ɑ n ɑ n ɑ v j ɑ k u t ɔ ʃ ɑ}|Serengeti imesheheni vivutio vingi sana na vya kutosha
+common_voice_sw_30345733|sw_trimmed|{k u f i k i ɑ m w ɑ k ɑ w ɑ v ɛ l f u m ɔ dʒ ɑ m i ɑ t i s ɑ t ɛ m ɑ n i n i n ɑ n ɑ n ɛ}|kufikia mwaka wa velfu moja mia tisa themanini na nane
+common_voice_sw_30337225|sw_trimmed|{w ɑ k ɑ m b ɑ w ɑ l i ɔ i t ɑ m l i m ɑ sil k i m ɑ dʒ ɑ dʒ ɛ u j ɑː n i m l i m ɑ m w ɛ u p ɛ}|Wakamba walioita mlima Kima jaJeu yaani mlima mweupe
+common_voice_sw_30347256|sw_trimmed|{b ɑː ɗ ɑ j ɑ m i ɑ k ɑ m i tʃ ɑ tʃ ɛ j ɑ ʃ u l ɛ n ɑ k ɑ z i n d ɔ ɠ ɔ n d ɔ ɠ ɔ ɑ l i ɑ dʒ i ɾ i w ɑ}|Baada ya miaka michache ya shule na kazi ndogondogo aliajiriwa
+common_voice_sw_30475802|sw_trimmed|{m ɑ ɾ ɑ ð i j ɑ t u m b ɔ s i ɔ m tʃ ɛ z ɔ}|Maradhi ya tumbo sio mchezo
+common_voice_sw_30363618|sw_trimmed|{w ɑː f ɾ i k ɑ ð i ɗ i j ɑ u t ɑ w ɑ l ɑ w ɑ w ɑ k ɔ l ɔ n i ɑ u w ɑ v ɑ m i z i w ɑ k i dʒ ɛ ɾ u m ɑ n i}|Waafrika dhidi ya utawala wa wakoloni au wavamizi wa Kijerumani
+common_voice_sw_30336509|sw_trimmed|{m ɑ ɛ n ɛ ɔ m ɛ ŋ ɡ i n ɛ j ɑ k i h i s t ɔ ɾ i ɑ n i p ɑ m ɔ dʒ ɑ n ɑ k i l w ɑ k i v i n dʒ ɛ n ɑ k i l w ɑ m ɑ s ɔ k ɔ}|Maeneo mengine ya kihistoria ni pamoja na Kilwa Kivinje na Kilwa Masoko
+common_voice_sw_30338766|sw_trimmed|{m dʒ i w ɑ ɾ i j ɑ ð n tʃ i n i s ɑ u ɗ i ɑ ɾ ɑ ɓ i ɑ k ɑ t i k ɑ}|mji wa Riyadh nchini Saudi Arabia katika
+common_voice_sw_30344762|sw_trimmed|{k i ɠ ɔ s i i n ɑ u k u ɓ w ɑ w ɑ k i l ɔ m i t ɑ z ɑ m ɾ ɑ ɓ ɑ ɛ l f u s ɑ ɓ ɑ m i ɑ n ɛ n ɑ s i t i n i}|kigosi ina ukubwa wa kilomita za mraba elfu saba mia nne na sitini
+common_voice_sw_30343966|sw_trimmed|{v i k ɔ s i v j ɑ t ɑ n z ɑ n i ɑ v i l i t ɑ k i w ɑ k u ʃ i n d ɑ m p ɑ m b ɑ n ɔ h u ɔ i l i v i u t ɛ k ɛ m dʒ i m k uː w ɑ u ɠ ɑ n d ɑ}|Vikosi vya Tanzania vilitakiwa kushinda mpambano huo ili viuteke mji mkuu wa Uganda
+common_voice_sw_30343679|sw_trimmed|{w ɑ m ɑ s ɑ i h u f ɑ ɲ ɑ k i m i l ɑ t ɛ n ɑ k w ɑ s i ɾ i}|Wamasai hufanya kimila tena kwa siri
+common_voice_sw_30364407|sw_trimmed|{s i k u k ɑ ɓ l ɑ j ɑ h ɑ ɾ u s i m u m ɛ h u l ɛ t ɑ m w i ʃ ɔ w ɑ m ɑ h ɑ ɾ i}|Siku kabla ya harusi mume huleta mwisho wa mahari
+common_voice_sw_30344205|sw_trimmed|{u t ɑ l iː w ɑ h ɑ p ɔ h ɑ u n ɑ ɣ ɑ ɾ ɑ m ɑ k u ɓ w ɑ h i v j ɔ n i ɾ ɑ f i k i s ɑ n ɑ k w ɑ w ɑ t u k u f i k ɑ}|utalii wa hapo hauna gharama kubwa hivyo ni rafiki sana kwa watu kufika
+common_voice_sw_30338716|sw_trimmed|{t ɔ f ɑ u t i n ɑ m ɑ z i w ɑ m ɛ ŋ ɡ i n ɛ k ɑ m ɑ z i w ɑ v i k t ɔ ɾ i ɑ ɑ u z i w ɑ ɲ ɑ s ɑ}|Tofauti na maziwa mengine kama ziwa victoria au ziwa nyasa
+common_voice_sw_30343638|sw_trimmed|{m ɑ ɠ u f u l i ɑ l i k u w ɑ ɾ ɑ i s w ɑ t ɑ n z ɑ n i ɑ k ɑ t i k ɑ ɑ w ɑ m u j ɑ t ɑ n ɔ}|magufuli alikuwa rais wa tanzania katika awamu ya tano
+common_voice_sw_30343577|sw_trimmed|{w ɑ h ɑ n i w ɑ f u ɠ ɑ dʒ i w ɑ ŋ ɡ ɔ m b ɛ sil w ɑ n ɑ m b u z i p i ɑ k u k u}|Waha ni wafugaji wa Ngombe wa na mbuzi pia kuku
+common_voice_sw_30345464|sw_trimmed|{b ɑ ɾ ɑ l ɑ m ɑː s ɑ i l i n ɑ m b u ɠ ɑ j ɑ w ɑ ɲ ɑ m ɑ b ɔ ɾ ɑ z ɑ i ɗ i ɑ f ɾ i k ɑ m ɑ ʃ ɑ ɾ i k i}|Bara la Maasai lina mbuga ya wanyama bora zaidi Afrika Mashariki
+common_voice_sw_30346224|sw_trimmed|{w ɑ l i l ɑ z i m i ʃ ɑ k u p ɑ n d ɑ m ɛ l i n i i l i h ɑ l i tʃ ɔ m b ɔ k i l i k u w ɑ k i m ɛ dʒ ɑː}|walilazimisha kupanda melini ilihali chombo kilikuwa kimejaa
+common_voice_sw_30364423|sw_trimmed|{h ɑ l i i n ɑ j ɔ p ɛ l ɛ k ɛ ɑ k u k u z ɑ k i p ɑ t ɔ tʃ ɑ w ɑ n ɑ n tʃ i n ɑ t ɑ i f ɑ k w ɑ u dʒ u m l ɑ}|Hali inayopelekea kukuza kipato cha wananchi na taifa kwa ujumla
+common_voice_sw_30336718|sw_trimmed|{n ɑ m w i ʃ ɔ k ɑ ɓ i s ɑ n i h ɑ l m ɑ ʃ ɑ u ɾ i j ɑ w i l ɑ j ɑ j ɑ b u m b u l i}|Na mwisho kabisa ni halmashauri ya wilaya ya Bumbuli
+common_voice_sw_30369073|sw_trimmed|{h i f ɑ ð i j ɑ k i t u l ɔ i n ɑ p ɑ t i k ɑ n ɑ m k ɔ ɑ w ɑ m b ɛ j ɑ n ɑ n dʒ ɔ m b ɛ}|hifadhi ya kitulo inapatikana mkoa wa mbeya na njombe
+common_voice_sw_30360451|sw_trimmed|{m dʒ i n i dʒ ɔ h ɑ n ɛ s ɓ u ɾ ɡ w ɑ t ɑ n z ɑ n i ɑ w ɛ ŋ ɡ i}|mjini Johannesburg Watanzania wengi
+common_voice_sw_30337888|sw_trimmed|{w ɑ l i p i n d u l i w ɑ n ɑ w ɑː ɾ ɑ ɓ u w ɑ ɔ m ɑ n w ɑ l i ɔ ɾ u ɗ i k u i t ɑ w ɑ l ɑ z ɑ n z i ɓ ɑ ɾ}|walipinduliwa na waarabu wa Oman waliorudi kuitawala Zanzibar
+common_voice_sw_30345650|sw_trimmed|{ɔ ɓ ɔ t ɛ n ɑ ɑ m i n w ɑ l i h u s i ʃ w ɑ k ɑ t i k ɑ m p ɑ ŋ ɡ ɔ w ɑ k uː z ɑ ŋ ɡ u ɔ z ɑ ð ɑ h ɑ ɓ u}|Obote na Amin walihusishwa katika mpango wa kuuza nguo za dhahabu
+common_voice_sw_30360388|sw_trimmed|{m w ɑ l i m u ɲ ɛ ɾ ɛ ɾ ɛ ɑ n ɑ t ɑ dʒ w ɑ n i b ɑ ɓ ɑ w ɑ t ɑ i f ɑ l ɑ t ɑ n z ɑ n i ɑ}|mwalimu nyerere anatajwa ni baba wa taifa la tanzania
+common_voice_sw_30362438|sw_trimmed|{m w i ʃ ɔ w ɑ m s i m u ɾ ɛ ɑ l m ɑ ɗ ɾ i ð ɑ i l i tʃ u k u ɑ u ɓ u ŋ ɡ w ɑ sil w ɑ u l ɑ j ɑ}|mwisho wa msimu real madrid ilichukua ubungwa wa ulaya
+common_voice_sw_30377739|sw_trimmed|{ɑ n ɑ i ŋ ɡ i ɑ m w ɑ k ɑ w ɑ k u m i k ɑ t i k ɑ m s i m u h uː ɑ k i w ɑ k ɑ t i k ɑ u ɓ ɔ ɾ ɑ u l ɛ u l ɛ s i m b ɑ}|Anaingia mwaka wa kumi katika msimu huu akiwa katika ubora ule ule Simba
+common_voice_sw_30336427|sw_trimmed|{k u f i k i ɑ m w ɑ k ɑ w ɑ ɛ l f u m ɔ dʒ ɑ m i ɑ n ɑ n ɛ n ɑ s i t i n i}|Kufikia mwaka wa elfu moja mia nane na sitini
+common_voice_sw_30336460|sw_trimmed|{w ɑ k ɑ t i h u ɔ b ɑ ɓ ɑ j ɑ k ɛ ɑ l i k u w ɑ sil k i ɲ ɔ z i n ɑ ɱ f ɑ ɲ ɑ ɓ i ɑ ʃ ɑ ɾ ɑ h u k ɔ n ɑ ɾ ʃ ɑ v i l ɛ sil n tʃ i n i m ɑ ɾ ɛ k ɑ n i}|Wakati huo baba yake alikuwa kinyozi na mfanyabiashara huko Narshaville nchini Marekani
+common_voice_sw_30345883|sw_trimmed|{ŋ ɡ ɔ m ɑ h u t u m i k ɑ k u j ɑ k ɑ ɾ i ɓ i ʃ ɑ m ɑ k u n d i j ɑ w ɑ t ɑ l iː}|ngoma hutumika kuyakaribisha makundi ya watalii
+common_voice_sw_30475803|sw_trimmed|{n tʃ i j ɛ t u h ɑ i n ɑ m w ɛ l ɛ k ɛ ɔ ð ɑ ɓ i t i w ɑ k i s i ɑ s ɑ}|Nchi yetu haina mwelekeo dhabiti wa kisiasa
+common_voice_sw_30346471|sw_trimmed|{ɑ l i t ɑ ŋ ɡ ɑ z ɑ m ɑ t i ɓ ɑ ɓ u k w ɑ w ɑ n ɑ n tʃ i w ɔ t ɛ k u t ɔ l ɛ w ɑ b u ɾ ɛ}|Alitangaza matibabu kwa wananchi wote kutolewa bure
+common_voice_sw_30380336|sw_trimmed|{t w i ɠ ɑ h u p ɛ n d ɛ l ɛ ɑ z ɑ i ɗ i k u l ɑ m ɑ dʒ ɑ n i n ɑ m ɑ t u n d ɑ k u t ɔ k ɑ k w ɛ ɲ ɛ m i t i m ɑ ɾ ɛ f u}|Twiga hupendelea zaidi kula majani na matunda kutoka kwenye miti marefu
+common_voice_sw_30379633|sw_trimmed|{n dʒ i ɑ j ɑ ɾ ɛ l i h iː i n ɑː n z ɑ d ɑ ɾ ɛ s s ɑ l ɑː m}|Njia ya reli hii inaanza Dar es Salaam
+common_voice_sw_30346537|sw_trimmed|{h ɑ t u ɑ j ɑ f ɑ i n ɑ l i n ɑ n u s u f ɑ i n ɑ l i z i l i f ɑ ɲ i k ɑ n tʃ i n i u i ŋ ɡ ɛ ɾ ɛ z ɑ}|hatua ya fainali na nusu fainali zilifanyika nchini uingereza
+common_voice_sw_30370176|sw_trimmed|{p ɛ l ɛ ɑ l i ɑ m u ɑ k u f ɑ ɑ k i w ɑ m tʃ ɛ z ɑ dʒ i s i j ɔ k ɔ tʃ ɑ}|pele aliamua kufa akiwa mchezaji siyo kocha
+common_voice_sw_30344880|sw_trimmed|{m tʃ ɛ z ɑ dʒ i b ɔ ɾ ɑ w ɑ d u n i ɑ m ɑ ɾ ɑ t ɑ n ɔ k ɾ i s t i ɑ n ɔ ɾ ɔ n ɑ l ɗ ɔ}|Mchezaji bora wa dunia mara tano Cristiano Ronaldo
+common_voice_sw_30336787|sw_trimmed|{k ɑ t i k ɑ m dʒ i h u ɔ f ɑ m i l i ɑ ɲ i ŋ ɡ i z ɑ k ɑ l ɛ z ɑ ɑ f ɾ i k ɑ m ɑ ɣ ɑ ɾ i ɓ i z i l i k u w ɑ n ɑ m ɑ k t ɑ ɓ ɑ b i n ɑ f s i}|Katika mji huo familia nyingi za kale za Afrika Magharibi zilikuwa na maktaba binafsi
+common_voice_sw_30338138|sw_trimmed|{n ɑ n tʃ i z i l i z ɔ p ɔ u p ɑ n d ɛ w ɑ k u s i n i m w ɑ b ɑ ɾ ɑ l ɑ ɑ f ɾ i k ɑ}|Na nchi zilizopo upande wa Kusini mwa bara la Afrika
+common_voice_sw_30337329|sw_trimmed|{ɛ l f u m ɔ dʒ ɑ m i ɑ t i s ɑ ɑ ɾ ɔ ɓ ɑ i n i n ɑ n ɑ n ɛ w ɑ k ɑ t i i l i k u ɓ ɑ l i w ɑ ɾ ɑ s m i}|Elfu moja mia tisa arobaini na nane wakati ilikubaliwa rasmi
+common_voice_sw_30336417|sw_trimmed|{h ɑ k u n ɑ u ɓ i ʃ i d u n i ɑ n i k ɔ t ɛ m ɛ tʃ i z i n ɑ z ɔ k u t ɑ n i ʃ ɑ t i m u z ɛ ɲ ɛ u t ɑ n i w ɑ dʒ ɑ ɗ i}|Hakuna ubishi duniani kote mechi zinazokutanisha timu zenye utani wa jadi
+common_voice_sw_30337396|sw_trimmed|{p ɑ m ɔ dʒ ɑ n ɑ ɑ dʒ ɑ l i j ɑ m ɛ l i j ɑ b u k ɔ ɓ ɑ ɑ m b ɑ j ɔ h ɑ i w ɛ z i k u s ɑ h ɑ u l i k ɑ}|Pamoja na ajali ya meli ya Bukoba ambayo haiwezi kusahaulika
+common_voice_sw_30364868|sw_trimmed|{p ɑ m ɔ dʒ ɑ n ɑ m ɑ m l ɑ k ɑ j ɑ h i f ɑ ð i j ɑ ŋ ɡ ɔ ɾ ɔ ŋ ɡ ɔ ɾ ɔ}|Pamoja na Mamlaka ya Hifadhi ya Ngorongoro
+common_voice_sw_30336835|sw_trimmed|{u l i ɔ w ɑ h i k u w ɑ k i dʒ i dʒ i k i k u ɓ w ɑ t u tʃ ɑ v i ɓ ɑ n d ɑ}|Uliowahi kuwa kijiji kikubwa tu cha vibanda
+common_voice_sw_30380015|sw_trimmed|{b ɛ k i w ɑ ɑ ɾ ɠ ɛ n t i n ɑ ɑ l i v u n dʒ i k ɑ k i w i k ɔ k w ɛ ɲ ɛ f ɑ i n ɑ l i j ɑ k ɔ m b ɛ l ɑ d u n i ɑ}|beki wa argentina alivunjika kiwiko kwenye fainali ya kombe la dunia
+common_voice_sw_30378968|sw_trimmed|{v i v u t i ɔ h i v j ɔ v i n ɑ f i k i k ɑ k i l ɑ m w ɑ k ɑ n ɑ k i l ɑ k i p i n d i tʃ ɑ m ɑ dʒ i ɾ ɑ j ɑ m w ɑ k ɑ}|Vivutio hivyo vinafikika kila mwaka na kila kipindi cha majira ya mwaka
+common_voice_sw_30337918|sw_trimmed|{u ɠ ɔ n dʒ w ɑ u n ɑ ɔ s ɑ m b ɑː k w ɛ ɲ ɛ d ɑ m u ɑ m b ɑ ɔ u s ɑ ɓ ɑ ɓ i ʃ ɑ m ɑː m b u k i z i k w ɛ ɲ ɛ d ɑ m u}|Ugonjwa unaosambaa kwenye damu ambao usababisha maambukizi kwenye damu
+common_voice_sw_30343551|sw_trimmed|{ɾ i p ɔ t i m ɔ dʒ ɑ j ɑ ʃ i ɾ i k ɑ l ɑ u t ɑ l iː u l i m w ɛ ŋ ɡ u n i i n ɑ s ɛ m ɑ}|Ripoti moja ya Shirika la Utalii Ulimwenguni inasema
+common_voice_sw_30367437|sw_trimmed|{k w ɛ ɲ ɛ m ɑ z i w ɑ b ɑ h ɑ ɾ i m i t ɔ n ɑ k w ɛ ɲ ɛ m ɑ ɓ w ɑ w ɑ sil k u n ɑ v i u m b ɛ v i ŋ ɡ i v i n ɑ p ɑ t i k ɑ n ɑ k w ɛ ɲ ɛ m ɑ dʒ i h ɑ j ɔ}|Kwenye maziwa bahari mito na kwenye mabwawa kuna viumbe vingi vinapatikana kwenye maji hayo
+common_voice_sw_30344380|sw_trimmed|{n d ɛ ɠ ɛ h ɑ ɔ h u ɔ n ɛ k ɑ n ɑ k ɑ m ɑ p ɑ z i ɑ k u ɓ w ɑ dʒ ɛ u p ɛ ɲ ɑ k ɑ t i z ɑ m tʃ ɑ n ɑ}|Ndege hao huonekana kama pazia kubwa jeupe nyakati za mchana
+common_voice_sw_30337666|sw_trimmed|{w ɑ t u w ɑ u l ɑ j ɑ w ɑ l i tʃ ɔ tʃ ɛ w ɑ n ɑ s ɑ ɓ ɑ ɓ u z ɑ k i u tʃ u m i n ɑ s i ɑ s ɑ}|Watu wa Ulaya walichochewa na sababu za kiuchumi na siasa
+common_voice_sw_30363642|sw_trimmed|{m ɑ h u ɔ n d ɔ ɑ b ɑ ŋ ɡ i l i j ɑ m t ɔ t ɔ n ɑ ʃ ɛ ɾ ɛ h ɛ h u i ʃ ɑ}|Mma huondoa bangili ya mtoto na sherehe huisha
+common_voice_sw_30344153|sw_trimmed|{w i l ɑ j ɑ j ɑ s ɑ m ɛ i n ɑ ɛ n ɛ ɔ k u ɓ w ɑ s ɑ n ɑ}|Wilaya ya same ina eneo kubwa sana
+common_voice_sw_30369287|sw_trimmed|{b ɑ w ɑ s i ɾ i h u s ɑ ɓ ɑ ɓ i ʃ w ɑ n ɑ k u v i m b ɑ k w ɑ m i ʃ i p ɑ j ɑ d ɑ m u ɑ i n ɑ j ɑ v ɛ n ɑ}|Bawasiri husababishwa na kuvimba kwa mishipa ya damu aina ya vena
+common_voice_sw_30369303|sw_trimmed|{k w ɑ u dʒ u m l ɑ w ɑ t ɑ n z ɑ n i ɑ n i w ɑ t u t u l i v u w ɛ ɲ ɛ h ɛ ʃ i m ɑ n ɑ u v u m u l i v u}|Kwa ujumla watanzania ni watu tulivu wenye heshima na uvumulivu
+common_voice_sw_30378053|sw_trimmed|{m ɔ u ɾ i n h ɔ ɑ m ɛ f u k u z w ɑ m ɑ ɾ ɑ ɲ i ŋ ɡ i k w ɛ ɲ ɛ v i l ɑ ɓ u}|mourinho amefukuzwa mara nyingi kwenye vilabu
+common_voice_sw_30362002|sw_trimmed|{w ɑ t ɑ w ɑ l ɑ w ɑ m ɑ ɛ n ɛ ɔ m ɛ ŋ ɡ i j ɑ u dʒ ɛ ɾ u m ɑ n i w ɑ l i ɑ m u ɑ k u t ɛ ŋ ɡ ɛ n ɛ z ɑ}|Watawala wa maeneo mengi ya Ujerumani waliamua kutengeneza
+common_voice_sw_30363985|sw_trimmed|{n d i j ɔ m ɑː n ɑ w ɑ t u w ɛ ŋ ɡ i n ɛ w ɑ n ɑ ð ɑ n i w ɑ n ɑ p ɛ n d ɑ k ɛ s i s ɑ n ɑ}|Ndiyo maana watu wengine wanadhani wanapenda kesi sana
+common_voice_sw_30362032|sw_trimmed|{u f ɑ l m ɛ w ɑ b u ɠ ɑ n d ɑ u l i f u t w ɑ k i ʃ ɛ ɾ i ɑ k ɑ ɓ ɑ k ɑ ɛ ɗ w ɑ ɾ d m u t ɛ s ɑ w ɑ p i l i ɑ l i k u f ɑ sil ŋ ɡ ɑ m b ɔ}|Ufalme wa Buganda ulifutwa kisheria Kabaka Edward Mutesa wa pili alikufa ngambo
+common_voice_sw_30345559|sw_trimmed|{m w i ŋ ɡ i n ɛ w ɑ l i k i u k ɑ m i s i ŋ ɡ i j ɑ ɑ k i ɗ ɑ j ɑ t ɑ n z ɑ n i ɑ w ɑ k i t ɔ ɑ m ɑ ɗ ɑ i j ɑ}|mwingine walikiuka misingi ya akida ya Tanzania wakitoa madai ya
+common_voice_sw_30378189|sw_trimmed|{ɑ t ɑ dʒ ɛ ŋ ɡ ɑ n ɑ k u ɑ n z i ʃ ɑ f ɑ m i l i ɑ j ɑ k ɛ}|Atajenga na kuanzisha familia yake
+common_voice_sw_30346939|sw_trimmed|{m ɑ t u n d ɑ m ɛ ŋ ɡ i t u l i j ɑ tʃ u m ɑ sil k ɑ t i k ɑ m s i t u n ɑ v i tʃ ɑ k ɑ m ɑ ɛ n ɛ ɔ sil j ɑ ɲ i k ɑ dʒ uː j ɑ m iː ɓ ɑ}|Matunda mengi tuliyachuma katika msitu na vichaka maeneo ya nyika juu ya miiba
+common_voice_sw_30348321|sw_trimmed|{w ɑ tʃ ɛ z ɑ dʒ i w ɑ k u ɓ w ɑ w ɑ n ɑ p ɛ n d ɑ k u w ɑ tʃ i n i j ɑ p ɛ p ɡ u ɑ ɾ ɗ i ɔ l ɑ}|wachezaji wakubwa wanapenda kuwa chini ya pep guardiola
+common_voice_sw_30369409|sw_trimmed|{k i l ɛ l ɛ h i tʃ ɔ k i m ɛ k u w ɑ k i k i w ɑ v u t i ɑ w ɑ ɠ ɛ n i k u t ɔ k ɑ n d ɑ n i n ɑ n dʒ ɛ j ɑ n tʃ i}|kilele hicho kimekuwa kikiwavutia wageni kutoka ndani na nje ya nchi
+common_voice_sw_30363549|sw_trimmed|{s ɛ h ɛ m u k ɑ ð ɑː z ɛ ɲ ɑ ɾ i ɓ ɑ k u l i p i ɑ ɣ ɑ ɾ ɑ m ɑ}|Sehemu kadhaa zenya riba kulipia gharama
+common_voice_sw_30475795|sw_trimmed|{tʃ ɑ k u l ɑ tʃ ɑ k ɔ s i k i t ɑ m u v i l ɛ}|Chakula chako si kitamu vile
+common_voice_sw_30346356|sw_trimmed|{ɑ m b ɑ j ɔ w ɑ l i k u s ɑ ɲ ɑ ʃ i l i ŋ ɡ i b i l i ɔ n i m i ɑ m b i l i n ɑ t ɑ t u}|Ambayo walikusanya shilingi bilioni mia mbili na tatu
+common_voice_sw_30348086|sw_trimmed|{m tʃ ɑ ŋ ɡ ɑ h u ɔ w ɛ ɲ ɛ ɑ s i l i j ɑ s u m ɑ k u u n ɑ h ɑ m ɑ k u t ɔ k ɑ s ɛ h ɛ m u m ɔ dʒ ɑ k w ɛ n d ɑ ɲ i ŋ ɡ i n ɛ}|mchanga huo wenye asili ya sumaku unahama kutoka sehemu moja kwenda nyingine
+common_voice_sw_30377571|sw_trimmed|{ɑ l i h u ɗ u m u k ɑ m ɑ m ɑ k ɑ m u m w ɛ ɲ ɛ k i t i w ɑ b u ŋ ɡ ɛ l i l i l ɔ dʒ ɑ ɗ i l i k ɑ t i ɓ ɑ j ɑ dʒ ɑ m h u ɾ i j ɑ m uː ŋ ɡ ɑ n ɔ w ɑ t ɑ n z ɑ n i ɑ}|Alihudumu kama Makamu Mwenyekiti wa Bunge lililojadili Katiba ya Jamhuri ya Muungano wa Tanzania
+common_voice_sw_30337973|sw_trimmed|{z i w ɑ m ɑ ɲ ɑ ɾ ɑ l i l i l ɔ n d ɑ n i j ɑ h i f ɑ ð i n i k i v u t i ɔ k i k u ɓ w ɑ}|Ziwa Manyara lililo ndani ya hifadhi ni kivutio kikubwa
+common_voice_sw_30348051|sw_trimmed|{k u ɓ w ɑ z ɑ i ɗ i j ɑ h ɑ j ɑ n i z i w ɑ l ɛ ɲ ɛ u ɾ ɛ f u w ɑ k i l ɔ m ɛ t ɑ m b i l i n ɑ n u s u}|Kubwa zaidi ya haya ni ziwa lenye urefu wa kilometa mbili na nusu
+common_voice_sw_30337835|sw_trimmed|{m t ɔ t ɔ j ɛ j ɔ t ɛ ɑ t ɑ k ɑ j ɛ z ɑ l i w ɑ n i m t ɔ t ɔ w ɑ m u m ɛ k ɑ t i k ɑ u t ɑ ɾ ɑ t i ɓ u w ɑ k i m ɑ s ɑ i}|Mtoto yeyote atakayezaliwa ni mtoto wa mume katika utaratibu wa Kimasai
+common_voice_sw_30379223|sw_trimmed|{w ɑ t u w ɑ tʃ ɑ tʃ ɛ w ɑ m ɑ ɣ ɑ ɾ i ɓ i w ɑ m ɛ tʃ u k u ɑ m u ɗ ɑ i l i k u ɛ l ɛ w ɑ h i s t ɔ ɾ i ɑ}|Watu wachache wa magharibi wamechukua muda ili kuelewa historia
+common_voice_sw_30364376|sw_trimmed|{h ɑ k u n ɑ h ɑ t ɑ ɑ s k ɑ ɾ i m ɔ dʒ ɑ w ɑ l i ɓ j ɑ ɑ l i j ɛ p ɔ n ɑ}|Hakuna hata askari mmoja wa Libya aliyepona
+common_voice_sw_30338196|sw_trimmed|{k u w ɑ f u k u z ɑ w ɑ ɾ ɛ n ɔ w ɑ l i ɔ ɓ ɑ k i k u t ɔ k ɑ p w ɑ n i j ɑ k ɛ ɲ ɑ n ɑ t ɑ n z ɑ n i ɑ}|kuwafukuza Wareno waliobaki kutoka pwani ya Kenya na Tanzania
+common_voice_sw_30344124|sw_trimmed|{m ɛ l i h i j ɔ i l i ɗ u m u k ɑ t i k ɑ z i w ɑ v i k t ɔ ɾ i ɑ k w ɑ m i ɑ k ɑ k u m i n ɑ s ɑ ɓ ɑ}|meli hiyo ilidumu katika ziwa victoria kwa miaka kumi na saba
+common_voice_sw_30360501|sw_trimmed|{w ɑ m ɛ t ɑ w ɑ ɲ i k ɑ m ɑ ɛ n ɛ ɔ m ɛ ŋ ɡ i n d ɑ n i n ɑ n dʒ ɛ j ɑ w i l ɑ j ɑ j ɑ l u ʃ ɔ t ɔ}|Wametawanyika maeneo mengi ndani na nje ya wilaya ya Lushoto
+common_voice_sw_30369028|sw_trimmed|{n ɛ n ɔ h i l i w ɑ ʃ ɑ ʃ i n i m k u s ɑ ɲ i k ɔ w ɑ m ɑ k ɑ ɓ i l ɑ j ɑ m k ɔ ɑ w ɑ m ɑ ɾ ɑ}|Neno hili Washashi ni mkusanyiko wa makabila ya mkoa wa Mara
+common_voice_sw_30337685|sw_trimmed|{k ɑ t i ɓ ɑ h iː k w ɑ u f u p i i l i k u w ɑ j ɑ tʃ ɑ m ɑ k i m ɔ dʒ ɑ k w ɑ ɱ f u m ɔ w ɑ u dʒ ɑ m ɑː}|Katiba Hii kwa ufupi ilikuwa ya chama kimoja kwa mfumo wa ujamaa
+common_voice_sw_30368323|sw_trimmed|{v i s i w ɑ v i ŋ ɡ i n ɛ v i n ɑ v j ɔ z u ŋ ɡ u k ɑ ɛ n ɛ ɔ h i l i v i k i w ɑ m ɔ v i s i w ɑ v j ɑ i l u ɠ w ɑ n ɑ sil k u l ɑ z u}|Visiwa vingine vinavyozunguka eneo hili vikiwamo Visiwa vya Ilugwa na Kulazu
+common_voice_sw_30345267|sw_trimmed|{w ɑ k ɑ t i ɑ k i ɛ n d ɛ l ɛ ɑ k u w ɑ b ɔ s i ɱ f u ɠ ɑ l ɛ t ɑ j ɑ ɾ i ɑ m ɛ ʃ ɑ l i t u m i k i ɑ t ɑ i f ɑ k w ɑ z ɑ i ɗ i}|Wakati akiendelea kuwa bosi Mfugale tayari ameshalitumikia taifa kwa zaidi
+common_voice_sw_30368377|sw_trimmed|{v j ɛ ɲ ɛ n i ʃ ɑ t i k i ɗ ɔ ɠ ɔ n ɑ v i s i w ɛ v i m ɛ ɔ ŋ ɡ ɛ z w ɑ s u k ɑ ɾ i j ɑ k u t ɛ ŋ ɡ ɛ n ɛ z w ɑ}|Vyenye nishati kidogo na visiwe vimeongezwa sukari ya kutengenezwa
+common_voice_sw_30337940|sw_trimmed|{ɔ ɓ ɔ t ɛ n d i j ɛ ɑ l i j ɛ p i n d u l i w ɑ n ɑ i d ɑ m i n i}|obotte ndiye aliyepinduliwa na idd amini
+common_voice_sw_30347885|sw_trimmed|{t ɑ n z ɑ n i ɑ i m ɛ p ɔ t ɛ z ɑ ŋ ɡ u z ɔ i m ɑ ɾ ɑ n ɑ θ ɑ ɓ i t i}|tanzania imepoteza nguzo imara na thabiti
+common_voice_sw_30365019|sw_trimmed|{ɲ i ŋ ɡ i n ɛ n i v ɔ l k ɛ n ɔ n d ɛ f u k u l i k ɔ z ɔ t ɛ d u n i ɑ n i n dʒ ɛ j ɑ ɑ m ɛ ɾ i k ɑ k u s i n i}|Nyingine ni volkeno ndefu kuliko zote duniani nje ya Amerika Kusini
+common_voice_sw_30337270|sw_trimmed|{i k i w ɑ u t ɑ s i m ɑ m ɑ k ɑ t i k ɑ h i l ɔ n i k w ɛ l i u t ɑ k u w ɑ m ɾ ɛ m b ɔ s i k u z ɔ t ɛ}|Ikiwa utasimama katika hilo ni kweli utakuwa mrembo siku zote
+common_voice_sw_30338671|sw_trimmed|{p ɛ p n i k ɔ tʃ ɑ m k u ɓ w ɑ s ɑ n ɑ d u n i ɑ n i}|pep ni kocha mkubwa sana duniani
+common_voice_sw_30337438|sw_trimmed|{w ɛ ŋ ɡ i n ɛ w ɑ m ɛ z ɔ ɛ ɑ k u i t ɑ k ɑ ɾ n ɛ j ɑ k u m i n ɑ n ɛ}|Wengine wamezoea kuita karne ya kumi na nne
+common_voice_sw_30364087|sw_trimmed|{b ɑː ð i j ɑ k ɔː z ɑ k i z ɑ n ɑ k i z i l i tʃ ɑ ŋ ɡ ɑ ɲ ɑ d ɑ m u s ɑ n ɑ n ɑ w ɑ s u k u m ɑ}|Baadhi ya koo za Kizanaki zilichanganya damu sana na Wasukuma
+common_voice_sw_30348122|sw_trimmed|{k ɑ t i k ɑ m ɑ i ʃ ɑ j ɑ ɔ j ɑ k i l ɑ s i k u w ɑ l i k ɑː n ɑ w ɑ ɠ ɛ n i m i ɑ k ɑ z ɑ i ɗ i j ɑ m i ɑ n ɑ n ɛ}|Katika maisha yao ya kila siku walikaa na wageni miaka zaidi ya mia nane
+common_voice_sw_30347957|sw_trimmed|{h i f ɑ ð i i l i j ɔ m ɑː ɾ u f u s ɑ n ɑ n tʃ i n i k w ɑ s i m b ɑ w ɑ n ɑ ɔ p ɑ n d ɑ dʒ uː j ɑ m i t i}|Hifadhi iliyo maarufu sana nchini kwa simba wanaopanda juu ya miti
+common_voice_sw_30337380|sw_trimmed|{w ɑ ɲ ɑ k j u s ɑ w ɑ l i t u m i ɑ n d i z i k ɑ m ɑ tʃ ɑ k u l ɑ tʃ ɛ ɲ ɛ h ɑ ð i j ɑ k u m k ɑ ɾ i m u m ɡ ɛ n i}|wanyakyusa walitumia ndizi kama chakula chenye hadhi ya kumkarimu mgeni
+common_voice_sw_30343891|sw_trimmed|{ɾ ɑ ŋ ɡ i ɲ ɛ u p ɛ p i ɑ h u w ɑ k i l i ʃ ɑ ɑ f j ɑ k w ɑ s ɑ ɓ ɑ ɓ u n i m ɑ z i w ɑ}|Rangi nyeupe pia huwakilisha afya kwa sababu ni maziwa
+common_voice_sw_30348752|sw_trimmed|{k u l ɔ n d ɑ m d ɑ l ɑ w ɑ z ɑ z i w ɛ ɲ ɛ m t ɔ t ɔ w ɑ k i u m ɛ w ɑ n ɑ p ɔ t ɑ k ɑ k u m w ɔ z ɑ k i dʒ ɑ n ɑ w ɑ ɔ}|Kulonda mdala wazazi wenye mtoto wa kiume wanapotaka kumwoza kijana wao
+common_voice_sw_30348805|sw_trimmed|{m ɑ dʒ ɑ ŋ ɡ i l i w ɑ n ɑ u ɑ s i m b ɑ n ɑ tʃ u i k u p ɑ t ɑ ŋ ɡ ɔ z i z ɑ ɔ z ɛ ɲ ɛ θ ɑ m ɑ n i k u ɓ w ɑ}|majangili wanaua simba na chui kupata ngozi zao zenye thamani kubwa
+common_voice_sw_30338549|sw_trimmed|{h ɑ k u n ɑ m tʃ ɛ z ɑ dʒ i d u n i ɑ n i ɑ s i j ɛ t ɑ m ɑ n i k u tʃ ɛ z ɑ k ɔ m b ɛ l ɑ d u n i ɑ}|hakuna mchezaji duniani asiyetamani kucheza kombe la dunia
+common_voice_sw_30360466|sw_trimmed|{v i l ɛ l ɛ v j ɑ dʒ uː n i m l i m ɑ m t i ŋ ɡ i ɾ ɛ n ɑ m l i m ɑ sil k i m h ɑ n d u}|vilele vya juu ni mlima mtingire na mlima kimhandu
+common_voice_sw_30337260|sw_trimmed|{ɑ m ɛ tʃ ɛ z ɑ dʒ u m l ɑ j ɑ m ɛ tʃ i m i ɑ s ɑ ɓ ɑ s i t i n i n ɑ n ɑ n ɛ}|Amecheza jumla ya mechi mia saba sitini na nane
+common_voice_sw_30380014|sw_trimmed|{z i w ɑ h i l i l i n ɑ p ɑ t i k ɑ n ɑ k u s i n i m w ɑ t ɑ i f ɑ h i l ɔ k w ɑ m u dʒ i ɓ u w ɑ ɾ ɑ m ɑ n i j ɑ k ɛ}|Ziwa hili linapatikana kusini mwa taifa hilo kwa mujibu wa ramani yake
+common_voice_sw_30377557|sw_trimmed|{w ɑ k ɑ t i h u ɔ i k iː t w ɑ ɾ h ɔ ɗ ɛ s i ɑ j ɑ k u s i n i m w ɑ ɑ f ɾ i k ɑ}|Wakati huo ikiitwa Rhodesia ya kusini mwa Afrika
+common_voice_sw_30367661|sw_trimmed|{ɑ l i dʒ ɛ ŋ ɡ ɑ ɲ u m b ɑ z ɑ w ɑ z ɛː w ɑ s i ɔ dʒ i w ɛ z ɑ h u k ɔ s ɛ ɓ l ɛ n i}|Alijenga nyumba za wazee wasiojiweza huko sebleni
+common_voice_sw_30345474|sw_trimmed|{u l ɑ dʒ i u n ɑ ɔ z i ɗ i k i w ɑ ŋ ɡ ɔ h u s ɑ ɓ ɑ ɓ i ʃ ɑ v i ɾ u t u ɓ i ʃ i k u z i ɗ i m w i l i n i n ɑ k u dʒ i k u s ɑ ɲ ɑ k ɑ t i k ɑ s ɛ h ɛ m u m b ɑ l i m b ɑ l i z ɑ m w i l i}|Ulaji unaozidi kiwango husababisha virutubishi kuzidi mwilini na kujikusanya katika sehemu mbalimbali za mwili
+common_voice_sw_30337462|sw_trimmed|{w ɑ p ɔ w ɑ t u ɑ m b ɑ ɔ w ɑ n ɑ i ŋ ɡ i ɑ n d ɑ n i j ɑ h i f ɑ ð i}|Wapo watu ambao wanaingia ndani ya hifadhi
+common_voice_sw_30338044|sw_trimmed|{k ɔ tʃ ɑ h u j ɔ ɑ l i ɑ m u ɑ k u ɔ n d ɔ k ɑ u dʒ ɛ ɾ u m ɑ n i sil k u ɛ l ɛ k dʒ ɛ ɑ u i ŋ ɡ ɛ ɾ ɛ z ɑ}|Kocha huyo aliamua kuondoka Ujerumani kuelekjea uingereza
+common_voice_sw_30345666|sw_trimmed|{l i tʃ ɑ j ɑ u w ɛ p ɔ w ɑ b ɑ h ɑ ɾ i j ɑ h i n d i k ɑ t i k ɑ p w ɑ n i j ɑ m ɔ m b ɑ s ɑ}|Licha ya uwepo wa bahari ya Hindi katika Pwani ya Mombasa
+common_voice_sw_30348810|sw_trimmed|{m ɑ ɔ n ɛ ʃ ɔ j ɑ k i l i m ɔ tʃ ɑ m b ɔ ɠ ɑ m b ɔ ɠ ɑ j ɑ l i f ɑ ɲ i k ɑ k w ɑ sil k i l ɑ w i l ɑ j ɑ}|maonesho ya kilimo cha mbogamboga yalifanyika kwa kila wilaya
+common_voice_sw_30338920|sw_trimmed|{w ɑ n ɑ n tʃ i w ɑ m ɑ ɛ n ɛ ɔ h ɑ j ɑ w ɑ m ɛ k u w ɑ w ɑ k i f u k u ɑ n ɑ k u tʃ u k u ɑ m ɑ w ɛ k w ɑ ɑ dʒ i l i j ɑ k u dʒ ɛ ŋ ɡ ɛ ɑ}|Wananchi wa maeneo haya wamekuwa wakifukua na kuchukua mawe kwa ajili ya kujengea
+common_voice_sw_30369157|sw_trimmed|{ɑ l i s i s i t i z ɑ m ɑ m b ɔ m ɛ ŋ ɡ i k u ɑ n z i ɑ m ɑ s u ɑ l ɑ j ɑ u tʃ u m i s i ɑ s ɑ n ɑ d i n i}|Alisisitiza mambo mengi kuanzia masuala ya uchumi siasa na dini
+common_voice_sw_30363648|sw_trimmed|{p i ɑ m b ɛ ɠ ɑ w ɛ u s i n ɑ w ɛ u p ɛ b i l ɑ k u s ɑ h ɑ u t w i ɠ ɑ}|Pia Mbega weusi na weupe bila kusahau Twiga
+common_voice_sw_30345512|sw_trimmed|{b ɑ ɾ k ɛ l ɔ n ɑ i l i t ɑ w ɑ l ɑ m ɛ tʃ i k w ɑ u m i l i k i w ɑ ɑ s i l i m i ɑ t ɛ m ɑ n i n i n ɑ n ɑ n ɛ}|barcelona ilitawala mechi kwa umiliki wa asilimia themanini na nane
+common_voice_sw_30361785|sw_trimmed|{m ɑ k ɔ tʃ ɑ w ɛ ŋ ɡ i w ɑ u dʒ ɛ ɾ u m ɑ n i w ɑ n ɑ ɱ f ɑ h ɑ m u ɡ u ɑ ɾ ɗ i ɔ l ɑ}|Makocha Wengi wa ujerumani wanamfahamu Guardiola
+common_voice_sw_30362494|sw_trimmed|{s ɛ h ɛ m u ɲ i ŋ ɡ i z ɑ h i f ɑ ð i k u n ɑ w ɑ t u w ɑ l i j ɔ ɑ ʄ i ɾ i w ɑ k u ɔ ŋ ɡ ɔ z ɑ w ɑ t ɑ l k iː}|sehemu nyingi za hifadhi kuna watu waliyoajiriwa kuongoza watalkii
+common_voice_sw_30370162|sw_trimmed|{m w ɑ l i m u ɲ ɛ ɾ ɛ ɾ ɛ ɑ l i k u w ɑ m ɔ dʒ ɑ w ɑ p ɔ k ɑ t i w ɑ t ɔ t ɔ i ʃ i ɾ i n i n ɑ s i t ɑ w ɑ ɲ ɛ ɾ ɛ ɾ ɛ b u ɾ i t ɔ}|Mwalimu Nyerere alikuwa mojawapo kati watoto ishirini na sita wa Nyerere Burito
+common_voice_sw_30362840|sw_trimmed|{m ɑ n tʃ ɛ s t ɛ ɾ s i t i i n ɑ f ɑ ɲ ɑ v i z u ɾ i s ɑ n ɑ u l ɑ j ɑ}|manchester city inafanya vizuri sana ulaya
+common_voice_sw_30362457|sw_trimmed|{s ɛ ɾ i k ɑ l i i n ɑ s i s i t i z ɑ u ɓ ɑ ŋ ɡ u ɑ dʒ i w ɑ k ɔ ɾ ɔ ʃ ɔ u f ɑ ɲ i k ɛ h ɑ p ɑ h ɑ p ɑ n tʃ i n i}|Serikali inasisitiza ubanguaji wa korosho ufanyike hapa hapa nchini
+common_voice_sw_30369756|sw_trimmed|{w ɑ n ɑ n u f ɑ i k ɑ k w ɑ k i ɑ s i k i k u ɓ w ɑ s ɑ n ɑ n ɑ u w ɛ p ɔ w ɑ ʃ u ɣ u l i h iː j ɑ u tʃ i m b ɑ dʒ i w ɑ t ɑ n z ɑ n i t ɛ}|Wananufaika kwa kiasi kikubwa sana na uwepo wa shughuli hii ya uchimbaji wa Tanzanite
+common_voice_sw_30336381|sw_trimmed|{ɑ m i n ɑ l i p ɑ n d ɑ h ɑ ɾ ɑ k ɑ ŋ ɡ ɑ z i k u f i k i ɑ tʃ ɛ ɔ tʃ ɑ u m ɛ dʒ ɑ w ɑ k ɑ t i h u ɔ}|Amin alipanda haraka ngazi kufikia cheo cha umeja wakati huo
+common_voice_sw_30378843|sw_trimmed|{z i ɑ ɗ ɑ k w ɑ t ɑ n z ɑ n i ɑ j ɑ d ɔ l ɑ m i l i ɔ n i m i ɑ m b i l i s ɑ ɓ i n i n ɑ t ɑ t u}|Ziada kwa Tanzania ya dola milioni mia mbili sabini na tatu
+common_voice_sw_30337420|sw_trimmed|{s ɛ h ɛ m u k u ɓ w ɑ j ɑ s ɛ l ɔ u s h ɑ i ɑ θ i ɾ i w i n ɑ ʃ u ɣ u l i z ɑ k i ɓ i n ɑ ɗ ɑ m u}|sehemu kubwa ya selous haiathiriwi na shughuli za kibinadamu
+common_voice_sw_30363808|sw_trimmed|{h i f ɑ ð i h i j ɔ i n ɑ ŋ ɡ i z ɑ f ɛ ð ɑ ɲ i ŋ ɡ i z ɑ k i ɠ ɛ n i}|hifadhi hiyo inangiza fedha nyingi za kigeni
+common_voice_sw_30348803|sw_trimmed|{ɑ l i k u w ɑ k i ɔ ŋ ɡ ɔ z i ɑ m b ɑ j ɛ h ɑ dʒ ɑ l i m ɑ t ɑ t i z ɔ j ɑ w ɛ ŋ ɡ i n ɛ}|alikuwa kiongozi ambaye hajali matatizo ya wengine
+common_voice_sw_30360471|sw_trimmed|{k u t ɔ k ɑ n ɑ n ɑ ŋ ɡ ɔ z i j ɑ ŋ ɡ ɔ m b ɛ ɑ u t ɑ i ɾ i z ɑ ɡ ɑ ɾ i k u l i n d ɑ ɲ ɑ j ɔ}|kutokana na ngozi ya ngombe au tairi za gari kulinda nyayo
+common_voice_sw_30368199|sw_trimmed|{v i ɔ ŋ ɡ ɔ z i w ɑ l i k u w ɑ w ɑ k i t ɑ w ɑ l ɑ k w ɑ n dʒ i ɑ j ɑ u ɗ i k t ɛ t ɑ}|viongozi walikuwa wakitawala kwa njia ya udikteta
+common_voice_sw_30347960|sw_trimmed|{m ɑ n ɛ n ɔ j ɑ u h u ɾ u n ɑ u m ɔ dʒ ɑ j ɑ n ɑ u m u h i m u m k u ɓ w ɑ s ɑ n ɑ}|maneno ya uhuru na umoja yana umuhimu mkubwa sana
+common_voice_sw_30370175|sw_trimmed|{w ɑ t ɑː l ɑ m u h ɑ ɔ h ɑ w ɑ k u i ʃ i ɑ k u t ɑ dʒ ɑ v i u m b ɛ v i n ɑ v j ɔ i ʃ i k w ɛ ɲ ɛ m ɑ dʒ i b ɑ ɾ i ɗ i p ɛ k ɛ j ɑ k ɛ}|Wataalamu hao hawakuishia kutaja viumbe vinavyoishi kwenye maji baridi peke yake
+common_voice_sw_30367337|sw_trimmed|{t ɑ n z ɑ n i ɑ n i m i ɔ ŋ ɡ ɔ n i m w ɑ n tʃ i tʃ ɑ tʃ ɛ z ɛ ɲ ɛ k u f u ɑ t ɑ d ɛ m ɔ k ɾ ɑ s i ɑ d u n i ɑ n i}|tanzania ni miongoni mwa nchi chache zenye kufuata demokrasia duniani
+common_voice_sw_30378857|sw_trimmed|{p ɛ p ɡ u ɑ ɾ ɗ i ɔ l ɑ ɑ m ɛ ʃ i n d w ɑ k u m s ɑ i n i ʃ ɑ m ɛ s i}|pep guardiola ameshindwa kumsainisha messi
+common_voice_sw_30348591|sw_trimmed|{k u n ɑ s ɛ h ɛ m u ɑ m b ɑ z ɔ k i l ɑ p ɑ n ɑ p ɔ tʃ i m b w ɑ h u ɔ n ɛ k ɑ n ɑ m ɑ w ɛ j ɑ l i j ɔ dʒ ɛ ŋ ɡ w ɑ}|Kuna sehemu ambazo kila panapochimbwa huonekana mawe yaliyojengwa
+common_voice_sw_30362783|sw_trimmed|{z i w ɑ ɛ m p ɔ k ɑ i l i m ɛ z u ŋ ɡ u k w ɑ n ɑ m s i t u w ɛ ɲ ɛ m i t i i l i j ɔ dʒ i p ɑ ŋ ɡ ɑ v i z u ɾ i}|ziwa empokai limezungukwa na msitu wenye miti iliyojipanga vizuri
+common_voice_sw_30345216|sw_trimmed|{w ɑ l i ɑ n z ɑ k u t u p ɑ b ɔ n ɑ s i j ɑ ʃ i l i ŋ ɡ i m i l i ɔ n i h ɑ m s i n i}|Walianza kutupa bonasi ya Shilingi milioni hamsini
+common_voice_sw_30475797|sw_trimmed|{ɑ l iː t w ɑ m ɑ ɾ ɑ t ɑ t u}|Aliitwa mara tatu
+common_voice_sw_30346247|sw_trimmed|{n ɑ k ɔ m p j u t ɑ p i ɑ v i j ɔ j ɔ z i k w ɑ ɑ dʒ i l i j ɑ h ɛ w ɑ}|Na kompyuta pia viyoyozi kwa ajili ya hewa
+common_voice_sw_30344072|sw_trimmed|{t u n ɑ p ɑ s w ɑ t u w ɛ m ɑ k i n i k ɑ t i k ɑ k u dʒ ɛ ŋ ɡ ɑ m ɑ z i ŋ ɡ i ɾ ɑ j ɛ t u}|Tunapaswa tuwe makini katika kujenga mazingira yetu
+common_voice_sw_30346445|sw_trimmed|{t ɑ ɾ ɛ h ɛ k u m i n ɑ s i t ɑ m w ɛ z i ɑ ɠ ɔ s t i ɛ l f u m b i l i n ɑ t ɑ t u}|Tarehe kumi na sita mwezi Agosti elfu mbili na tatu
+common_voice_sw_30344284|sw_trimmed|{w ɑ ɓ ɑ n t u h ɑ ɔ w ɑ l i p ɑ t ɑ k u f i k ɑ m ɑ ɛ n ɛ ɔ h ɑ j ɔ h ɑ t ɑ k ɑ ɓ l ɑ j ɑ m i ɑ k ɑ j ɑ m i ɑ s i t ɑ}|Wabantu hao walipata kufika maeneo hayo hata kabla ya miaka ya mia sita
+common_voice_sw_30363921|sw_trimmed|{m p ɑ ŋ ɡ ɔ w ɑ k uː f u f u ɑ u tʃ u m i i ŋ ɡ ɑ w ɑ m ɑ ɓ ɑ ɗ i l i k ɔ m ɛ ŋ ɡ i j ɑ k i u tʃ u m i j ɑ l i f ɑ ɲ w ɑ}|Mpango wa kuufufua uchumi Ingawa mabadiliko mengi ya kiuchumi yalifanywa
+common_voice_sw_30346897|sw_trimmed|{h i v i n i k w ɛ l i t ɑ ɓ i ɑ z ɑ m t u z i n ɑ ɛ n d ɑ n ɑ n ɑ m i l ɑ n ɑ d ɛ s t u ɾ i j ɑ k ɑ ɓ i l ɑ l ɑ k ɛ}|Hivi ni kweli tabia za mtu zinaendana na mila na desturi ya kabila lake
+common_voice_sw_30344582|sw_trimmed|{w ɑ l i dʒ u l i k ɑ n ɑ t ɑ ɓ i ɑ z ɑ ɔ k u l i ŋ ɡ ɑ n ɑ n ɑ m ɑ dʒ i n ɑ j ɑ k ɔː z ɑ ɔ}|walijulikana tabia zao kulingana na majina ya koo zao
+common_voice_sw_30343936|sw_trimmed|{h ɑ l i j ɑ h ɛ w ɑ j ɑ t ɑ n z ɑ n i ɑ i n ɑ v u t i ɑ w ɑ t u w ɛ ŋ ɡ i}|hali ya hewa ya tanzania inavutia watu wengi
+common_voice_sw_30362195|sw_trimmed|{ɑ l i p ɔ m ɑ l i z ɑ m u ɗ ɑ w ɑ k ɛ ɑ l i m p i ʃ ɑ i k u l u sil ɾ ɑ i s i m ɑ ɠ u f u l i}|alipomaliza muda wake alimpisha ikulu raisi magufuli
+common_voice_sw_30364222|sw_trimmed|{t ɑ n z ɑ n i ɑ k i t u k i ɠ ɛ n i k ɑ t i k ɑ s i ɑ s ɑ z ɑ}|Tanzania kitu kigeni katika siasa za
+common_voice_sw_30346895|sw_trimmed|{m p ɑ k ɑ w ɑ m u l ɔ ŋ ɡ ɔ m k ɔ ɑ n i k ɑ ɠ ɛ ɾ ɑ k ɑ s k ɑ z i n i m ɑ ɣ ɑ ɾ i ɓ i m w ɑ n tʃ i}|Mpaka wa Mulongo mkoani Kagera kaskazini magharibi mwa nchi
+common_voice_sw_30338636|sw_trimmed|{b ɑː ɗ ɑ j ɑ m ɑ dʒ ɛ ʃ i j ɑ t ɑ n z ɑ n i ɑ k u i ŋ ɡ i ɑ u ɠ ɑ n d ɑ n ɑ k uː ð i ɓ i t i m dʒ i w ɑ m p ɑ k ɑ n i w ɑ m t u k u l ɑ}|Baada ya majeshi ya Tanzania kuingia Uganda na kuudhibiti mji wa mpakani wa Mtukula
+common_voice_sw_30348827|sw_trimmed|{k u ɾ u ɗ i ɲ u m b ɑ n i n ɑ u ʃ i n d i n d i p ɔ t ɑ j ɑ ɾ i w ɑ k u ɔ ɑ}|kurudi nyumbani na ushindi ndipo tayari wa kuoa
+common_voice_sw_30364728|sw_trimmed|{l ɑ h ɑ ʃ ɑ k ɑ ɾ u m ɛ ɑ l i k u w ɑ n i k i ɔ ŋ ɡ ɔ z i m w ɛ ɲ ɛ m ɑ ɔ n ɔ u ɓ u n i f u n ɑ m ɑ p ɛ n z i n ɑ w ɑ n ɑ n tʃ i w ɑ k ɛ}|La hasha karume alikuwa ni kiongozi mwenye maono ubunifu na mapenzi na wananchi wake
+common_voice_sw_30364645|sw_trimmed|{ɲ ɛ ɾ ɛ ɾ ɛ ɑ l i tʃ ɑ ɠ u l i w ɑ k u w ɑ w ɑ z i ɾ i k ɑ t i k ɑ s ɛ ɾ i k ɑ l i j ɑ w ɑ k ɔ l ɔ n i}|nyerere alichaguliwa kuwa waziri katika serikali ya wakoloni
+common_voice_sw_30378060|sw_trimmed|{w ɑ l i ɔ n ɑ ɱ v u t ɔ m k u ɓ w ɑ k w ɑ k i l ɑ m t u n ɑ n d ɛ ɠ ɛ h ɑ ɔ}|Walio na mvuto mkubwa kwa kila mtu na ndege hao
+common_voice_sw_30364766|sw_trimmed|{t u n ɑ ʃ i n d w ɑ k u dʒ i t ɔ k ɛ z ɑ k w ɑ w i ŋ ɡ i k u t ɛ m b ɛ l ɛ ɑ h i f ɑ ð i h i z ɔ k u t ɔ k ɑ n ɑ n ɑ s ɑ ɓ ɑ ɓ u m b ɑ l i m b ɑ l i}|Tunashindwa kujitokeza kwa wingi kutembelea hifadhi hizo kutokana na sababu mbalimbali
+common_voice_sw_30366835|sw_trimmed|{h ɑ t i m ɑ j ɛ s ɑ f ɑ ɾ i j ɑ k ɛ j ɑ h ɑ p ɑ d u n i ɑ n i i l i m ɑ l i z i k ɑ}|Hatimaye safari yake ya hapa duniani ilimalizika
+common_voice_sw_30347855|sw_trimmed|{m ɑ k ɑ m p u n i m ɛ ŋ ɡ i j ɑ k i ɠ ɛ n i h u ɗ u m i ʃ ɑ m ɑ t ɑ w i j ɑ ɔ k ɑ t i k ɑ ɛ n ɛ ɔ h i l i}|Makampuni mengi ya kigeni hudumisha matawi yao katika eneo hili
+common_voice_sw_30336432|sw_trimmed|{k u w ɑ dʒ u m u i j ɑ h i l ɛ i l i k u w ɑ tʃ ɔ m b ɔ tʃ ɑ m ɑ k ɑ ɓ ɑ i l ɑ w ɑ k u ɓ w ɑ}|kuwa jumuiya hile ilikuwa chombo cha makabaila wakubwa
+common_voice_sw_30346346|sw_trimmed|{b ɑː ð i j ɑ dʒ ɑ m iː h i z i z i l i m ɛ z w ɑ n ɑ m i l ɑ l u ɣ ɑ n ɑ d ɛ s t u ɾ i z ɑ w ɑ l u ɔ}|Baadhi ya jamii hizi zilimezwa na mila lugha na desturi za Waluo
+common_voice_sw_30368139|sw_trimmed|{k i s i w ɑ h i k i tʃ ɑ ɾ u ɓ ɔ n d ɔ n i m ɑ k ɑ z i n ɑ m ɑ z i ŋ ɡ i ɾ ɑ m u ɑ f ɑ k ɑ j ɑ k u z ɑ l i ɑ n ɑ s ɑ m ɑ k i}|kisiwa hiki cha Rubondo ni makazi na mazingira muafaka ya kuzaliana Samaki
+common_voice_sw_30380337|sw_trimmed|{b ɑː ð i j ɑ v i dʒ ɑ n ɑ w ɑ l i ɔ k u w ɑ w ɑ m ɛ p ɑ t ɑ ɛ l i m u j ɑ w ɑ z u ŋ ɡ u w ɑ k ɑ t i h u ɔ}|Baadhi ya Vijana waliokuwa wamepata elimu ya wazungu wakati huo
+common_voice_sw_30378041|sw_trimmed|{m tʃ u ŋ ɡ ɑ ŋ ɡ ɔ m b ɛ ɑ n ɑː n z ɑ s ɑ f ɑ ɾ i j ɑ k ɛ j ɑ m ɑ s ɔ m ɔ j ɑ s ɛ k ɔ n d ɑ ɾ i}|mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+common_voice_sw_30338889|sw_trimmed|{b ɑ ɾ ɑ k sil h u s ɛ i n ɔ ɓ ɑ m ɑ n i ɾ ɑ i s i m w ɑ f ɾ i k ɑ m w ɑ m ɛ ɾ i k ɑ w ɑ k w ɑ n z ɑ k u ʃ i k ɑ w ɑ ð i f ɑ h u ɔ}|Barack Hussein Obama ni Raisi MwafrikaMwamerika wa kwanza kushika wadhifa huo
+common_voice_sw_30367772|sw_trimmed|{h ɑ t ɑ h i v j ɔ h ɑ i n ɑ m ɑː n ɑ k w ɑ m b ɑ u n ɑ l ɑ z i m i k ɑ k u ɑ tʃ ɑ k i l ɑ tʃ ɑ k u l ɑ u k i p ɛ n d ɑ tʃ ɔ s ɑ ɓ ɑ ɓ u t u sil u n ɑ k i s u k ɑ ɾ i}|Hata hivyo haina maana kwamba unalazimika kuacha kila chakula ukipendacho sababu tu una kisukari
+common_voice_sw_30343678|sw_trimmed|{k i l ɑ k i n ɑ tʃ ɔ w ɑ p ɛ n d ɛ z ɑ n d ɑ n i j ɑ m ɑ tʃ ɔ j ɑ ɔ sil n d i tʃ ɔ w ɑ n ɑ tʃ ɔ f ɑ ɲ ɑ}|kila kinachowapendeza ndani ya macho yao ndicho wanachofanya
+common_voice_sw_30337488|sw_trimmed|{w ɑ k ɑ z i w ɑ t ɑ i f ɑ z i m ɑ l ɑ t ɑ n z ɑ n i ɑ k w ɑ u dʒ u m l ɑ}|Wakazi wa taifa zima la Tanzania kwa ujumla
+common_voice_sw_30345572|sw_trimmed|{ɑ m i n i ɑ l i h ɑ ɾ i ɓ u u tʃ u m i w ɑ n tʃ i j ɑ u ɠ ɑ n d ɑ k w ɑ u f i s ɑ ɗ i}|amini aliharibu uchumi wa nchi ya uganda kwa ufisadi
+common_voice_sw_30365021|sw_trimmed|{n tʃ i ɑ u b ɑ ɾ ɑ l ɑ ɑ f ɾ i k ɑ n ɑ n tʃ i z i l ɛ z ɑ ɑ m ɛ ɾ i k ɑ}|Nchi au bara la Afrika na nchi zile za Amerika
+common_voice_sw_30348121|sw_trimmed|{m b ɑ l i m b ɑ l i n ɑ ŋ ɡ u ɔ h ɑ t ɑ h i v j ɔ m t i n d ɔ u l i ɔ p ɛ n d ɛ l ɛ w ɑ}|mbalimbali na nguo Hata hivyo mtindo uliopendelewa
+common_voice_sw_30337436|sw_trimmed|{i n ɑ j ɔ k ɑ m i l i ʃ ɑ dʒ u m l ɑ j ɑ w i l ɑ j ɑ t ɑ t u z ɑ m k ɔ ɑ w ɑ i ɾ i ŋ ɡ ɑ}|Inayokamilisha jumla ya wilaya tatu za mkoa wa Iringa
+common_voice_sw_30380096|sw_trimmed|{i p ɔ p i ɑ ɾ ɑ ŋ ɡ i j ɑ b l uː n ɑ n dʒ ɑ n ɔ z i k i k ɑ m i l i ʃ ɑ ɾ ɑ ŋ ɡ i n ɛ}|Ipo pia rangi ya bluu na njano zikikamilisha rangi nne
+common_voice_sw_30338975|sw_trimmed|{k ɑ m p u n i z ɑ n d ɑ n i k u t ɛ ŋ ɡ w ɑ k ɑ t i k ɑ z ɑ ɓ u n i n ɑ t ɑː s i s i z ɑ s ɛ ɾ i k ɑ l i}|Kampuni za ndani kutengwa katika zabuni na taasisi za serikali
+common_voice_sw_30348569|sw_trimmed|{m ɑ ɾ ɑ ɲ i ŋ ɡ i h u ɛ n d ɑ k ɑ t i k ɑ m i s i t u ɑ m b ɑ p ɔ sil k u n ɑ k ɑ m b i z ɑ ʃ ɛ ɾ ɛ h ɛ m ɑː l u m}|Mara nyingi huenda katika misitu ambapo kuna kambi za sherehe maalum

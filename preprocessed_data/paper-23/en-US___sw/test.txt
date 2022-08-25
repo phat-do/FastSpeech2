@@ -1,0 +1,30 @@
+common_voice_sw_30336247.wav|sw_trimmed|{t u k i ɔ h i l i l i n ɑ ʄ u l i k ɑ n ɑ k ɑ m ɑ m ɑ ɔ n ɛ ʃ ɔ j ɑ k i l i m ɔ}|tukio hili linajulikana kama maonesho ya Kilimo
+common_voice_sw_30336255.wav|sw_trimmed|{ʃ u ɣ u l i i n ɑː n z ɑ k w ɑ k i ʄ ɑ n ɑ m ɔ dʒ ɑ m ɔ ʄ ɑ k u k ɑ m ɑ t w ɑ n ɑ m z ɛː}|Shughuli inaanza kwa kijana mmojammoja kukamatwa na mzee
+common_voice_sw_30336256.wav|sw_trimmed|{m w ɑ k ɑ ɛ l f u m ɔ ʄ ɑ m i ɑ t i s ɑ n ɑ t i s ɑ}|Mwaka elfu moja mia tisa na tisa
+common_voice_sw_30336269.wav|sw_trimmed|{ɑ l i t ɛ t ɛ ɑ m p ɑ ŋ ɡ ɔ w ɑ k ɛ h u ɔ ɑ k i s ɛ m ɑ s i ɔ n i ɑ i ɓ u n i l i z i ŋ ɡ ɑ t i ɑ tʃ ɑ ɠ u ɔ h i l ɔ}|Alitetea mpango wake huo akisema Sioni aibu nilizingatia chaguo hilo
+common_voice_sw_30336274.wav|sw_trimmed|{h i s t ɔ ɾ i ɑ j ɑ k ɛ ɲ ɑ k ɑ m ɑ n tʃ i i n ɑ j ɔ k ɑ l i w ɑ n ɑ b i n ɑ ɗ ɑ m u i n ɑ ɛ n ɛ ɑ m i ɑ k ɑ l ɑ k i k ɑ m ɑ s i m i l i ɔ n i}|Historia ya Kenya kama nchi inayokaliwa na binadamu inaenea miaka laki kama si milioni
+common_voice_sw_30336277.wav|sw_trimmed|{t ɑ n z ɑ n i ɑ i m ɛ ɓ ɑ ɾ i k i w ɑ m ɑ p ɑ ŋ ɡ ɔ j ɛ ɲ ɛ h i s t ɔ ɾ i ɑ ɲ i ŋ ɡ i n ɑ z ɑ k u v u t i ɑ}|tanzania imebarikiwa mapango yenye historia nyingi na za kuvutia
+common_voice_sw_30336289.wav|sw_trimmed|{n i m tʃ ɛ z ɑ ʄ i w ɑ z ɑ m ɑ n i w ɑ t i m u j ɑ t ɑ i f ɑ j ɑ u ɾ ɛ n ɔ n ɑ k l ɑ ɓ u z ɑ b ɑ ɾ k ɛ l ɔ n ɑ}|ni mchezaji wa zamani wa timu ya taifa ya Ureno na klabu za Barcelona
+common_voice_sw_30336292.wav|sw_trimmed|{b ɑː ð i j ɑ m ɑ ɛ n ɛ ɔ j ɑ m ɑ t ɔ m b ɔ n ɑ k i ɾ ɔ k ɑ}|Baadhi ya maeneo ya Matombo na Kiroka
+common_voice_sw_30336300.wav|sw_trimmed|{m ɑ h ɑ ɾ i k w ɑ k ɑ w ɑ i ɗ ɑ n i f ɛ ð ɑ n ɑ ŋ ɡ ɔ m b ɛ p i ɑ m ɑ ɓ l ɑ k ɛ t i}|Mahari kwa kawaida ni fedha na ngombe pia mablanketi
+common_voice_sw_30336303.wav|sw_trimmed|{b ɑ ɗ ɔ h ɑ t u ʄ ɑ tʃ ɛ l ɛ w ɑ m k uː u n ɑ w ɛ z ɑ k u l i m ɑ l i z i ɑ h i l i s u ɑ l ɑ}|bado hatujachelewa mkuu unaweza kulimalizia hili suala
+common_voice_sw_30336304.wav|sw_trimmed|{b i l ɑ k u s ɑ h ɑ u w i l ɑ j ɑ j ɑ i t i l i m ɑ i n ɑ j ɔ k ɑ m i l i ʃ ɑ ʄ u m l ɑ j ɑ w i l ɑ j ɑ t ɑ n ɔ z ɑ m k ɔ ɑ w ɑ s i m i j u}|Bila kusahau wilaya ya Itilima inayokamilisha jumla ya wilaya tano za mkoa wa Simiyu
+common_voice_sw_30336305.wav|sw_trimmed|{ʄ ɛ m t ɑ p i ɠ ɑ k ɑ m b i n ɑ k ɑ t i k ɑ k u p i ɠ ɑ k ɑ m b i n i l ɑ z i m ɑ m b ɛ ɓ ɛ m ɑ h ɛ m ɑ j ɛ n u}|Je mtapiga kambi na katika kupiga kambi ni lazima mbebe mahema yenu
+common_voice_sw_30336307.wav|sw_trimmed|{ʄ ɑ m iː ɲ i ŋ ɡ i z i l i k u w ɑ z i k i f ɑ h ɑ m i k ɑ k w ɑ m ɑ ʄ i n ɑ j ɑ k ɔː n ɑ f ɑ m i l i ɑ}|Jamii nyingi zilikuwa zikifahamika kwa majina ya Koo na familia
+common_voice_sw_30336308.wav|sw_trimmed|{m b u z i n ɑ k ɔ n d ɔː w ɑ n ɑ f ɑ i ɗ ɑ k u ɓ w ɑ s ɑ n ɑ k w ɑ b i n ɑ ɗ ɑ m u}|mbuzi na kondoo wana faida kubwa sana kwa binadamu
+common_voice_sw_30336316.wav|sw_trimmed|{h ɑ j ɔ s i ɔ m ɑ n ɛ n ɔ m ɑ ɠ ɛ n i k u j ɑ s i k i ɑ m ɑ ɾ ɑ k w ɑ m ɑ ɾ ɑ}|Hayo sio maneno mageni kuyasikia mara kwa mara
+common_voice_sw_30336326.wav|sw_trimmed|{v i t ɑ v j ɑ u ɠ ɑ n d ɑ v i l iː w ɛ k ɑ t ɑ n z ɑ n i ɑ m ɑ tʃ ɔ z ɑ i ɗ i}|vita vya uganda viliiweka tanzania macho zaidi
+common_voice_sw_30336328.wav|sw_trimmed|{ɑ l i ɾ u ɗ i k u ʄ ɛ ŋ ɡ ɑ t ɛ n ɑ ɲ u m b ɑ m ɑ h ɑ l i p ɑ k ɑ l ɛ ŋ ɡ ɑ m dʒ i n i i ɾ i ŋ ɡ ɑ}|Alirudi kujenga tena nyumba mahali pa Kalenga mjini Iringa
+common_voice_sw_30336329.wav|sw_trimmed|{j ɑ p ɔ m ɑ z ɔ ɛ ɑ k u w ɑ w ɑ n ɑ ɔ t ɑ k i w ɑ k u t ɛ m b ɛ l ɛ ɑ h i f ɑ ð i z ɛ t u n i w ɑ t u k u t ɔ k ɑ n dʒ ɛ j ɑ n tʃ i}|Yapo mazoea kuwa wanaotakiwa kutembelea hifadhi zetu ni watu kutoka nje ya nchi
+common_voice_sw_30336331.wav|sw_trimmed|{m s i s i t i z ɔ k ɑ t i k ɑ u k ɔ m b ɔ z i w ɑ b ɑ ɾ ɑ n i ɑ f ɾ i k ɑ n ɑ m ɑ p ɑ m b ɑ n ɔ ð i ɗ i j ɑ u ɓ ɛ ɓ ɛ ɾ u n ɑ v i ɓ ɑ ɾ ɑ k ɑ w ɑ ɔ}|Msisitizo katika ukombozi wa Barani Afrika na mapambano dhidi ya ubeberu na vibaraka wao
+common_voice_sw_30336335.wav|sw_trimmed|{w ɑ ɠ ɛ n i h ɑ ɔ w ɑ t ɑ k u w ɑ n i k u t ɔ k ɑ n ɑ n d ɑ n i j ɑ m k ɔ ɑ ɑ m ɑ w i l ɑ j ɑ}|Wageni hao watakuwa ni kutokana ndani ya mkoa ama wilaya
+common_voice_sw_30336339.wav|sw_trimmed|{n i l i ʄ i t ɑ h i ɗ i n ɑ w ɑ k ɑ t i m w i ŋ ɡ i n ɛ u k i w ɑ ɾ ɑ i s n ɑ m w ɛ ɲ ɛ k i t i u n ɑ ŋ ɡ u v u}|Nilijitahidi na wakati mwingine ukiwa Rais na mwenyekiti una nguvu
+common_voice_sw_30336346.wav|sw_trimmed|{n ɑ t ɑ ɾ ɑ t i ɓ u z ɑ ɔ m ɔ ʄ ɑ j ɑ m ɑ k ɑ ɓ i l ɑ m ɑ k u ɓ w ɑ}|na taratibu zao Moja ya makabila makubwa
+common_voice_sw_30336347.wav|sw_trimmed|{m ɑ z i w ɑ j ɑ m t i n d i j ɑ n ɑ ɑ s i ɗ i z ɑ ɑ s i l i}|maziwa ya mtindi yana asidi za asili
+common_voice_sw_30336349.wav|sw_trimmed|{p ɑ m ɔ ʄ ɑ n ɑ u k ɔː w ɔ t ɛ w ɑ m u j i ŋ ɡ ɑ ɑ n ɑ f ɑ f ɑ n u ɑ m ɑ l u ɠ i l ɑ m u j i ŋ ɡ ɑ}|pamoja na ukoo wote wa muyinga anafafanua Malugila Muyinga
+common_voice_sw_30336352.wav|sw_trimmed|{k u n ɑ n d i z i z ɑ ɑ i n ɑ m b ɑ l i m b ɑ l i n ɑ k w ɑ m ɑ t u m i z i t ɔ f ɑ u t i}|Kuna ndizi za aina mbalimbali na kwa matumizi tofauti
+common_voice_sw_30336353.wav|sw_trimmed|{h ɑ k u k u w ɑ n ɑ b ɑ ɾ ɑ ɓ ɑ ɾ ɑ z ɑ k u t ɔ ʃ ɑ m i k ɔ ɑ n i}|hakukuwa na barabara za kutosha mikoani
+common_voice_sw_30336366.wav|sw_trimmed|{tʃ ɑ m s i ŋ ɡ i n i k w ɑ m b ɑ w ɑ t u h ɑ ɔ w ɑ l i f ɑ n i k i w ɑ k u i t w ɑ m ɑ ʄ i n ɑ j ɑ m ɑ ɛ n ɛ ɔ w ɑ l i j ɔ k ɑː}|Cha msingi ni kwamba watu hao walifanikiwa kuitwa majina ya maeneo waliyokaa
+common_voice_sw_30336368.wav|sw_trimmed|{b ɛ k i w ɑ k ɑ t i w ɑ u ɾ ɛ n ɔ p ɛ p ɛ ɑ l i ɔ n ɛ ʃ w ɑ k ɑ ɗ i ɲ ɛ k u n d u}|beki wa kati wa ureno pepe alioneshwa kadi nyekundu
+common_voice_sw_30336369.wav|sw_trimmed|{h iː t ɔ h ɑ ɾ ɑ h u f ɑ ɲ w ɑ n ɑ w ɑ z ɛː ɑ m b ɑ ɔ h u t u m i ɑ k i s u tʃ ɛ ɲ ɛ m ɑ k ɑ l i}|Hii tohara hufanywa na wazee ambao hutumia kisu chenye makali
+common_voice_sw_30336380.wav|sw_trimmed|{m ɡ ɛ n i j ɛ j ɔ t ɛ ɑ k i f i k ɑ ɛ n ɛ ɔ l ɑ z i w ɑ t ɑ ŋ ɡ ɑ ɲ i k ɑ l ɑ z i m ɑ ɑ t ɑ s t ɑ h ɑ ʄ ɑ ɓ u ɑ i n ɑ j ɑ k i t ɔ w ɛ ɔ h i tʃ ɔ}|Mgeni yeyote akifika eneo la ziwa Tanganyika lazima atastahajabu aina ya kitoweo hicho

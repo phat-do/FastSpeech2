@@ -1,0 +1,10 @@
+common_voice_bg_25033227|bg_trimmed|{t e ɡ o x v a n a ɫ i n a b i ɫ i sil ɡ o sil x u b a v o i ɡ o p u s n a ɫ i}|те го хванали, набили го хубаво и го пуснали.
+common_voice_bg_25033608|bg_trimmed|{p e t k o sil p o ɡ ɫ e d n a m a ɫ k o i z n e n a d a n i s t a n a}|петко погледна малко изненадан и стана.
+common_voice_bg_24999594|bg_trimmed|{p o ɫ o ʒ e n i e t o n a b ɤ ɫ ɡ a r i j a e n a j ɫ o ʃ o o t ɡ ɫ e d n a t o tʃ k a n a m o r a ɫ a}|положението на българия е най-лошо от гледна точка на морала.
+common_voice_bg_24999600|bg_trimmed|{t o z tʃ a s r a z b r a x m e x a r a k t e r a i r a z m e r a n a n o ʃ tʃ e s n o t o n e ʃ tʃ a s t i e}|тозчас разбрахме характера и размера на нощесното нещастие.
+common_voice_bg_24999481|bg_trimmed|{n o i s e ɡ a r a z b o j n i k ɤ t n e s t o e ʃ e m i r e n}|но и сега разбойникът не стоеше мирен.
+common_voice_bg_24999607|bg_trimmed|{i m a ʃ e e d i n u tʃ i t e ɫ sil v ɡ i m n a z i j a t a sil v i s k o v s k i}|имаше един учител в гимназията - висковски.
+common_voice_bg_25033439|bg_trimmed|{n a v s j a k a k ɤ ʃ tʃ a d a i m a p o e d n a o k a b a r u t sil i sil k u r ʃ u m i}|на всяка къща да има по една ока барут и куршуми.
+common_voice_bg_24999625|bg_trimmed|{n i ɫ o v sil r a z b r a o t s ɫ e d v a ʃ tʃ o t o p i s m o sil tʃ e ɡ a ɫ i a n o v sil s k o r o t r ɤ ɡ v a z a s t o ɫ i ts a t a}|нилов разбра от следващото писмо, че галианов скоро тръгва за столицата.
+common_voice_bg_24999401|bg_trimmed|{v e r k o v i tʃ s e z a v ɤ r n a s p r a z d n i r ɤ ts e}|веркович се завърна с праздни ръце.
+common_voice_bg_24999418|bg_trimmed|{k o j t o s e e v ɫ j u b v a ɫ v sil m e n e n e e p a ʃ tʃ a ɫ d o b r o}|който се е влюбвал в мене, не е пащал добро.
