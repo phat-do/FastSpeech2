@@ -1,10 +1,10 @@
-common_voice_uz_30178869|uz_trimmed|{n a ɸ a r s o z i o r n i d̪ a}|nafar so'zi o'rnida
-common_voice_uz_30300298|uz_trimmed|{a n ʔ a n a j u spn ɒ ŋ i m i z sil ɒ s t̪ i d̪ a}|urf-odatlarimiz, an'anayu irim-sirimlarimizgacha, ongimiz ostida
-common_voice_uz_30178328|uz_trimmed|{o q i t̪ u v tʃ i ɡ a j ɒ r d̪ a m}|o'qituvchiga yordam
-common_voice_uz_30277448|uz_trimmed|{m i l l a t̪ p a r v a r sil i n v e s t̪ ɒ r l a r sil k e r a k sil b i z ɡ a}|millatparvar investorlar kerak bizga.
+common_voice_uz_30178308|uz_trimmed|{t̪ u r k m a n b ɒ ʃ i n i ŋ sil ɒ t̪ sil j ɒ k i i t̪ n i sil s e n a t̪ ɡ a sil k i r i t̪ ɡ a n i h a q i d̪ a h e tʃ sil q a n d̪ a j m a ʔ l u m ɒ t̪ sil j o q}|turkmanboshining ot yoki itni senatga kiritgani haqida hech qanday ma'lumot yo'q
+common_voice_uz_30178158|uz_trimmed|{u j i m sil k u j d̪ i sil d̪ e s a m sil k i m sil h a m sil i ʃ ɒ n a r}|uyim kuydi desam kim ham ishonar
 common_voice_uz_30178659|uz_trimmed|{h a m m ɒ m d̪ a h a m s a d̪ a q a s o r a j d̪ i m i}|hammomda ham sadaqa so'raydimi?
-common_voice_uz_30179467|uz_trimmed|{m a n a o ʃ a n d̪ a n b u j ɒ n ɒ l t̪ i j i l o t̪ d̪ i}|mana, o'shandan buyon olti yil o'tdi.
-common_voice_uz_30178354|uz_trimmed|{u i ʃ l a j ɒ t̪ ɡ a n i d̪ ɒ r a ʃ u n i sil t̪ a q ɒ z ɒ q i l a r d̪ i}|u ishlayotgan idora shuni taqozo qilardi.
-common_voice_uz_30275867|uz_trimmed|{q u r i ɡ a n d̪ e ŋ i z n i ŋ sil q i r ʁ ɒ q l a r i d̪ a}|qurigan dengizning qirg'oqlarida
-common_voice_uz_30178118|uz_trimmed|{u l a r t̪ a r ʁ i b ɒ t̪ tʃ i n i sil r a q ɒ b a t̪ tʃ i sil d̪ e b sil b i l d̪ i}|ular targ'ibotchini raqobatchi deb bildi.
-common_voice_uz_30235558|uz_trimmed|{u s t̪ ɒ z sil b i l a n b o l ɡ a n ɒ d̪ d̪ i j s u h b a t̪ l a r d̪ a h a m b i z sil u sil k i ʃ i d̪ a n k a t̪ t̪ a s a b ɒ q sil ɒ l a r d̪ i k}|ustoz bilan bo'lgan oddiy suhbatlarda ham biz u kishidan katta saboq olardik.
+common_voice_uz_30177913|uz_trimmed|{u l u ʁ b e k sil r a s a d̪ χ ɒ n a s i ɡ a b ɒ r d̪ i m}|ulug'bek rasadxonasiga bordim.
+common_voice_uz_30178261|uz_trimmed|{b ɒ s sil d̪ e r h i n d̪ u}|bos, der hindu
+common_voice_uz_30178286|uz_trimmed|{b ɒ l a ɡ a n i m a b o l ɡ a n}|bolaga nima bo'lgan
+common_voice_uz_30299275|uz_trimmed|{i l m u sil i ʃ q sil d̪ a r j ɒ s i m e h r sil d̪ a r j ɒ s i}|ilmu ishq daryosi, mehr daryosi
+common_voice_uz_30240225|uz_trimmed|{e r t̪ a ɡ a r ɒ s s i j a m a r k a z i j sil b a n k i j i ʁ i l i b sil b a z a v i j s t̪ a v k a n i sil k o r i b sil tʃ i q a d̪ i}|ertaga rossiya markaziy banki yig'ilib, bazaviy stavkani ko'rib chiqadi
+common_voice_uz_30178130|uz_trimmed|{h ɒ z i r o t̪ k a n sil k u n l a r m e n sil u tʃ u n n a ɸ a q a t̪ s e v ɡ i q i s s a s i sil b a l k i j u r t̪ ʃ a ʔ n i}|hozir o'tkan kunlar men uchun nafaqat sevgi qissasi, balki yurt sha'ni
+common_voice_uz_30178818|uz_trimmed|{dʒ ɒ n a j a d̪ i ŋ b o l m a d̪ i sil v a ɸ ɒ ŋ}|jon ayading, bo'lmadi vafong.

@@ -1,190 +1,209 @@
-common_voice_ur_31824491|ur_trimmed|{b iː ʃ k sil ʋ ɑː dʒ b iː sil s ə ɦ iː}|بیشک واجبی سہی
-common_voice_ur_31824486|ur_trimmed|{dʒ ə ɦ ɑ̃ː m ẽː sil z iː ɾ t̪ ɑː l iː m ɦ ũː sil j eː sil dʒ ʊ ɡ ɑː ɪ s l ɑː m sil ɑː b ɑː d̪ k iː sil ɦ d̪ uː d̪ m ẽː ɦ iː sil ɛː}|جہاں میں زیرتعلیم ہوں یہ جگہ اسلام آباد کی حدود میں ہی ہے
-common_voice_ur_31824331|ur_trimmed|{dʒ ə ʋ ɑː b k eː l ɪ j eː sil tʃ ɪ n d̪ sil ɦ ə q ɑː j q sil ɦ ə m ɑː ɾ iː sil ɾ ə ɦ n ə m ɑː iː k ə ɾ s ə k t̪ eː ɦ ẽː}|جواب کے لیے چند حقائق ہماری رہنمائی کر سکتے ہیں
-common_voice_ur_31824568|ur_trimmed|{ə ɦ ɑ̃ː s ɪ ɦ ə t̪ ʈʰ iː k sil ɦ oː}|ہاں صحت ٹھیک ہو
-common_voice_ur_31824385|ur_trimmed|{t̪ uː ɪ s s eː sil ə l ɑː q ɑː iː sil ɔː ɾ sil m ə q ɑː m iː sil s ɪ j ɑː s iː sil q uː t̪ ẽː sil k m z uː ɾ ɦ ũː}|تو اس سے علاقائی اور مقامی سیاسی قوتیں کمزور ہوں
-common_voice_ur_31823646|ur_trimmed|{ə s iː sil t̪ ə ɾ ɑː sil dʒ ə nː ɑː t̪ k eː sil m ʊ s ə l ə sil ɦ õː eː sil k ɑː sil m ə z m uː n sil bʱ iː sil spn sil m ʊ dʒ iː d̪ m ẽː sil b ə j ɑː n ɦ ə ʋ ɑː sil ɛː}|اسی طرح جنات کے مسلط ہونے کا مضمون بھی قرآنِ مجید میں بیان ہوا ہے
-common_voice_ur_31823543|ur_trimmed|{ɦ ə m ɑː ɾ iː eː ʋ n eː ʋ ə ɾ s ʈ iː ɪ n t̪ eː z ɑː m iː ɑː n eː bʱ iː ɦ ə m ẽː sil m ʊ t̪ b ʊ n ɑː k j ɑː sil t̪ʰ ɑː}|ہماری یونیورسٹی انتظامیہ نے بھی ہمیں متبنہ کیا تھا
-common_voice_ur_31823983|ur_trimmed|{ɪ s p ɑ̃ː ʈ sil f k s ŋ ɡ sil ɪ s k iː ɳ ɖ l n ɑː s ə ɾ sil dʒ ʊ m ʃ iː d̪ sil k eː x ɪ l ɑː f sil k eː s k ɑː sil f iː s ə l ɑː m eː ɦ f ɔː z}|اسپاٹ فکسنگ اسکینڈلناصر جمشید کیخلاف کیس کا فیصلہ محفوظ
-common_voice_ur_31823933|ur_trimmed|{ɑː b sil ə n s ɑː n iː s oː tʃ sil k eː}|اب انسانی سوچ کے
-common_voice_ur_31823544|ur_trimmed|{p ɑː n ɑː m ɑː sil p ɛː pː ə ɾ z m ẽː k ʊ tʃ sil b ɑː t̪ n ɑː sil b ə n sil s k iː}|پاناما پیپرز میں کچھ بات نہ بن سکی
-common_voice_ur_31823506|ur_trimmed|{ə m ɾ ɑː n x ɑː n k iː sil t̪ ə q ɾ iː ɾ k eː sil b ə ʔ d̪ iː k sil b ɑː ɾ sil pʰ ə ɾ j ə ɦ iː f z ɑː sil ɛː}|عمران خان کی تقریر کے بعد ایک بار پھر یہی فضا ہے
-common_voice_ur_31823848|ur_trimmed|{q iː m ə t̪ ũː m ẽː sil ʋ j l eː ʋ sil iː ɖ ɖ sil ʈ iː k s sil ʃ ɑː m ə l sil ɛː}|قیمتوں میں ویلیو ایڈڈ ٹیکس شامل ہے
-common_voice_ur_31823765|ur_trimmed|{t̪ uː ɪ s k ɑː ɦ ə s ɑː ɦ ũː}|تو اس کا حصہ ہوں
-common_voice_ur_31824408|ur_trimmed|{tʃ ɑː ɾ sil q ɪ s m sil k eː k æ n s ə ɾ}|چار قسم کے کینسر
-common_voice_ur_31823540|ur_trimmed|{ɔː ɾ n ɑː ɦ oː n ɑː sil tʃ ɑː ɦ iː eː}|اورنہ ہونا چاہیے
-common_voice_ur_31823956|ur_trimmed|{ɪ s l ɪ j eː n ɑː k ɑː m ɦ iː sil ɡ ʊ z ɾ iː}|اس لئے ناکام ہی گزری
-common_voice_ur_31824379|ur_trimmed|{ə b uː sil z ɦ ə b iː sil ʈ ɛː s ʈ p ɑː k ɪ s t̪ ɑː n k oː sil s ə n s ə n iː sil x iː z m ɪ q ɑː b l ɪ eː k eː sil b ə ʔ d̪ sil ɾ ə ŋ z s eː sil ʃ ɪ k ɪ s t̪}|ابو ظہبی ٹیسٹ پاکستان کو سنسنی خیزمقابلے کے بعد رنز سے شکست
-common_voice_ur_31823582|ur_trimmed|{q uː m iː sil ʊ d̪ ɑː ɾ eː sil ʃ d̪ ə t̪ s eː sil t̪ ɪ ʃ k iː l sil n uː k ɑː sil m ə t̪ ɑː l ɪ b ɑː k ə ɾ ɾ ɛː sil ɦ ẽː}|قومی ادارے شدت سے تشکیل نو کا مطالبہ کر رہے ہیں
-common_voice_ur_31824275|ur_trimmed|{s ə l iː m ɑː n sil n d̪ iː sil ɑː x ɾ sil n ɔː ɾ dʒ ə ɦ ɑ̃ː sil p ə ɾ k j ɑː sil ɔː ɾ k eː ũː l ɪ kʰ ẽː}|سلیمان ندوی آخر نورجہاں پر کیا اور کیوں لکھیں گے؟
-common_voice_ur_31824356|ur_trimmed|{ɪ s sil x ɑː b k oː d̪ʱ uː ɾ ɑː sil ɦ iː sil ɾ ə ɦ n eː sil d̪ ə j ɑː sil dʒ ɑː ɪ j eː}|اس خواب کو ادھورا ہی رہنے دیا جائے
-common_voice_ur_31824207|ur_trimmed|{ɦ ə ɑː s ə l n ɦ ẽː sil k ə ɾ ɾ ɛː sil dʒ ə s k eː sil ʋ oː m ə s t̪ ɦ q sil ɦ ẽː}|حاصل نہیں کر رہے جس کے وہ مستحق ہیں
-common_voice_ur_31824249|ur_trimmed|{m ʊ x t̪ ə l f}|مختلف آڈیشنزمیں
-common_voice_ur_31823610|ur_trimmed|{d̪ n j ɑː k eː sil p ə s t̪ ɑː sil t̪ ɾ iː n sil q d̪ k ɑː ɾ iː k ɑː ɾ ʊ ɖ}|دنیا کے پستہ ترین قد کا ریکارڈ
-common_voice_ur_31823825|ur_trimmed|{ʊ p n iː dʒ iː b s eː sil z j ɑː d̪ ɑː sil x ɾ tʃ n ɦ ẽː sil k ɾ ɪ t̪ ɑː}|اپنی جیب سے زیادہ خرچ نہیں کرتا
-common_voice_ur_31823505|ur_trimmed|{s ʊ n iː l sil ɡ ʋ ɑː s k ɾ k iː j eː}|سنیل گواسکر کی یہ
-common_voice_ur_31823935|ur_trimmed|{k ə ɾ p ə ʃ ə n sil k eː ə l z ɑː m ɑː t̪ m ẽː sil ɑː p sil ɡʱ ɾ eː ɦ ũː}|کرپشن کے الزامات میں آپ گھرے ہوں
-common_voice_ur_31824251|ur_trimmed|{ɑː b sil dʒ ə b n ə ʋ ə n l iː ɡ sil p eː sil ɡ ɦ ɾ eː sil b ɑː d̪ l sil tʃ ɑː sil ɾ ɛː sil ɦ ẽː sil j eː sil bʱ uː l iː}|اب جب نون لیگ پہ گہرے بادل چھا رہے ہیں' یہ بھولی
-common_voice_ur_31824488|ur_trimmed|{ɡ oː j ɑː sil ɦ ʊ k uː m ə t̪ sil ɔː ɾ d̪ l ɪ j ə sil k eː ɦ ɑː t̪ʰ sil s eː n ɪ k ə l k ə ɾ}|گویا حکومت اورعدلیہ کے ہاتھ سے نکل کر
-common_voice_ur_31823507|ur_trimmed|{t̪ uː ʋ oː sil dʒ uː t̪ iː sil p ə ɾ m ɑː ɾ sil ɦ ẽː}|تو وہ جوتی پرمار ہیں
-common_voice_ur_31823481|ur_trimmed|{ɑː dʒ sil q d̪ ɾ ə t̪ n eː ə n k eː s ɑː t̪ʰ sil ɦ ɑː t̪ʰ sil k ə ɾ d̪ ə j ɑː}|آج قدرت نے ان کے ساتھ ہاتھ کر دیا
-common_voice_ur_31824222|ur_trimmed|{p ə ɾ ɑː n iː sil f l ə m n eː m eː ɾ iː sil b ə tʃ p ə n k iː sil j ɑː d̪ ẽː sil t̪ ɑː z ɑː sil k ɾ ɪ d̪ ẽː}|اُس پرانی فلم نے میری بچپن کی یادیں تازہ کردیں
-common_voice_ur_31824320|ur_trimmed|{ɪ n s ɑː n j eː sil x j ɑː l k ɾ ɪ t̪ ɑː ɛː sil k eː sil b ə s sil ʋ ə oː ʈ d̪ eː n eː k iː sil d̪ iː ɾ sil ɛː}|انسان یہ خیال کرتا ہے کہ بس ووٹ دینے کی دیر ہے
-common_voice_ur_31824493|ur_trimmed|{j eː sil ʋ ə q ə t̪ sil l eː kʰ ə ə n ə m ə l k ɑː sil ɛː}|یہ وقت لیکن عمل کا ہے
-common_voice_ur_31824479|ur_trimmed|{f iː m l iː sil p ə l ɑː ɳ ŋ ɡ p ɑː l iː s iː m ẽː t̪ ə b ʊ d̪ eː l iː k eː sil b ə ʔ d̪ bʱ iː sil tʃ iː n m ẽː sil ʃ ə ɾ ɑː sil spn m ʊ s ə l s l k ə m ɦ oː ɾ ə ɦ iː sil ɛː}|فیملی پلاننگ پالیسی میں تبدیلی کے بعد بھی چین میں شرح آبادی مسلسل کم ہو رہی ہے
-common_voice_ur_31823851|ur_trimmed|{m ə s t̪ ɪ q b ə l sil m ẽː bʱ iː ɪ s k iː z ə ɾ uː ɾ ə t̪ sil t̪ uː sil ɾ ɛː ɦ iː sil ɡ iː sil dʒ iː s eː p ə l ɑː s ʈ ə k sil ʋ ɣ j ɪ ɾ ɑː sil b ə n ɑː n ɑː ɦ oː ɪ ɡ j ɑː}|مستقبل میں بھی اس کی ضرورت تو رہے ہی گی جیسے پلاسٹک وغیرہ بنا نا ہوگیا
-common_voice_ur_31823512|ur_trimmed|{j eː bʱ iː s ə m ə dʒ ɾ ɛː sil ɦ ũː}|یہ بھی سمجھ رہے ہوں
-common_voice_ur_31824255|ur_trimmed|{ʋ oː ɑː b ɪ s l ɑː m sil ɑː b ɑː d̪ s eː k j ɑː k ə ɾ ẽː sil ɡ eː}|وہ اب اسلام آباد سے کیا کریں گے
-common_voice_ur_31824465|ur_trimmed|{t̪ uː sil k ə ʋ ə n sil ɪ s eː k s iː sil ɡ ɦ ɾ iː sil kʰ ɑː iː m ẽː sil ɡ ɪ ɾ n eː s eː sil ɾ uː k s ə ə k t̪ ɑː sil ɛː}|تو کون اسے کسی گہری کھائی میں گرنے سے روک سکتا ہے 
-common_voice_ur_31824431|ur_trimmed|{n ɑː p iː p iː p iː m ẽː}|نہ پی پی پی میں
-common_voice_ur_31823615|ur_trimmed|{dʒ ə s k eː sil ɑː f iː s ə ɾ sil ʃ ə ɾ ɑː b iː sil ɦ ũː}|جس کے آفیسر شرابی ہوں
-common_voice_ur_31823953|ur_trimmed|{m ə q ɑː m iː sil f l m ũː sil k iː m ʊ s ə l s l sil k ɑː m j ɑː b iː sil l ɑː z m iː sil ɛː}|مقامی فلموں کی مسلسل کامیابی لازمی ہے
-common_voice_ur_31823628|ur_trimmed|{ɦ ɑː t̪ʰ sil ɾ kʰ sil k ə ɾ sil s oː tʃ n eː sil k eː sil b ə ʔ d̪ k ə ɦ ɑː}|ہاتھ رکھ کر سوچنے کے بعد کہا
-common_voice_ur_31824474|ur_trimmed|{ɑː s p ɑː s sil ɦ dʒ uː m sil t̪ʰ ɑː}|آس پاس ہجوم تھا
-common_voice_ur_31824386|ur_trimmed|{t̪ ʊ m ɦ ẽː l ə ɡ t̪ ɑː sil ɛː sil m ẽː t̪ ʊ m s eː sil ɖ ɾ ə t̪ ɑː}|تمہیں لگتا ہے میں تم سے ڈرتا ہوں؟
-common_voice_ur_31823936|ur_trimmed|{n ə ʋ ɑː z ɪ ʃ ɾ iː f sil iː k sil t̪ ɑː dʒ ɾ k ɑː sil m z ɑː dʒ sil ɾ kʰ t̪ eː ɦ ẽː}|نوازشریف ایک تاجر کا مزاج رکھتے ہیں
-common_voice_ur_31824414|ur_trimmed|{ə n s eː sil n dʒ ɑː t̪ k eː l ɪ j eː ɦ ə m ẽː sil t̪ ə ɾ dʒ iː ɦ ɑː t̪ k ɑː t̪ ʔ iː n sil k ə ɾ n ɑː sil ɛː}|ان سے نجات کے لیے ہمیں ترجیحات کا تعین کرنا ہے
-common_voice_ur_31823764|ur_trimmed|{p ɑː k ɪ s t̪ ɑː n k ɑː m ə s l ɑː ʃ ə ɾ iː f ũː sil s eː sil b ə ɽ ɑː sil ɛː}|پاکستان کا مسئلہ شریفوں سے بڑا ہے
-common_voice_ur_31824223|ur_trimmed|{dʒ ə ŋ ɡ l s eː sil q ɾ iː b ə ɦ õː eː sil k iː sil ʋ ə dʒ ɑː s eː sil x ʃ k sil l ɪ ɽ iː ɑ̃ː ɖʱ uː ɳ ɖ n eː m ẽː sil z j ɑː d̪ ɑː sil d̪ ə q ə t̪ n ɑː ɦ oː iː}|جنگل سے قریب ہونے کی وجہ سے خشک لکڑیاں ڈھونڈنے میں زیادہ دقت نہ ہوئی
-common_voice_ur_31824380|ur_trimmed|{ɦ iː l ɾ iː sil k l ɳ ʈ n sil f ɾ iː d̪ iː sil k iː sil s ə m ɑː dʒ iː sil x d̪ m ɑː t̪ p ə ɾ n iː k sil x ɑː ɦ ɪ ʃ ɑː t̪}|ہیلری کلنٹن فریدی کی سماجی خدمات پر نیک خواہشات
-common_voice_ur_31824258|ur_trimmed|{t̪ uː ə k ɛː l eː sil m ẽː s ɑː m n eː ɑː n s ʋ sil n ɑː sil b ə ɦ ɑː eː}|تو اکیلے میں سامنے آنسو نہ بہائے
-common_voice_ur_31823955|ur_trimmed|{ɖ ɑː n s k ɑː sil ɑː l m iː sil d̪ ə n sil ɔː ɾ p ɑː k ɪ s t̪ ɑː n k eː sil s q ɑː f t̪ iː ɾ q s}|ڈانس کا عالمی دن اور پاکستان کے ثقافتی رقص
-common_voice_ur_31823671|ur_trimmed|{b ɑː q iː sil t̪ ɑː ɾ eː x sil ə m ɾ ɑː n ɪ j ɑː t̪ sil m ɑː l ɪ j ɑː t̪ sil t̪ʰ eː sil m ə z ɑː m iː n sil dʒ uː sil ʋ oː sil k bʱ iː n ɦ ẽː sil ɾ kʰ t̪ eː sil t̪ʰ eː}|باقی تاریخ عمرانیات مالیات تھے مضامین جو وہ کبھی نہیں رکھتے تھے
-common_voice_ur_31823636|ur_trimmed|{ɾ oː ʃ n iː sil ɑː k ɾ sil ʋ ɑː p ə s n ɦ ẽː sil dʒ ɑː s ə k t̪ iː}|روشنی آکر واپس نہیں جاسکتی
-common_voice_ur_31824428|ur_trimmed|{t̪ uː ɪ n ɦ ũː n eː ɪ s k eː sil m ʊ f uː m sil p ə ɾ t̪ ɔː dʒ ɑː sil d̪ iː}|تو انہوں نے اس کے مفہوم پر توجہ دی
-common_voice_ur_31824440|ur_trimmed|{ɦ ʊ k uː m ə t̪ k ɑː sil ɑː ɪ n d̪ ɑː sil b ɪ dʒ ʈ m ə iː k eː sil d̪ uː s ɾ eː ɦ ə f t̪ eː m ẽː p eː ʃ sil k ə ɾ n eː k ɑː sil f iː s ə l ɑː}|حکومت کا ائندہ بجٹ مئی کے دوسرے ہفتے میں پیش کرنے کا فیصلہ
-common_voice_ur_31824444|ur_trimmed|{ɪ s ə m ə ɾ m ẽː k ɑː f iː sil z m ɑː n ɑː d̪ eː kʰ sil tʃ ɪ k eː ɦ ẽː}|اس عمر میں کافی زمانہ دیکھ چکے ہیں
-common_voice_ur_31824304|ur_trimmed|{dʒ ə b sil ɦ iː uː m ə n ʈ ə ɾ eː kʰ ə ʃ ə n sil x t̪ m ɦ oː ɡ ɑː sil t̪ uː sil k ə ɾ p ə ʃ ə n sil x ʊ d̪ b x ʊ d̪ sil x t̪ m ɦ oː sil dʒ ɑː ɪ j eː sil ɡ iː}|جب ہیومن انٹریکشن ختم ہوگا تو کرپشن خودبخود ختم ہو جائے گی
-common_voice_ur_31823987|ur_trimmed|{dʒ ɪ b k iː sil j oː ʃ iː d̪ ɑː k eː ɦ ə s eː m ẽː sil k ɑː n s iː k ɑː t̪ m ɣ ɑː sil ɑː j ɑː}|جبکہ یوشیدا کے حصے میں کانسی کا تمغہ آیا
-common_voice_ur_31823680|ur_trimmed|{t̪ oː tʃ ɑː ɾ d̪ iː ʋ ɑː ɾ iː sil k eː sil ə n d̪ ə ɾ}|توچاردیواری کے اندر
-common_voice_ur_31823763|ur_trimmed|{dʒ ɑː m uː}|جامو
-common_voice_ur_31823600|ur_trimmed|{m eː ɦ m d̪ ʊ ɦ f iː z sil ʈ ɛː s ʈ sil m eː tʃ ũː m ẽː sil m ʊ s ə l s l sil s ə n tʃ ɾ ɪ j ɑ̃ː b ə n ɑː n eː ʋ ɑː l eː sil tʃ ʈ eː sil p ɑː k ɪ s t̪ ɑː n iː sil b ə l eː sil b ɑː z sil b ə n sil ɡ eː}|محمدحفیظ ٹیسٹ میچوں میں مسلسل سنچریاںبنانیوالے چھٹے پاکستانی بلے باز بن گئے
-common_voice_ur_31823727|ur_trimmed|{t̪ ɑː ɾ eː x k iː sil ʋ ə ɾ q sil ɡ ɪ ɾ d̪ ɑː n iː s eː m ə ʔ ʊ l uː m ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|تاریخ کی ورق گردانی سے معلوم ہوتا ہے
-common_voice_ur_31823564|ur_trimmed|{ʋ oː sil iː k n ə eː sil dʒ ə ɦ ɑː n f ɪ k ɾ ʋ sil ə m ə l k iː sil t̪ l ɑː ʃ m ẽː ɦ oː t̪ eː ɦ ẽː}|وہ ایک نئے جہان فکر و عمل کی تلاش میں ہوتے ہیں
-common_voice_ur_31823563|ur_trimmed|{j ɑː s ə ɾ sil ʃ ɑː ɦ n eː sil iː k ɦ iː sil d̪ ə n m ẽː k iː sil ɾ iː k ɑː ɾ ʊ ɖ z sil ʊ p n eː n ɑː m k ə ɾ l ɪ j eː}|یاسر شاہ نے ایک ہی دن میں کئی ریکارڈز اپنے نام کر لیے
-common_voice_ur_31824429|ur_trimmed|{iː k ʃ ə ɾ iː f ɦ ẽː}|ایک شریف ہیں
-common_voice_ur_31823517|ur_trimmed|{ɪ q t̪ ɪ d̪ ɑː ɾ m ẽː z ɑː ɦ ɪ ɾ sil ɛː}|اقتدار میں ظاہر ہے
-common_voice_ur_31824212|ur_trimmed|{ʋ ə ɦ ɑ̃ː l oː ɡ ʊ ũː sil k eː m ə z ɦ ə b iː sil dʒ ə z b ɑː t̪ s eː bʱ iː sil kʰ eː l ɑː dʒ ɑː sil ɾ ə ɦ ɑː sil ɛː}|وہاں لوگوں کے مذہبی جذبات سے بھی کھیلاجا رہا ہے
-common_voice_ur_31824329|ur_trimmed|{iː k sil dʒ ɑː p ɑː n iː sil t̪ʰ n k sil ʈ ĩː k n eː sil ʋ ɑː z ɦ sil k j ɑː sil ɛː sil k eː sil dʒ iː s eː sil dʒ iː s eː sil ə m ɾ iː k ɑː m ə s ʋ ʔ iː sil z ɦ ɑː n ə t̪ sil ɑː ɾ ʈ iː f iː ʃ ə l sil ɪ n ʈ iː l iː sil dʒ n s sil k eː sil m iː d̪ ɑː n m ẽː sil m ʊ ʃ ɦ uː ɾ ɦ oː ɾ ə ɦ ɑː sil ɛː}|ایک جاپانی تھنک ٹینک نے واضح کیا ہے کہ جیسے جیسے امريکا مصنوعی ذہانت آرٹیفیشل انٹیلی جنس کے میدان میں مشہور ہو رہا ہے
-common_voice_ur_31824302|ur_trimmed|{k ɑː m ə n sil ʋ j l t̪ʰ sil ɡ eː m z sil p ɑː k ɪ s t̪ ɑː n sil ɔː ɾ m ə l ɑː iː ʃ j ɑː sil ɦ ɑː k iː ʈ iː m k ɑː m eː tʃ sil iː k sil iː k ɡ oː l s eː sil b ə ɾ ɑː b ɪ ɾ}|کامن ویلتھ گیمز پاکستان اور ملائیشیا ہاکی ٹیم کا میچ ایک ایک گول سے برابر
-common_voice_ur_31823561|ur_trimmed|{m eː ɦ t̪ ə ɾ m ɑː m ə ɾ iː m sil iː k ə ɾ s ɑː sil s eː m ə t̪ ɪ ɾ k sil ɦ ẽː}|محترمہ مریم ایک عرصہ سے متحرک ہیں
-common_voice_ur_31823957|ur_trimmed|{q ʊ ɾ ʔ ɑː n ʋ sil s ə n t̪ k iː sil ɾ uː s eː ɪ l m ɑː k iː ə s ə l sil z m ɑː sil d̪ ɑː ɾ iː sil d̪ ɔː ə t̪ sil ʋ sil t̪ ə b l iː ɣ sil ɑ̃ː z ɑː ɾ sil ʋ sil t̪ ə b ʃ iː ɾ sil ɔː ɾ t̪ ɑː l iː m ʋ sil t̪ ɦ ə q iː q sil ɛː}|قرآن و سنت کی رو سے علما کی اصل ذمہ داری دعوت و تبلیغ انذار و تبشیر اور تعلیم و تحقیق ہے
-common_voice_ur_31824328|ur_trimmed|{b ə ɦ ʊ t̪ sil spn sil spn sil k s iː k ɑː spn sil n ɑː k ə ɾ p ɑː j ɑː}|بہت بُرا ہُوں! کسی کا بُرا نہ کر پایا
-common_voice_ur_31824240|ur_trimmed|{ɑː s ɑː n sil ɾ ɑː s t̪ eː sil p ə ɽ n ɑː k oː iː ɦ ə m s eː s ɛː k eː}|آسان راستے پکڑنا کوئی ہم سے سیکھے
-common_voice_ur_31823897|ur_trimmed|{ə n k eː l ɪ j eː j eː k ɑː m ɪ t̪ t̪ n ɑː m ʊ ʃ k ɪ l n ɑː ɾ ə ɦ ɑː}|ان کیلئے یہ کام اتنا مشکل نہ رہا
-common_voice_ur_31824210|ur_trimmed|{ə ɡ ə ɾ ɦ ə q iː q t̪ ɑː sil ɦ ə m ɑː ɾ ɑː sil iː k sil b ə ɾ ɑː sil d̪ ə n ɦ oː sil p ɾ oː ɡ ɾ ɑː m k ə ɦ ə eː sil ɡ ɑː sil x ɾ iː d̪ uː sil ʋ oː sil ʋ ə z ɑː ɦ t̪ k ɾ ɪ t̪ ɑː sil ɛː}|اگر حقیقتا ہمارا ایک برا دن ہو پروگرام کہے گا خریدو وہ وضاحت کرتا ہے
-common_voice_ur_31823683|ur_trimmed|{ʋ oː k j ɑː s iː n sil ɛː}|وہ کیا سین ہے
-common_voice_ur_31823513|ur_trimmed|{ə l eː kʰ ə ʃ ə n sil ɦ õː eː sil ʋ ɑː l eː sil t̪ʰ eː}|الیکشن ہونے والے تھے
-common_voice_ur_31823730|ur_trimmed|{ʋ ɑː dʒ b ɑː d̪ ɑː iː ɡ iː sil k iː sil m ʊ x t̪ ə s ɾ sil t̪ ɑː ɾ eː x ẽː sil b ə ɽʱ t̪ iː sil ɦ oː iː sil ʃ ə ɾ ɑː k iː sil ə l ɑː m ə t̪ sil dʒ ɑː n iː sil dʒ ɑː t̪ iː ɦ ẽː}|واجبادائیگی کی مختصر تاریخیں بڑھتی ہوئی شرح کی علامت جانی جاتی ہیں
-common_voice_ur_31824489|ur_trimmed|{k j ɑː p ɑː k ɪ s t̪ ɑː n m ẽː ɦ ə q ɪ q t̪ ɪ d̪ ɑː ɾ sil ə ʋ ɑː m k oː k bʱ iː sil m ə l sil s k eː}|کیا پاکستان میں حق اقتدار عوام کو کبھی مل سکے گا؟
-common_voice_ur_31823706|ur_trimmed|{t̪ ə n z sil k ə ɾ n ɑː}|بَہُت طنز کرنا
-common_voice_ur_31824300|ur_trimmed|{ɑː dʒ k eː sil s ɪ j ɑː s ə t̪ d̪ ɑː n sil t̪ uː m ɑː n l ɪ j ɑː sil b ə ɽ eː sil spn sil ɔː ɾ k ɾ p ʈ ɦ ẽː}|آج کے سیاستدان تو مان لیا بڑے نکمّے اورکرپٹ ہیں
-common_voice_ur_31824464|ur_trimmed|{m ẽː d̪ eː n iː sil m ʊ d̪ ɑː ɾ s p ə ɾ k ɑː l ə m sil l ɪ kʰ ũː sil ɡ ɑː}|میں دینی مدارس پر کالم لکھوں گا
-common_voice_ur_31823617|ur_trimmed|{j eː sil ɡʱ ʈ eː sil k ɑː sil s ʋ d̪ ɑː sil ɛː}|یہ گھاٹے کا سودا ہے
-common_voice_ur_31824438|ur_trimmed|{s ɑː eː n s sil z d̪ ɑː m ə ʔ ɑː ʃ ɾ ũː sil m ẽː sil dʒ ə ɦ ɑ̃ː sil ɪ n s ɑː n ʊ p n eː uː p ə ɾ sil iː k x ʊ d̪ sil s ɑː x t̪ ɑː ə n ɑː k ɑː sil x ʊ l tʃ ə ɽʱ ɑː sil l ɪ j ə t̪ eː ɦ ẽː}|سائنس زدہ معاشروں میں جہاں انسان اپنے اوپر ایک خود ساختہ انا کا خول چڑھا لیتے ہیں
-common_voice_ur_31824472|ur_trimmed|{m ẽː sil n ə ɦ ɑː t̪ ɑː ɦ ũː sil ɔː ɾ sil k ə p ɽ eː sil p ə ɦ n t̪ ɑː sil ɦ ũː}|میں نہاتاہوں اور کپڑے پہنتا ہوں
-common_voice_ur_31824410|ur_trimmed|{ə ɦ ɑ̃ː ɔː ɾ t̪ ẽː sil m ə ɾ d̪ ũː sil ɦ iː k iː sil t̪ ə ɾ ɑː ɦ ẽː}|ہاں عورتیں مردوں ہی کی طرح ہیں
-common_voice_ur_31824463|ur_trimmed|{b ɑː l sil ʈ m p ɾ ə ŋ ɡ sil k eː s ɑː eː sil p iː sil eː ʋ k ɑː sil s z ɑː sil m ẽː k ə m iː sil k ɑː m ə t̪ ɑː l ɪ b ɑː}|بال ٹمپرنگ کیساے پی یو کا سزا میں کمی کامطالبہ
-common_voice_ur_31824330|ur_trimmed|{ɦ ə m ɑː ɾ iː s oː tʃ sil s eː b ə ɽʱ sil k ə ɾ}|ہماری سوچ سے بڑھ کر
-common_voice_ur_31824238|ur_trimmed|{ɡ ə n d̪ m k eː sil b ɦ ɾ ɑː n k eː m ʊ l k iː m ə ʔ iː ʃ ə t̪ p ə ɾ k j ɑː ɪ s ɾ ɑː t̪ ɦ ũː sil ɡ eː}|گندم کے بحران کے ملکی معیشت پر کیا اثرات ہوں گے
-common_voice_ur_31824446|ur_trimmed|{dʒ ə b sil k s iː m ə s l eː m ẽː sil ɪ d̪ ɑː l ə t̪ ẽː sil ʊ p n ɑː sil f iː s ə l ɑː sil s ə n ɑː ẽː sil ɔː ɾ sil ɪ l m ɑː ɪ s eː sil b ɑː t̪ l sil q ɾ ɑː ɾ d̪ eː t̪ eː ɦ oː eː}|جب کسی مسئلے میں عدالتیں اپنا فیصلہ سنائیں اور علما اسے باطل قرار دیتے ہوئے
-common_voice_ur_31824188|ur_trimmed|{m ə s ɑː l ẽː sil b ɑː ɑː s ɑː n iː p eː ʃ sil k iː sil dʒ ɑː s ə k t̪ iː ɦ ẽː}|مثالیں باآسانی پیش کی جا سکتی ہیں
-common_voice_ur_31823602|ur_trimmed|{ɦ ə ʋ ɑː m ẽː sil p ə ɾ ʋ ɑː z sil k ə ɾ ɦ iː sil ə ɽ ɑː d̪ iː ɦ ẽː}|ہوا میں پرواز کر ہی اڑا دی ہیں
-common_voice_ur_31823681|ur_trimmed|{k bʱ iː j ə ɦ ɑ̃ː dʒ ɑː sil ɾ ɛː sil ɦ ẽː}|کبھی یہاں جا رہے ہیں
-common_voice_ur_31824191|ur_trimmed|{m eː ɾ ɑː sil k ə ɦ n ɑː ɛː sil k eː sil m eː ɖ ɪ j ɑː d̪ ɾ ɑː s ə l sil iː k s ə m ɑː dʒ iː sil ʊ d̪ ɑː ɾ ɑː ɛː}|میرا کہنا ہے کہ میڈیا دراصل ایک سماجی ادارہ ہے
-common_voice_ur_31823827|ur_trimmed|{iː k ɔː ɾ sil ə ɦ t̪ j ɑː t̪ bʱ iː k ə ɾ sil l eː n iː sil tʃ ɑː ɦ iː eː}|ایک اور احتیاط بھی کر لینی چاہیے
-common_voice_ur_31823954|ur_trimmed|{ɪ s sil ʃ ɑː m k eː t̪ eː ʋ ə ɾ sil ə dʒ iː b sil t̪ʰ eː}|اس شام کے تیور عجیب تھے
-common_voice_ur_31823901|ur_trimmed|{dʒ n ɦ ẽː sil ʋ j ʈ iː l eː ʈ ə ɾ sil tʃ l ɑː n ɑː sil t̪ uː k j ɑː n ɑː m bʱ iː s ə iː sil t̪ ə ɾ ɑː sil l eː n ɑː n ɦ ẽː sil ɑː t̪ ɑː sil ʋ ə ɦ ɑ̃ː sil p ə ɾ sil b ə n ɑː iː sil ɡ iː sil ʋ j ɖ eː ʋ bʱ iː m ɔː dʒ uː d̪ sil ɦ ẽː}|جنہیں وینٹیلیٹر چلانا تو کیا نام بھی صحیح طرح لینا نہیں آتا وہاں پر بنائی گئی ویڈیو بھی موجود ہیں
-common_voice_ur_31823767|ur_trimmed|{k ʊ tʃ ʋ ə q ə t̪ sil t̪ uː sil l ə ɡ eː sil ɡ ɑː}|کچھ وقت تو لگے گا
-common_voice_ur_31823511|ur_trimmed|{t̪ uː k ɾ ɪ t̪ eː k j ɑː}|تو کرتے کیا
-common_voice_ur_31824318|ur_trimmed|{dʒ ə s eː k ə ɦ ɑː sil dʒ ɑː ɪ j eː k eː sil t̪ ə b iː ʔ iː sil m ɔː t̪}|جسے کہا جائے کہ طبیعی موت
-common_voice_ur_31823533|ur_trimmed|{j eː sil d̪ ɪ kʰ ũː sil k oː ʊ p n eː ɾ ɑː s ə t̪ eː sil k iː sil ɾ k ɑː oː ʈ sil n ɦ ẽː sil b n n eː d̪ eː sil ɡ iː}|یہ دکھوں کو اپنے راستے کی رکاوٹ نہیں بننے دے گی
-common_voice_ur_31824310|ur_trimmed|{k bʱ iː ɪ s k oː p ɛː ɾ sil s ɑː ɦ ɪ b k ɑː n ɑː m d̪ ə j ɑː sil ɡ j ɑː}|کبھی اسکو پیر صاحب کا نام دیا گیا
-common_voice_ur_31824327|ur_trimmed|{ɪ s n eː sil ʊ p n eː sil tʃ uː b iː s sil s ɑː l ɑː sil d̪ uː ɾ m ẽː sil b ə ɽ iː sil b ə ɽ iː sil dʒ ə ŋ ɡ ẽː l ə ɽ ẽː}|اس نے اپنے چوبیس سالہ دور میں بڑی بڑی جنگیں لڑیں
-common_voice_ur_31823824|ur_trimmed|{iː f ə eː sil f ʈ b ɑː l sil k ə p tʃ iː l s iː sil n eː sil f ɑː ɪ n l k ɑː sil ʈ k ɪ ʈ sil k ʈ ʋ ɑː sil l ɪ j ɑː}|ایف اے فٹبال کپچیلسی نے فائنل کا ٹکٹ کٹوا لیا
-common_voice_ur_31823508|ur_trimmed|{dʒ uː s eː s ɑː l k ɑː ɑː x ɾ sil k ɑː sil tʃ ʈ iː sil ɔː ɾ t̪ ɦ ɑː ɪ f sil d̪ eː n ɑː sil k ɑː sil s ɛː z ə n m ẽː m ʊ s ɑː b ə q ə t̪ sil ʃ d̪ iː d̪ sil ɦ oː n ɑː sil ɾ ə ɦ n ɑː ɦ oː n ɑː}|جو سے سال کا آخر کا چھٹی اور تحائف دینا کا سیزن میں مسابقت شدید ہونا رہنا ہونا
-common_voice_ur_31824409|ur_trimmed|{j eː sil m ɑː z iː sil m ẽː sil x ɪ l ɑː f ə t̪ sil b ɑː s iː ɑː sil k ɑː m ə ɾ k z sil t̪ʰ ɑː}|یہ ماضی میں خلافت عباسیہ کا مرکز تھا
-common_voice_ur_31824432|ur_trimmed|{j ə ɦ ẽː sil s eː sil t̪ z ɑː d̪ k ɑː ɑː ɣ ɑː z ɦ oː sil t̪ ɑː sil ɛː}|یہیں سے تضاد کا آ غاز ہو تا ہے
-common_voice_ur_31824382|ur_trimmed|{ɑː l m iː m ɑː ɾ k ə eː ʈ s ə m j ə t̪ p ɑː k ɪ s t̪ ɑː n m ẽː bʱ iː s ʋ n eː sil k iː sil q iː m ə t̪ k ə m sil ɦ oː ɡ iː}|عالمی مارکیٹ سمیت پاکستان میں بھی سونے کی قیمت کم ہوگئی
-common_voice_ur_31824211|ur_trimmed|{s ɾ f sil ə ɦ t̪ ə dʒ ɑː dʒ t̪ k sil m eː ɦ d̪ uː d̪ sil ɾ ɑː sil ɡ eː}|صرف احتجاج تک محدود رہ گئے
-common_voice_ur_31824303|ur_trimmed|{ɪ s sil t̪ ɑː s ə ɾ s eː sil t̪ ɦ ɾ iː k n eː sil ɔː ɾ z uː ɾ p k ɽ ɑː}|اس تاثر سے تحریک نے اور زور پکڑا
-common_voice_ur_31824225|ur_trimmed|{k eː sil x j ɑː l m ẽː ʃ eː uː ɾ sil pʰ ɛː l ɑː n eː k ɑː s ə b sil s eː sil m ɔː s ə ɾ t̪ ə ɾ iː q ə sil k j ɑː sil ɛː}|آپ کے خیال میں شعور پھیلانے کا سب سے موثر طریقہ کیا ہے
-common_voice_ur_31823566|ur_trimmed|{q ʊ b uː l sil n ɦ ẽː k ɾ ɪ t̪ ɑː sil ʋ oː sil d̪ uː n ũː k oː sil b ɑː z ə t̪ sil s ə m ə dʒ t̪ ɑː sil ɛː}|قبول نہیں کرتا وہ دونوں کو باعزت سمجھتا ہے
-common_voice_ur_31824274|ur_trimmed|{p ə ɾ s ũː ɑː x ɾ iː sil f iː s ə l ɑː n ɦ ẽː sil ɦ õː eː sil dʒ ɑː ɾ ɦ ɑː}|پرسوں آخری فیصلہ نہیں ہونے جارہا
-common_voice_ur_31824276|ur_trimmed|{s f ɑː iː sil k ə ɾ n ɑː p ə s ə n d̪ k ɾ ɪ t̪ ɑː ɦ ũː}|صفائی کرنا پسند کرتا ہوں
-common_voice_ur_31824359|ur_trimmed|{ɪ s p eː k j ɑː k ə ɦ ɑː}|اس پہ کیا کہا جائے؟
-common_voice_ur_31823599|ur_trimmed|{b ɑː k s ə ɾ sil ɑː m ə ɾ sil x ɑː n p ɑː k ɪ s t̪ ɑː n m ẽː sil b ɑː k s ŋ ɡ sil k iː sil n ə ɾ s ɾ iː l ɪ j ɑː ɾ iː sil p ə ɦ õː tʃ sil ɡ eː}|باکسر عامر خان پاکستان میں باکسنگ کی نرسری لیاری پہنچ گئے
-common_voice_ur_31823616|ur_trimmed|{dʒ ə l d̪ iː sil ɑː ʋ b tʃ ɑː sil ɖ uː b sil ɾ ə ɦ ɑː sil ɛː}|جلدی آوبچہ ڈوب رہا ہے
-common_voice_ur_31823518|ur_trimmed|{ɑː b n ɑː sil ʈʰ k ɑː n ɑː n ɑː m ə n z ə l n ɑː sil m ɪ q s ə d̪ ɦ j ɑː t̪}|اب نہ ٹھکانہ نہ منزل نہ مقصدحیات
-common_voice_ur_31823823|ur_trimmed|{ʊ p n iː sil ɾ ə ʋ ɑː j ə t̪ k iː sil p ɑː s d̪ ɑː ɾ iː sil n ɑː k ə ɾ s ə k eː ɪ s l ɑː ɦ k ɑː}|اپنی روایت کی پاسداری نہ کر سکے اصلاح کا
-common_voice_ur_31824239|ur_trimmed|{j eː sil t̪ ə b k iː sil b ɑː t̪ t̪ʰ iː}|یہ تب کی بات تھی
-common_voice_ur_31823510|ur_trimmed|{ʋ oː sil b ə ɦ ʊ t̪ sil ɡ p ẽː sil l ə ɡ ɑː t̪ iː sil ɛː}|وہ بہت گپیں لگاتی ہے
-common_voice_ur_31823516|ur_trimmed|{j ə ɦ iː m ɑː m l ɑː sil ɾ ʃ iː d̪ sil ə ɦ m d̪ sil s ə d̪ iː q iː sil k ɑː sil ɛː}|یہی معاملہ رشید احمد صدیقی کا ہے
-common_voice_ur_31823677|ur_trimmed|{n ə iː d̪ ɦ l iː sil d̪ ə s m b ə ɾ sil s ɪ j ɑː s ə t̪ ɖ ɑː ʈ sil k ɑː m bʱ ɑː ɾ ə t̪ n eː p ɑː k ɪ s t̪ ɑː n m ẽː sil m eː tʃ z sil kʰ eː l n eː sil k iː sil d̪ ɔː ə t̪ sil q ʊ b uː l k ə ɾ sil l iː sil ɛː}|نئی دہلی دسمبر سیاست ڈاٹ کام بھارت نے پاکستان میں میچز کھیلنے کی دعوت قبول کر لی ہے
-common_voice_ur_31823985|ur_trimmed|{ɦ ə m m ʊ s ə l m ɑː n m ʊ ʔ ɑː ʃ ɾ ɑː sil t̪ʰ eː}|ہم مسلمان معاشرہ تھے
-common_voice_ur_31823668|ur_trimmed|{dʒ ə ʋ ɑː n iː sil k eː sil j ɑː m sil t̪ʰ eː}|جوانی کے ایام تھے
-common_voice_ur_31823826|ur_trimmed|{x ɑː m oː ʃ iː s eː b iː ʈʰ uː sil n ɦ ẽː sil t̪ uː sil j ə ɦ ɑ̃ː sil s eː sil d̪ ə f ʔ ɑː sil ɦ oː dʒ ɑː oː}|خاموشی سے بیٹھو نہیں تو یہاں سے دفعہ ہو جاؤ
-common_voice_ur_31823618|ur_trimmed|{ʋ ə ɾ n ɑː sil ɪ d̪ m sil ɪ s t̪ ɪ k ɑː m k eː n ə eː sil d̪ uː ɾ k ɑː ɑː ɣ ɑː z ɦ oː sil dʒ ɑː ɪ j eː sil ɡ ɑː}|ورنہ عدم استحکام کے نئے دور کا آغاز ہو جائے گا
-common_voice_ur_31823981|ur_trimmed|{ɑː ɦ s t̪ ɑː sil ɑː ɦ ə s t̪ ɑː}|آہستہ آہستہ
-common_voice_ur_31824257|ur_trimmed|{ɾ iː j ɑː s ə t̪ k oː ɦ ə m eː ʃ ɑː sil k s iː sil iː s iː sil ə l ɑː m ə t̪ k iː z ə ɾ uː ɾ ə t̪ ɦ oː t̪ iː sil ɛː}|ریاست کو ہمیشہ کسی ایسی علامت کی ضرورت ہوتی ہے
-common_voice_ur_31823670|ur_trimmed|{pʰ ə ɾ k j ɑː ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|پھر کیا ہوتا ہے
-common_voice_ur_31824466|ur_trimmed|{l eː kʰ ə ə n k j ɑː t̪ ɑː l q ɑː t̪ m ẽː k ʃ iː d̪ ɡ iː}|لیکن کیا تعلقات میں کشیدگی
-common_voice_ur_31824317|ur_trimmed|{ʊ p n iː sil x ʊ ɾ ɑː k k iː sil t̪ l ɑː ʃ}|اپنی خوراک کی تلاش
-common_voice_ur_31823852|ur_trimmed|{f l ə m m ʊ d̪ ɑː ɾ iː sil ɾ ʈ sil s ɛː ŋ m ɑː m ẽː sil ə m d̪ ɑː ɪ z ɑː f ə}|فلم مداری رٹ سینما میں عمدہ اضافہ
-common_voice_ur_31824308|ur_trimmed|{d̪ ə n m ẽː dʒ ə z b sil k iː sil ɡ iː k ɑː ɾ b ʊ n sil ɖ ɑː iː ɑː k s ɑː iː ʊ ɖ sil k eː m ə q ɑː b l ɪ eː sil m ẽː sil b ə ɦ ʊ t̪ sil k ə m ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|دن میں جذب کی گئی کاربن ڈائی آکسائیڈ کے مقابلے میں بہت کم ہوتا ہے
-common_voice_ur_31823937|ur_trimmed|{s oː tʃ n ɑː sil ɛː sil z ə ɾ uː ɾ}|سوچنا ہے ضرور 
-common_voice_ur_31823580|ur_trimmed|{ʊ d̪ ɑː ɾ eː sil k ə ɾ ẽː bʱ iː k j ɑː}|ادارے کریں بھی کیا
-common_voice_ur_31823705|ur_trimmed|{p oː l eː s k iː ɪ s l ɑː ɦ ɦ oː}|پولیس کی اصلاح ہو
-common_voice_ur_31823486|ur_trimmed|{ə ʋ ɑː m k iː sil m ə ʃ t̪ ə ɾ k ɪ ɑː z ə b ɑː n k iː ɦ ə j s j ə t̪ sil s eː m ɔː dʒ uː d̪ sil t̪ʰ iː}|عوام کی مشترکہ زبان کی حیثیت سے موجود تھی
-common_voice_ur_31824221|ur_trimmed|{ɦ ə m sil ə tʃ eː t̪ ə ɾ iː q eː sil s eː sil ʊ ŋ ɡ l ʃ sil m ẽː sil b ɑː t̪ k ə ɾ s ə k t̪ eː ɦ ẽː}|ہم اچھے طریقے سے انگلش میں بات کر سکتے ہیں
-common_voice_ur_31824360|ur_trimmed|{s ə l iː ʈ sil ɖ ɑː k ʈ ə ɾ z sil ɑː p sil l oː ɡ sil ʋ ɑː q ʔ iː sil m ə s iː ɦ ɑː sil ɦ oː}|سلیوٹ ڈاکٹرز آپ لوگ واقعی مسیحا ہو
-common_voice_ur_31824256|ur_trimmed|{b ə ɽ eː sil d̪ ɪ l ɡ ə ɾ d̪ eː sil k iː sil b ɑː t̪ sil ɛː}|بڑے دل گردے کی بات ہے
-common_voice_ur_31823614|ur_trimmed|{s iː d̪ n ə uː ɾ ʊ p n iː sil f l ə m sil tʃ iː n ə eː sil n ɑː sil s eː k j ɑː sil s kʰ ɑː n ɑː sil tʃ ɑː ɦ ə t̪ eː ɦ ẽː}|سید نور اپنی فلم چین ائے نہ سے کیا سکھانا چاہتے ہیں
-common_voice_ur_31823684|ur_trimmed|{m ə m ə l ɦ oː sil ɡ ɑː}|مکمل ہو گا
-common_voice_ur_31823645|ur_trimmed|{dʒ uː ɦ oː n ɑː ɦ oː t̪ ɑː ɛː ʋ ɑː sil ɦ oː k ə ɾ ɾ ə ɦ t̪ ɑː sil ɛː}|جو ہونا ہوتاہےوہ ہو کر رہتا ہے
-common_voice_ur_31823934|ur_trimmed|{b ɑː ɳ ɖ z sil k iː sil q iː m ə t̪ ẽː sil b ə l ə n d̪ sil t̪ʰ ẽː}|بانڈز کی قیمتیں بلند تھیں
-common_voice_ur_31823637|ur_trimmed|{s ɑː ɦ ɪ b ɑː n sil ə z iː m ə t̪ sil k iː sil d̪ ɑː s t̪ ɑː n ẽː ɦ ẽː}|صاحبان عزیمت کی داستانیں ہیں
-common_voice_ur_31824322|ur_trimmed|{ɑː x ɾ sil j eː sil d̪ uː n ũː l ə ɽ sil k eː ũː ɾ ɛː sil ɦ ẽː}|آخر یہ دونوں لڑ کیوں رہے ہیں
-common_voice_ur_31823504|ur_trimmed|{d̪ ə s j ɑː n uː sil d̪ ə n j ɑː sil pʰ ə ɾ p ɑ̃ː tʃ}|دس یا نو دن یا پھر پانچ گھنٹے؟
-common_voice_ur_31823603|ur_trimmed|{l eː kʰ ə ə n sil dʒ ə b sil s eː sil ə n k eː m ɑː ɦ ɔː l d̪ ʊ ʃ m ə n sil ɪ s ɾ ɑː t̪}|لیکن جب سے ان کے ماحول دشمن اثرات
-common_voice_ur_31824250|ur_trimmed|{tʃ uː n k iː j eː sil dʒ ʊ ɡ ɦ ẽː sil x ɑː s sil t̪ uː ɾ p ə ɾ p uː d̪ eː}|چونکہ یہ جگہیں خاص طور پر پودے
-common_voice_ur_31824480|ur_trimmed|{ʃ eː ʋ s iː n ɑː sil n eː p ɑː k ɪ s t̪ ɑː n sil ə m p ɑː ɾ sil ə l iː m sil ɖ ɑː ɾ k oː bʱ iː sil d̪ʱ m k iː d̪ eː sil d̪ iː}|شیو سینا نے پاکستان امپائر علیم ڈار کو بھی دھمکی دے دی
-common_voice_ur_31824237|ur_trimmed|{ʊ p n iː sil x ɑː ɦ ʃ ɑː t̪ k eː sil ɣ ʊ l ɑː m ɦ oː tʃ k eː sil ɦ ẽː}|اپنی خواہشات کے غلام ہوچکے ہیں 
-common_voice_ur_31823611|ur_trimmed|{ɑː b bʱ iː sil b ə ɦ ʊ t̪ sil s ɑː ɾ ũː sil k iː ɪ q ɪ l ʈʰ k ɑː n eː sil ɑː dʒ ɑː eː sil ɡ iː}|اب بھی بہت ساروں کی عقل ٹھکانے آجائے گی
-common_voice_ur_31823849|ur_trimmed|{ɾ ɔː ɦ k iː sil ɣ ʊ z ɑː ə l l ɑː k ɑː z k ɾ sil ɛː}|روح کی غذا اللہ کا ذکر ہے
-common_voice_ur_31824430|ur_trimmed|{ɪ n t̪ ɪ q ɑː m k eː sil x ə m iː ɾ sil m ẽː x iː ɾ sil n ɦ ẽː sil ɛː}|انتقام کے خمیر میںخیر نہیں ہے
-common_voice_ur_31823601|ur_trimmed|{iː k sil m ə n z ɾ ʋ ɑː sil ɛː dʒ uː sil t̪ ə ɾ q iː j ɑː f t̪ ɑː d̪ n j ɑː m ẽː ə bʱ ɾ sil ɾ ə ɦ ɑː sil ɛː}|ایک منظروہ ہے جو ترقی یافتہ دنیا میں ابھر رہا ہے
-common_voice_ur_31823612|ur_trimmed|{d̪ uː n ə m b ə ɾ n ə k l iː}|دو نمبر نکلی
-common_voice_ur_31823647|ur_trimmed|{ɖ uː m n iː k ɑː}|ڈومنیکا
-common_voice_ur_31824311|ur_trimmed|{dʒ t̪ n eː sil k eː sil t̪ʰ eː}|جتنے کے تھے
-common_voice_ur_31824411|ur_trimmed|{dʒ ə s k eː sil b ɑː ʔ s eː ɪ s eː pʰ l n eː pʰ ə oː l n eː sil k ɑː m ɔː q oː ɣ iː ɾ sil ə ɾ ɑː d̪ iː sil t̪ uː ɾ sil p ə ɾ bʱ iː sil m ə l t̪ ɑː sil ɾ ə ɦ t̪ ɑː sil ɛː}|جسکے باعث اسے پھلنے پھولنے کا موقع غیر ارادی طور پر بھی ملتا رہتا ہے
-common_voice_ur_31823590|ur_trimmed|{b ə ʔ z sil ɔː q ɑː t̪ sil ɑː p s ɾ f ʊ p n eː ɦ ɔː s ə l ɑː k eː s ɑː t̪ʰ sil tʃ l t̪ eː ɦ ẽː}|بعض اوقات آپ صرف اپنے حوصلہ کے ساتھ چلتے ہیں
-common_voice_ur_31823895|ur_trimmed|{k eː ɪ n ɦ ẽː sil k s iː m ə n ɑː s ə b sil ʋ ə q ə t̪ sil k ɑː ɪ n t̪ eː z ɑː ɾ ɦ oː}|کہ انہیں کسی مناسب وقت کا انتظار ہو
-common_voice_ur_31824412|ur_trimmed|{ə n k iː sil t̪ ɔː dʒ ɑː sil p ɛː s ɑː sil n ɦ ẽː sil t̪ʰ ɑː}|ان کی توجہ پیسہ نہیں تھا
-common_voice_ur_31823648|ur_trimmed|{d̪ uː s ɾ iː sil d̪ ə ɾ ə s ɡ ɑː ɦ ũː s eː sil f ɑː ɾ ɣ sil ə l t̪ ɦ s iː l}|دوسری درسگاہوں سے فارغ التحصیل ہیں؟
-common_voice_ur_31823898|ur_trimmed|{b ɪ dʒ l iː ɦ iː ɪ s t̪ eː m ɑː l k iː sil dʒ ɑː ɾ ɦ iː eː}|بجلی ہی استعمال کی جارہی ھے
-common_voice_ur_31824209|ur_trimmed|{m ə l ɑː n eː sil ʋ ɑː l iː sil spn s iː sil ɾ ɑː b t̪ ɑː s ə ɽ ə k}|ملانے والی اُداس سی رابطہ سڑک
-common_voice_ur_31824353|ur_trimmed|{ʋ j m ə n sil f ʈ b ɑː l sil uː ɾ l ʊ ɖ}|ویمن فٹبال ورلڈ
-common_voice_ur_31823728|ur_trimmed|{s ɑː t̪ʰ sil j eː sil dʒ oː ʈ bʱ iː sil b oː l ɑː sil ɛː sil k eː sil f ɔː dʒ sil k ɑː sil iː k bʱ iː sil s p ɑː ɦ iː sil b ə l uː tʃ ɪ s t̪ ɑː n m ẽː n ɦ ẽː l ə ɽ sil ɾ ə ɦ ɑː sil b l ɪ k iː sil f ɔː dʒ iː sil b iː ɾ k ũː sil m ẽː sil b iː ʈʰ eː sil ɦ ẽː}|ساتھ یہ جھوٹ بھی بولا ہے کہ فوج کا ایک بھی سپاہی بلوچستان میں نہیں لڑ رہا بلکہ فوجی بیرکوں میں بیٹھے ہیں
-common_voice_ur_31823704|ur_trimmed|{ɦ ə ɾ sil iː k k oː ə tʃ eː sil ə l f ɑː z m ẽː j ɑː d̪ k ɾ ɪ t̪ ɑː ɦ ũː}|ہر ایک کو اچھے الفاظ میں یاد کرتا ہوں
-common_voice_ur_31823766|ur_trimmed|{m eː ɾ eː ɔː ɾ sil ə n k eː sil spn m ẽː sil tʃ ɪ n d̪ sil k l uː m eː ʈ ə ɾ k ɑː sil f ɑː s ə l ɑː sil ɛː}|میرے اور ان کے گاؤں میں چند کلو میٹرکا فاصلہ ہے
-common_voice_ur_31824442|ur_trimmed|{tʃ oː ʈ iː b ə tʃ iː sil n iː n d̪ sil m ẽː sil b ə ɽ b ɽ ɑː sil ɾ ə ɦ iː sil t̪ʰ iː}|چھوٹی بچی نیند میں بڑبڑا رہی تھی
-common_voice_ur_31824190|ur_trimmed|{b ə ɽ eː sil b ə ɽ eː ʃ ə ɦ ɾ ũː m ẽː sil tʃ oː ʈ iː sil tʃ oː ʈ iː sil b ɑː t̪ ẽː ɦ oː t̪ iː sil ɾ ə ɦ t̪ iː ɦ ẽː}|بڑے بڑے شہروں میں چھوٹی چھوٹی باتیں ہوتی رہتی ہیں
-common_voice_ur_31823644|ur_trimmed|{t̪ uː ɪ s m ẽː sil j ə q iː n ɑː p ɛː pː ə l z p ɑː ɾ ʈ iː sil k ɑː sil k ə ɾ d̪ ɑː ɾ sil s ə b s eː sil ə ɦ m sil ɛː}|تو اس میں یقینا پیپلزپارٹی کا کردار سب سے اہم ہے
-common_voice_ur_31823546|ur_trimmed|{f l ɑː ɦ iː sil ɾ iː j ɑː s ə t̪ k iː sil ə ʋ ə l iː n sil t̪ ə ɾ dʒ iː sil ə ʋ ɑː m k iː sil f l ɑː ɦ ʋ b ə ɦ b uː d̪ sil ɦ oː t̪ iː sil ɛː}|فلاحی ریاست کی اولین ترجیح عوام کی فلاح و بہبود ہوتی ہے
-common_voice_ur_31823514|ur_trimmed|{k ɑː m k ɑː n ɑː ɾ ɑː sil b ə ɦ ʊ t̪ sil m ɪ q b uː l ɦ ə ʋ ɑː}|کام کا نعرہ بہت مقبول ہوا
-common_voice_ur_31823483|ur_trimmed|{ə ɡ ə ɾ sil ɑː p d̪ n j ɑː k eː n ʊ q ʃ eː sil p ə ɾ sil m ʊ ʃ ɾ q}|اگر آپ دنیا کے نقشے پر مشرق وسطیٰ
-common_voice_ur_31823631|ur_trimmed|{dʒ ə b sil ɦ ə j ɾ ə t̪ ɦ iː n ɑː ɦ oː t̪ uː sil s ʋ ɑː l}|جب حیرت ہی نہ ہو تو سوال کیسے؟
-common_voice_ur_31823484|ur_trimmed|{m ə iː k eː m ə q ɑː b l ɪ eː m ẽː sil p ʈ ə ɾ ʋ ə l sil m ə ɦ ə̃ ŋ ɡ ɑː sil ɦ oː ɪ ɡ j ɑː}|مئی کے مقابلے میں پٹرول مہنگا ہوگیا
 common_voice_ur_31823613|ur_trimmed|{j eː sil ə l ɑː m ʊ ɑː t̪ k ə b sil ɔː ɾ k eː s eː sil ʋ ɑː z ɦ sil ɦ oː t̪ iː ɦ ẽː}|یہ علامات کب اور کیسے واضح ہوتی ہیں
-common_voice_ur_31823725|ur_trimmed|{ɦ ə q iː q ə t̪ m ẽː n ɦ ẽː}|حقیقت میں نہیں
-common_voice_ur_31823509|ur_trimmed|{ɔː ɾ sil ɦ ə ɾ k ə t̪ sil k ə ɾ n ɑː ɦ oː n ɑː d̪ eː kʰ n ɑː k ə ɾ n ɑː x ʊ d̪ sil k oː m eː ɦ z ɔː z sil k ə ɾ n ɑː ɦ oː n ɑː}|اور حرکت کرنا ہونا دیکھنا کرنا خود کو محظوظ کرنا ہونا
-common_voice_ur_31823515|ur_trimmed|{dʒ ə b k oː iː sil ə x t̪ l ɑː f iː sil s uː ɾ ə t̪ sil n ə m uː d̪ ɑː ɾ ɦ oː t̪ iː sil x l iː f ɑː ɦ sil k eː s ɑː m n eː m ɑː m l ɑː sil p eː ʃ k ɾ ɪ t̪ eː}|جب کوئی اختلافی صورت نمودار ہوتی خلیفہ کے سامنے معاملہ پیش کرتے
-common_voice_ur_31823707|ur_trimmed|{j eː k eː s iː m ə n t̪ q}|یہ کیسی منطق ہے؟
+common_voice_ur_31823935|ur_trimmed|{k ə ɾ p ə ʃ ə n sil k eː ə l z ɑː m ɑː t̪ m ẽː sil ɑː p sil ɡʱ ɾ eː ɦ ũː}|کرپشن کے الزامات میں آپ گھرے ہوں
+common_voice_ur_31824353|ur_trimmed|{ʋ j m ə n sil f ʈ b ɑː l sil uː ɾ l ʊ ɖ}|ویمن فٹبال ورلڈ
+common_voice_ur_31824322|ur_trimmed|{ɑː x ɾ sil j eː sil d̪ uː n ũː l ə ɽ sil k eː ũː ɾ ɛː sil ɦ ẽː}|آخر یہ دونوں لڑ کیوں رہے ہیں
+common_voice_ur_31824250|ur_trimmed|{tʃ uː n k iː j eː sil dʒ ʊ ɡ ɦ ẽː sil x ɑː s sil t̪ uː ɾ p ə ɾ p uː d̪ eː}|چونکہ یہ جگہیں خاص طور پر پودے
+common_voice_ur_31824430|ur_trimmed|{ɪ n t̪ ɪ q ɑː m k eː sil x ə m iː ɾ sil m ẽː x iː ɾ sil n ɦ ẽː sil ɛː}|انتقام کے خمیر میںخیر نہیں ہے
+common_voice_ur_31823564|ur_trimmed|{ʋ oː sil iː k n ə eː sil dʒ ə ɦ ɑː n f ɪ k ɾ ʋ sil ə m ə l k iː sil t̪ l ɑː ʃ m ẽː ɦ oː t̪ eː ɦ ẽː}|وہ ایک نئے جہان فکر و عمل کی تلاش میں ہوتے ہیں
+common_voice_ur_31823637|ur_trimmed|{s ɑː ɦ ɪ b ɑː n sil ə z iː m ə t̪ sil k iː sil d̪ ɑː s t̪ ɑː n ẽː ɦ ẽː}|صاحبان عزیمت کی داستانیں ہیں
+common_voice_ur_31823956|ur_trimmed|{ɪ s l ɪ j eː n ɑː k ɑː m ɦ iː sil ɡ ʊ z ɾ iː}|اس لئے ناکام ہی گزری
+common_voice_ur_31824493|ur_trimmed|{j eː sil ʋ ə q ə t̪ sil l eː kʰ ə ə n ə m ə l k ɑː sil ɛː}|یہ وقت لیکن عمل کا ہے
+common_voice_ur_31836694|ur_trimmed|{j eː ɪ s ə m ə t̪ sil k eː sil dʒ ə m ɦ uː ɾ sil ɪ l m ɑː sil ɔː ɾ sil ə ɦ ə l sil d̪ ɑː n ɪ ʃ k ɑː sil t̪ ə ɾ iː q ə sil ɛː}|یہ اس امت کے جمہور علما اور اہل دانش کا طریقہ ہے
+common_voice_ur_31824410|ur_trimmed|{ə ɦ ɑ̃ː ɔː ɾ t̪ ẽː sil m ə ɾ d̪ ũː sil ɦ iː k iː sil t̪ ə ɾ ɑː ɦ ẽː}|ہاں عورتیں مردوں ہی کی طرح ہیں
+common_voice_ur_31836678|ur_trimmed|{t̪ ɑː ɦ m k ə ɦ ɑː n iː n eː sil ʋ ɑː q ʔ ə t̪ ɑː sil ʊ p n eː sil t̪ ə m ɑː m ə m k ɑː n ɑː t̪ k iː kʰ ə ɔː dʒ sil n ɦ ẽː sil k iː}|تاہم کہانی نے واقعتا اپنے تمام امکانات کی کھوج نہیں کی
+common_voice_ur_31824209|ur_trimmed|{m ə l ɑː n eː sil ʋ ɑː l iː sil spn s iː sil ɾ ɑː b t̪ ɑː s ə ɽ ə k}|ملانے والی اُداس سی رابطہ سڑک
+common_voice_ur_31836695|ur_trimmed|{ə n ə q l ɑː b iː sil t̪ ɦ ɾ iː k ũː sil k iː sil b ə n j ɑː d̪ spn sil ɪ n t̪ ɪ q ɑː m p ə ɾ ɦ oː t̪ iː sil ɛː}|انقلابی تحریکوں کی بنیاد جذبۂ انتقام پر ہوتی ہے
+common_voice_ur_31823481|ur_trimmed|{ɑː dʒ sil q d̪ ɾ ə t̪ n eː ə n k eː s ɑː t̪ʰ sil ɦ ɑː t̪ʰ sil k ə ɾ d̪ ə j ɑː}|آج قدرت نے ان کے ساتھ ہاتھ کر دیا
+common_voice_ur_31824251|ur_trimmed|{ɑː b sil dʒ ə b n ə ʋ ə n l iː ɡ sil p eː sil ɡ ɦ ɾ eː sil b ɑː d̪ l sil tʃ ɑː sil ɾ ɛː sil ɦ ẽː sil j eː sil bʱ uː l iː}|اب جب نون لیگ پہ گہرے بادل چھا رہے ہیں' یہ بھولی
+common_voice_ur_31823937|ur_trimmed|{s oː tʃ n ɑː sil ɛː sil z ə ɾ uː ɾ}|سوچنا ہے ضرور 
+common_voice_ur_31823631|ur_trimmed|{dʒ ə b sil ɦ ə j ɾ ə t̪ ɦ iː n ɑː ɦ oː t̪ uː sil s ʋ ɑː l}|جب حیرت ہی نہ ہو تو سوال کیسے؟
+common_voice_ur_31824327|ur_trimmed|{ɪ s n eː sil ʊ p n eː sil tʃ uː b iː s sil s ɑː l ɑː sil d̪ uː ɾ m ẽː sil b ə ɽ iː sil b ə ɽ iː sil dʒ ə ŋ ɡ ẽː l ə ɽ ẽː}|اس نے اپنے چوبیس سالہ دور میں بڑی بڑی جنگیں لڑیں
+common_voice_ur_31824257|ur_trimmed|{ɾ iː j ɑː s ə t̪ k oː ɦ ə m eː ʃ ɑː sil k s iː sil iː s iː sil ə l ɑː m ə t̪ k iː z ə ɾ uː ɾ ə t̪ ɦ oː t̪ iː sil ɛː}|ریاست کو ہمیشہ کسی ایسی علامت کی ضرورت ہوتی ہے
+common_voice_ur_31836688|ur_trimmed|{kʰ ə ɽ k iː sil p uː ɾ iː sil kʰ ə l iː ɦ oː iː t̪ʰ iː}|کھڑکی پوری کھلی ہوئی تھی
+common_voice_ur_31823561|ur_trimmed|{m eː ɦ t̪ ə ɾ m ɑː m ə ɾ iː m sil iː k ə ɾ s ɑː sil s eː m ə t̪ ɪ ɾ k sil ɦ ẽː}|محترمہ مریم ایک عرصہ سے متحرک ہیں
+common_voice_ur_31824359|ur_trimmed|{ɪ s p eː k j ɑː k ə ɦ ɑː}|اس پہ کیا کہا جائے؟
+common_voice_ur_31824412|ur_trimmed|{ə n k iː sil t̪ ɔː dʒ ɑː sil p ɛː s ɑː sil n ɦ ẽː sil t̪ʰ ɑː}|ان کی توجہ پیسہ نہیں تھا
+common_voice_ur_31823825|ur_trimmed|{ʊ p n iː dʒ iː b s eː sil z j ɑː d̪ ɑː sil x ɾ tʃ n ɦ ẽː sil k ɾ ɪ t̪ ɑː}|اپنی جیب سے زیادہ خرچ نہیں کرتا
+common_voice_ur_31823516|ur_trimmed|{j ə ɦ iː m ɑː m l ɑː sil ɾ ʃ iː d̪ sil ə ɦ m d̪ sil s ə d̪ iː q iː sil k ɑː sil ɛː}|یہی معاملہ رشید احمد صدیقی کا ہے
+common_voice_ur_31823610|ur_trimmed|{d̪ n j ɑː k eː sil p ə s t̪ ɑː sil t̪ ɾ iː n sil q d̪ k ɑː ɾ iː k ɑː ɾ ʊ ɖ}|دنیا کے پستہ ترین قد کا ریکارڈ
+common_voice_ur_31824276|ur_trimmed|{s f ɑː iː sil k ə ɾ n ɑː p ə s ə n d̪ k ɾ ɪ t̪ ɑː ɦ ũː}|صفائی کرنا پسند کرتا ہوں
+common_voice_ur_31836666|ur_trimmed|{ɦ ɑː ʃ ɪ m sil ə m l ɑː sil n eː uː n ɖ eː sil k ə ɾ k ɪ ʈ m ẽː ɾ tʃ iː sil ɾ tʃ ɾ ɖ s ə n k ɑː ɾ eː k ɑː ɾ ʊ ɖ sil t̪ ɔː ɽ sil ɖ ɑː l ɑː}|ہاشم املہ نے ون ڈے کرکٹ میں رچی رچرڈسن کا ریکارڈ توڑ ڈالا
+common_voice_ur_31823483|ur_trimmed|{ə ɡ ə ɾ sil ɑː p d̪ n j ɑː k eː n ʊ q ʃ eː sil p ə ɾ sil m ʊ ʃ ɾ q}|اگر آپ دنیا کے نقشے پر مشرق وسطیٰ
+common_voice_ur_31824318|ur_trimmed|{dʒ ə s eː k ə ɦ ɑː sil dʒ ɑː ɪ j eː k eː sil t̪ ə b iː ʔ iː sil m uː t̪}|جسے کہا جائے کہ طبیعی موت
+common_voice_ur_31824464|ur_trimmed|{m ẽː d̪ eː n iː sil m ʊ d̪ ɑː ɾ s p ə ɾ k ɑː l ə m sil l ɪ kʰ ũː sil ɡ ɑː}|میں دینی مدارس پر کالم لکھوں گا
+common_voice_ur_31824409|ur_trimmed|{j eː sil m ɑː z iː sil m ẽː sil x ɪ l ɑː f ə t̪ sil b ɑː s iː ɑː sil k ɑː m ə ɾ k z sil t̪ʰ ɑː}|یہ ماضی میں خلافت عباسیہ کا مرکز تھا
+common_voice_ur_31823827|ur_trimmed|{iː k ɔː ɾ sil ə ɦ t̪ j ɑː t̪ bʱ iː k ə ɾ sil l eː n iː sil tʃ ɑː ɦ iː eː}|ایک اور احتیاط بھی کر لینی چاہیے
+common_voice_ur_31823824|ur_trimmed|{iː f ə eː sil f ʈ b ɑː l sil k ə p tʃ iː l s iː sil n eː sil f ɑː ɪ n l k ɑː sil ʈ ə k ʈ sil k ʈ ɑː l ɪ j ɑː}|ایف اے فٹبال کپچیلسی نے فائنل کا ٹکٹ کٹوا لیا
+common_voice_ur_31823985|ur_trimmed|{ɦ ə m m ʊ s ə l m ɑː n m ʊ ʔ ɑː ʃ ɾ ɑː sil t̪ʰ eː}|ہم مسلمان معاشرہ تھے
+common_voice_ur_31824211|ur_trimmed|{s ɾ f sil ə ɦ t̪ ə dʒ ɑː dʒ t̪ k sil m eː ɦ d̪ uː d̪ sil ɾ ɑː sil ɡ eː}|صرف احتجاج تک محدود رہ گئے
+common_voice_ur_31824225|ur_trimmed|{k eː sil x j ɑː l m ẽː ʃ eː uː ɾ sil pʰ ɛː ə l ɑː n eː k ɑː s ə b sil s eː sil m ɔː s ə ɾ t̪ ə ɾ iː q ə sil k j ɑː sil ɛː}|آپ کے خیال میں شعور پھیلانے کا سب سے موثر طریقہ کیا ہے
+common_voice_ur_31823897|ur_trimmed|{ə n k eː l ɪ j eː j eː k ɑː m ɪ t̪ t̪ n ɑː m ʊ ʃ k ɪ l n ɑː ɾ ə ɦ ɑː}|ان کیلئے یہ کام اتنا مشکل نہ رہا
+common_voice_ur_31823609|ur_trimmed|{t̪ ɑː l iː m k oː ɪ n ɦ ũː sil n eː ʊ p n iː sil t̪ ə ɾ dʒ iː ɦ ɑː t̪ sil m ẽː ʃ ɑː m ə l k j ɑː sil ɛː}|تعلیم کو انہوں نے اپنی ترجیحات میں شامل کیا ہے
+common_voice_ur_31824238|ur_trimmed|{ɡ ə n d̪ m k eː sil b ɦ ɾ ɑː n k eː m ʊ l k iː m ə ʔ iː ʃ ə t̪ p ə ɾ k j ɑː ɪ s ɾ ɑː t̪ ɦ ũː sil ɡ eː}|گندم کے بحران کے ملکی معیشت پر کیا اثرات ہوں گے
+common_voice_ur_31824431|ur_trimmed|{n ɑː p iː p iː p iː m ẽː}|نہ پی پی پی میں
+common_voice_ur_31824190|ur_trimmed|{b ə ɽ eː sil b ə ɽ eː ʃ ə ɦ ɾ ũː m ẽː sil tʃ oː ʈ iː sil tʃ oː ʈ iː sil b ɑː t̪ ẽː ɦ oː t̪ iː sil ɾ ə ɦ t̪ iː ɦ ẽː}|بڑے بڑے شہروں میں چھوٹی چھوٹی باتیں ہوتی رہتی ہیں
+common_voice_ur_31823895|ur_trimmed|{k eː ɪ n ɦ ẽː sil k s iː m ə n ɑː s ə b sil ʋ ə q ə t̪ sil k ɑː ɪ n t̪ eː z ɑː ɾ ɦ oː}|کہ انہیں کسی مناسب وقت کا انتظار ہو
+common_voice_ur_31823602|ur_trimmed|{ɦ ə ʋ ɑː m ẽː sil p ə ɾ ʋ ɑː z sil k ə ɾ ɦ iː sil ə ɽ ɑː d̪ iː ɦ ẽː}|ہوا میں پرواز کر ہی اڑا دی ہیں
+common_voice_ur_31824210|ur_trimmed|{ə ɡ ə ɾ ɦ ə q iː q t̪ ɑː sil ɦ ə m ɑː ɾ ɑː sil iː k sil b ə ɾ ɑː sil d̪ ə n ɦ oː sil p ɾ oː ɡ ɾ ɑː m k ə ɦ ə eː sil ɡ ɑː sil x ɾ iː d̪ uː sil ʋ oː sil ʋ ə z ɑː ɦ t̪ k ɾ ɪ t̪ ɑː sil ɛː}|اگر حقیقتا ہمارا ایک برا دن ہو پروگرام کہے گا خریدو وہ وضاحت کرتا ہے
+common_voice_ur_31823953|ur_trimmed|{m ə q ɑː m iː sil f l m ũː sil k iː m ʊ s ə l s l sil k ɑː m j ɑː b iː sil l ɑː z m iː sil ɛː}|مقامی فلموں کی مسلسل کامیابی لازمی ہے
+common_voice_ur_31823543|ur_trimmed|{ɦ ə m ɑː ɾ iː eː ʋ n eː ʋ ə ɾ s ʈ iː ɪ n t̪ eː z ɑː m iː ɑː n eː bʱ iː ɦ ə m ẽː sil m ʊ t̪ b ʊ n ɑː k j ɑː sil t̪ʰ ɑː}|ہماری یونیورسٹی انتظامیہ نے بھی ہمیں متبنہ کیا تھا
+common_voice_ur_31823628|ur_trimmed|{ɦ ɑː t̪ʰ sil ɾ kʰ sil k ə ɾ sil s oː tʃ n eː sil k eː sil b ə ʔ d̪ k ə ɦ ɑː}|ہاتھ رکھ کر سوچنے کے بعد کہا
+common_voice_ur_31823533|ur_trimmed|{j eː sil d̪ ɪ kʰ ũː sil k oː ʊ p n eː ɾ ɑː s ə t̪ eː sil k iː sil ɾ k ɑː oː ʈ sil n ɦ ẽː sil b n n eː d̪ eː sil ɡ iː}|یہ دکھوں کو اپنے راستے کی رکاوٹ نہیں بننے دے گی
+common_voice_ur_31824568|ur_trimmed|{ə ɦ ɑ̃ː s ɪ ɦ ə t̪ ʈʰ iː k sil ɦ oː}|ہاں صحت ٹھیک ہو
+common_voice_ur_31823507|ur_trimmed|{t̪ uː ʋ oː sil dʒ uː t̪ iː sil p ə ɾ m ɑː ɾ sil ɦ ẽː}|تو وہ جوتی پرمار ہیں
+common_voice_ur_31836681|ur_trimmed|{ə n sil k eː k æ n s ə ɾ sil k iː sil x ə b ə ɾ sil dʒ ə ŋ ɡ l sil k iː}|ان کے کینسر کی خبر جنگل کی
+common_voice_ur_31823670|ur_trimmed|{pʰ ə ɾ k j ɑː ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|پھر کیا ہوتا ہے
+common_voice_ur_31823617|ur_trimmed|{j eː sil ɡʱ ʈ eː sil k ɑː sil s ʋ d̪ ɑː sil ɛː}|یہ گھاٹے کا سودا ہے
+common_voice_ur_31824446|ur_trimmed|{dʒ ə b sil k s iː m ə s l eː m ẽː sil ɪ d̪ ɑː l ə t̪ ẽː sil ʊ p n ɑː sil f iː s ə l ɑː s ə n ɑː ẽː sil ɔː ɾ sil ɪ l m ɑː ɪ s eː sil b ɑː t̪ l sil q ɾ ɑː ɾ d̪ eː t̪ eː ɦ oː eː}|جب کسی مسئلے میں عدالتیں اپنا فیصلہ سنائیں اور علما اسے باطل قرار دیتے ہوئے
+common_voice_ur_31823730|ur_trimmed|{ʋ ɑː dʒ b ɑː d̪ ɑː iː ɡ iː sil k iː sil m ʊ x t̪ ə s ɾ sil t̪ ɑː ɾ eː x ẽː sil b ə ɽʱ t̪ iː sil ɦ oː iː sil ʃ ə ɾ ɑː k iː sil ə l ɑː m ə t̪ sil dʒ ɑː n iː sil dʒ ɑː t̪ iː ɦ ẽː}|واجبادائیگی کی مختصر تاریخیں بڑھتی ہوئی شرح کی علامت جانی جاتی ہیں
+common_voice_ur_31823955|ur_trimmed|{ɖ ɑː n s k ɑː sil ɑː l m iː sil d̪ ə n sil ɔː ɾ p ɑː k ɪ s t̪ ɑː n k eː sil s q ɑː f t̪ iː sil ɾ q s}|ڈانس کا عالمی دن اور پاکستان کے ثقافتی رقص
+common_voice_ur_31824567|ur_trimmed|{ə ɡ ə ɾ sil iː s eː ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|اگر ایسے ہوتا ہے
+common_voice_ur_31824489|ur_trimmed|{k j ɑː p ɑː k ɪ s t̪ ɑː n m ẽː ɦ ə q ɪ q t̪ ɪ d̪ ɑː ɾ sil ə ʋ ɑː m k oː k bʱ iː sil m ə l sil s k eː}|کیا پاکستان میں حق اقتدار عوام کو کبھی مل سکے گا؟
+common_voice_ur_31836686|ur_trimmed|{m eː ɖ ɪ j ɑː p ə ɾ sil b ɑː t̪ n ɦ ẽː sil k iː sil l eː kʰ ə ə n}|میڈیا پر بات نہیں کی لیکن
+common_voice_ur_31823511|ur_trimmed|{t̪ uː k ɾ ɪ t̪ eː k j ɑː}|تو کرتے کیا
+common_voice_ur_31824408|ur_trimmed|{tʃ ɑː ɾ sil q ɪ s m sil k eː k æ n s ə ɾ}|چار قسم کے کینسر
+common_voice_ur_31824317|ur_trimmed|{ʊ p n iː sil x ʊ ɾ ɑː k k iː sil t̪ l ɑː ʃ}|اپنی خوراک کی تلاش
+common_voice_ur_31823546|ur_trimmed|{f l ɑː ɦ iː sil ɾ iː j ɑː s ə t̪ k iː sil ə ʋ ə l iː n sil t̪ ə ɾ dʒ iː sil ə ʋ ɑː m k iː sil f l ɑː ɦ ʋ sil b ə ɦ ʊ b uː d̪ ɦ oː t̪ iː sil ɛː}|فلاحی ریاست کی اولین ترجیح عوام کی فلاح و بہبود ہوتی ہے
+common_voice_ur_31823728|ur_trimmed|{s ɑː t̪ʰ sil j eː sil dʒ oː ʈ bʱ iː sil b oː l ɑː sil ɛː sil k eː sil f ɔː dʒ sil k ɑː sil iː k bʱ iː sil s p ɑː ɦ iː sil b ə l uː tʃ ɪ s t̪ ɑː n m ẽː n ɦ ẽː l ə ɽ sil ɾ ə ɦ ɑː sil b l ɪ k iː sil f ɔː dʒ iː sil b iː ɾ k ũː sil m ẽː sil b iː ʈʰ eː sil ɦ ẽː}|ساتھ یہ جھوٹ بھی بولا ہے کہ فوج کا ایک بھی سپاہی بلوچستان میں نہیں لڑ رہا بلکہ فوجی بیرکوں میں بیٹھے ہیں
+common_voice_ur_31824380|ur_trimmed|{ɦ iː l ɾ iː sil k l ɳ ʈ n sil f ɾ iː d̪ iː sil k iː sil s ə m ɑː dʒ iː sil x d̪ m ɑː t̪ p ə ɾ n iː k sil x ɑː ɦ ʃ ɑː t̪}|ہیلری کلنٹن فریدی کی سماجی خدمات پر نیک خواہشات
+common_voice_ur_31823705|ur_trimmed|{p oː l eː s k iː ɪ s l ɑː ɦ ɦ oː}|پولیس کی اصلاح ہو
+common_voice_ur_31824428|ur_trimmed|{t̪ uː ɪ n ɦ ũː n eː ɪ s k eː sil m ʊ f uː m sil p ə ɾ t̪ ɔː dʒ ɑː sil d̪ iː}|تو انہوں نے اس کے مفہوم پر توجہ دی
+common_voice_ur_31823506|ur_trimmed|{ə m ɾ ɑː n x ɑː n k iː sil t̪ ə q ɾ iː ɾ k eː sil b ə ʔ d̪ iː k sil b ɑː ɾ sil pʰ ə ɾ j ə ɦ iː f z ɑː sil ɛː}|عمران خان کی تقریر کے بعد ایک بار پھر یہی فضا ہے
+common_voice_ur_31823563|ur_trimmed|{j ɑː s ə ɾ sil ʃ ɑː ɦ n eː sil iː k ɦ iː sil d̪ ə n m ẽː k iː sil ɾ iː k ɑː ɾ ʊ ɖ z sil ʊ p n eː n ɑː m k ə ɾ l ɪ j eː}|یاسر شاہ نے ایک ہی دن میں کئی ریکارڈز اپنے نام کر لیے
+common_voice_ur_31824240|ur_trimmed|{ɑː s ɑː n sil ɾ ɑː s t̪ eː sil p ə ɽ n ɑː k oː iː ɦ ə m s eː s ɛː k eː}|آسان راستے پکڑنا کوئی ہم سے سیکھے
+common_voice_ur_31823680|ur_trimmed|{t̪ oː tʃ ɑː ɾ d̪ iː ʋ ɑː ɾ iː sil k eː sil ə n d̪ ə ɾ}|توچاردیواری کے اندر
+common_voice_ur_31823510|ur_trimmed|{ʋ oː sil b ə ɦ ʊ t̪ sil ɡ p ẽː sil l ə ɡ ɑː t̪ iː sil ɛː}|وہ بہت گپیں لگاتی ہے
+common_voice_ur_31823704|ur_trimmed|{ɦ ə ɾ sil iː k k oː ə tʃ eː sil ə l f ɑː z m ẽː j ɑː d̪ k ɾ ɪ t̪ ɑː ɦ ũː}|ہر ایک کو اچھے الفاظ میں یاد کرتا ہوں
+common_voice_ur_31824237|ur_trimmed|{ʊ p n iː sil x ɑː ɦ ʃ ɑː t̪ k eː sil ɣ ʊ l ɑː m ɦ oː tʃ k eː sil ɦ ẽː}|اپنی خواہشات کے غلام ہوچکے ہیں 
+common_voice_ur_31823505|ur_trimmed|{s ʊ n iː l sil ɡ ʋ ɑː s k ɾ k iː j eː}|سنیل گواسکر کی یہ
+common_voice_ur_31823726|ur_trimmed|{k eː sil ʊ p n iː ɪ s l ɑː ɦ sil k ə ɾ sil l ẽː}|کہ اپنی اصلاح کر لیں
+common_voice_ur_31823513|ur_trimmed|{ə l eː kʰ ə ʃ ə n sil ɦ õː eː sil ʋ ɑː l eː sil t̪ʰ eː}|الیکشن ہونے والے تھے
+common_voice_ur_31824360|ur_trimmed|{s ə l iː ʈ sil ɖ ɑː k ʈ ə ɾ z sil ɑː p sil l oː ɡ sil ʋ ɑː q ʔ iː sil m ə s iː ɦ ɑː sil ɦ oː}|سلیوٹ ڈاکٹرز آپ لوگ واقعی مسیحا ہو
+common_voice_ur_31824488|ur_trimmed|{ɡ oː j ɑː sil ɦ ʊ k uː m ə t̪ sil ɔː ɾ d̪ l ɪ j ə sil k eː ɦ ɑː t̪ʰ sil s eː n ɪ k ə l k ə ɾ}|گویا حکومت اورعدلیہ کے ہاتھ سے نکل کر
+common_voice_ur_31836660|ur_trimmed|{m ʊ m uː l iː sil b ɑː t̪ ũː p ə ɾ sil l oː ɡ bʱ ɽ k sil ə ʈʰ t̪ eː ɦ ẽː}|معمولی باتوں پر لوگ بھڑک اٹھتے ہیں
+common_voice_ur_31823677|ur_trimmed|{n ə iː d̪ ɦ l iː sil d̪ ə s m b ə ɾ sil s ɪ j ɑː s ə t̪ ɖ ɑː ʈ sil k ɑː m bʱ ɑː ɾ ə t̪ n eː p ɑː k ɪ s t̪ ɑː n m ẽː sil m eː tʃ z sil kʰ eː l n eː sil k iː sil d̪ ɔː ə t̪ sil q ʊ b uː l k ə ɾ sil l iː sil ɛː}|نئی دہلی دسمبر سیاست ڈاٹ کام بھارت نے پاکستان میں میچز کھیلنے کی دعوت قبول کر لی ہے
+common_voice_ur_31824442|ur_trimmed|{tʃ oː ʈ iː b ə tʃ iː sil n iː n d̪ sil m ẽː sil b ə ɽ b ɽ ɑː sil ɾ ə ɦ iː sil t̪ʰ iː}|چھوٹی بچی نیند میں بڑبڑا رہی تھی
+common_voice_ur_31824379|ur_trimmed|{ə b uː sil z ɦ ə b iː sil ʈ ɛː s ʈ p ɑː k ɪ s t̪ ɑː n k oː sil s ə n s ə n iː sil x iː z m ɪ q ɑː b l ɪ eː k eː sil b ə ʔ d̪ sil ɾ ə ŋ z s eː sil ʃ ɪ k ɪ s t̪}|ابو ظہبی ٹیسٹ پاکستان کو سنسنی خیزمقابلے کے بعد رنز سے شکست
+common_voice_ur_31824226|ur_trimmed|{ɪ s eː sil ə ɾ s t̪ uː sil dʒ iː s ɑː sil ɪ s t̪ ɑː d̪ sil m ə l ɑː sil t̪ʰ ɑː}|اسے ارسطو جیسا استاد ملا تھا
+common_voice_ur_31823848|ur_trimmed|{q iː m ə t̪ ũː m ẽː sil ʋ j l eː ʋ sil iː ɖ ɖ sil ʈ iː k s sil ʃ ɑː m ə l sil ɛː}|قیمتوں میں ویلیو ایڈڈ ٹیکس شامل ہے
+common_voice_ur_31823683|ur_trimmed|{ʋ oː k j ɑː s iː n sil ɛː}|وہ کیا سین ہے
+common_voice_ur_31823618|ur_trimmed|{ʋ ə ɾ n ɑː sil ɪ d̪ m sil ɪ s t̪ ɪ k ɑː m k eː n ə eː sil d̪ uː ɾ k ɑː ɑː ɣ ɑː z ɦ oː sil dʒ ɑː ɪ j eː sil ɡ ɑː}|ورنہ عدم استحکام کے نئے دور کا آغاز ہو جائے گا
+common_voice_ur_31824302|ur_trimmed|{k ɑː m ə n sil ʋ j l t̪ʰ sil ɡ eː m z sil p ɑː k ɪ s t̪ ɑː n sil ɔː ɾ m ə l ɑː iː ʃ j ɑː sil ɦ ɑː k iː ʈ iː m k ɑː m eː tʃ sil iː k sil iː k ɡ oː l s eː sil b ə ɾ ɑː b ɪ ɾ}|کامن ویلتھ گیمز پاکستان اور ملائیشیا ہاکی ٹیم کا میچ ایک ایک گول سے برابر
 common_voice_ur_31824236|ur_trimmed|{z ɑː ɾ sil b ə n d̪ k eː l ɪ j eː ɪ s t̪ eː m ɑː l ɦ õː eː sil ʋ ɑː l ɑː sil ə l ɑː s ʈ ə k sil bʱ iː sil t̪ iː l ɦ iː s eː sil b ə n t̪ ɑː eː}|زار بند کیلئے استعمال ہونے والا الاسٹک بھی تیل ہی سے بنتا ھے
+common_voice_ur_31823764|ur_trimmed|{p ɑː k ɪ s t̪ ɑː n k ɑː m ə s l ɑː ʃ ə ɾ iː f ũː sil s eː sil b ə ɽ ɑː sil ɛː}|پاکستان کا مسئلہ شریفوں سے بڑا ہے
+common_voice_ur_31836689|ur_trimmed|{t̪ʰ ɑː n ɑː}|تھانا
+common_voice_ur_31836667|ur_trimmed|{t̪ uː sil m ʊ s ə l m ɑː n sil ə bʱ iː sil ə ɾ b k iː sil ɦ d̪ uː d̪ sil s eː sil b ɑː ɦ ə ɾ sil n ɦ ẽː sil n ə k l eː sil t̪ʰ eː}|تو مسلمان ابھی عرب کی حدود سے باہر نہیں نکلے تھے
+common_voice_ur_31823826|ur_trimmed|{x ɑː m oː ʃ iː s eː b iː ʈʰ uː sil n ɦ ẽː sil t̪ uː sil j ə ɦ ɑ̃ː sil s eː d̪ ə f ʔ ɑː sil ɦ oː dʒ ɑː oː}|خاموشی سے بیٹھو نہیں تو یہاں سے دفعہ ہو جاؤ
+common_voice_ur_31823562|ur_trimmed|{f ɪ t̪ ɾ sil t̪ m ẽː sil t̪ eː ɾ n ɑː sil k ɑː ʃ ʋ q sil ɦ oː n ɑː ɦ oː n ɑː}|فطر ت میں تیرنا کا شوق ہونا ہونا
+common_voice_ur_31823767|ur_trimmed|{k ʊ tʃ ʋ ə q ə t̪ sil t̪ uː sil l ə ɡ eː sil ɡ ɑː}|کچھ وقت تو لگے گا
+common_voice_ur_31824207|ur_trimmed|{ɦ ə ɑː s ə l n ɦ ẽː sil k ə ɾ ɾ ɛː sil dʒ ə s k eː sil ʋ oː m ə s t̪ ɦ q sil ɦ ẽː}|حاصل نہیں کر رہے جس کے وہ مستحق ہیں
+common_voice_ur_31823647|ur_trimmed|{ɖ uː m n iː k ɑː}|ڈومنیکا
+common_voice_ur_31823957|ur_trimmed|{q ʊ ɾ ʔ ɑː n ʋ sil s ə n t̪ k iː sil ɾ uː s eː ɪ l m ɑː k iː ə s ə l sil z m ɑː sil d̪ ɑː ɾ iː sil d̪ ɔː ə t̪ sil ʋ sil t̪ ə b l iː ɣ sil ɑ̃ː z ɑː ɾ sil ʋ sil t̪ ə b ʃ iː ɾ sil ɔː ɾ t̪ ɑː l iː m ʋ sil t̪ ɦ ə q iː q sil ɛː}|قرآن و سنت کی رو سے علما کی اصل ذمہ داری دعوت و تبلیغ انذار و تبشیر اور تعلیم و تحقیق ہے
+common_voice_ur_31823898|ur_trimmed|{b ɪ dʒ l iː ɦ iː ɪ s t̪ eː m ɑː l k iː sil dʒ ɑː ɾ ɦ iː sil eː}|بجلی ہی استعمال کی جارہی ھے
+common_voice_ur_31823765|ur_trimmed|{t̪ uː ɪ s k ɑː ɦ ə s ɑː ɦ ũː}|تو اس کا حصہ ہوں
+common_voice_ur_31823599|ur_trimmed|{b ɑː k s ə ɾ sil ɑː m ə ɾ sil x ɑː n p ɑː k ɪ s t̪ ɑː n m ẽː sil b ɑː k s ŋ ɡ sil k iː sil n ə ɾ s ɾ iː l ɪ j ɑː ɾ iː sil p ə ɦ õː tʃ sil ɡ eː}|باکسر عامر خان پاکستان میں باکسنگ کی نرسری لیاری پہنچ گئے
+common_voice_ur_31823615|ur_trimmed|{dʒ ə s k eː sil ɑː f iː s ə ɾ sil ʃ ə ɾ ɑː b iː sil ɦ ũː}|جس کے آفیسر شرابی ہوں
+common_voice_ur_31836665|ur_trimmed|{s ɪ j ɑː s iː sil dʒ ʊ m ɑː ʔ ə t̪ ẽː sil p ə ɦ l eː k iː sil t̪ ə ɾ ɑː sil b ɑː ɦ m d̪ ə s ə t̪ sil ʋ ɡ ɪ ɾ iː b ə ɑː n sil ɦ ẽː}|سیاسی جماعتیں پہلے کی طرح باہم دست و گریبان ہیں
+common_voice_ur_31824331|ur_trimmed|{dʒ ə ʋ ɑː b k eː l ɪ j eː sil tʃ ɪ n d̪ sil ɦ ə q ɑː j q sil ɦ ə m ɑː ɾ iː sil ɾ ə ɦ n ə m ɑː iː k ə ɾ s ə k t̪ eː ɦ ẽː}|جواب کے لیے چند حقائق ہماری رہنمائی کر سکتے ہیں
+common_voice_ur_31824486|ur_trimmed|{dʒ ə ɦ ɑ̃ː m ẽː sil z iː ɾ t̪ ɑː l iː m ɦ ũː sil j eː sil dʒ ʊ ɡ ɑː ɪ s l ɑː m sil ɑː b ɑː d̪ k iː sil ɦ d̪ uː d̪ m ẽː ɦ iː sil ɛː}|جہاں میں زیرتعلیم ہوں یہ جگہ اسلام آباد کی حدود میں ہی ہے
+common_voice_ur_31823484|ur_trimmed|{m ə iː k eː m ə q ɑː b l ɪ eː m ẽː sil p ʈ ə ɾ ʋ ə l sil m ə ɦ ə̃ ŋ ɡ ɑː sil ɦ oː ɪ ɡ j ɑː}|مئی کے مقابلے میں پٹرول مہنگا ہوگیا
+common_voice_ur_31823849|ur_trimmed|{ɾ ɔː ɦ k iː sil ɣ ʊ z ɑː ə l l ɑː k ɑː z k ɾ sil ɛː}|روح کی غذا اللہ کا ذکر ہے
+common_voice_ur_31836693|ur_trimmed|{k ə ɾ k ɪ ʈ sil k eː sil s ɑː t̪ʰ ɦ ə m n eː k j ɑː}|کرکٹ کے ساتھ ہم نے کیا کیا؟
+common_voice_ur_31824356|ur_trimmed|{ɪ s sil x ɑː b k oː d̪ʱ uː ɾ ɑː sil ɦ iː sil ɾ ə ɦ n eː sil d̪ ə j ɑː sil dʒ ɑː ɪ j eː}|اس خواب کو ادھورا ہی رہنے دیا جائے
+common_voice_ur_31836668|ur_trimmed|{ɔː ɾ m ə l z m ɑː n sil b ə ɽ iː m o ɪ s m ɪ j j ə t̪ sil s eː sil k ə ɦ t̪ eː ɦ ẽː}|اورملزمان بڑی معصومیت سے کہتے ہیں
+common_voice_ur_31823682|ur_trimmed|{ɑː p k oː sil s ə m ə dʒ ɑː j ɑː bʱ iː sil t̪ʰ ɑː m ə ɡ ə ɾ sil ɑː p n eː z ɑː ɦ ɪ ɾ k ə ɾ d̪ ə j ɑː}|آپ کو سمجھایا بھی تھا مگر آپ نے ظاہر کر دیا
+common_voice_ur_31824382|ur_trimmed|{ɑː l m iː m ɑː ɾ k ə eː ʈ s ə m j ə t̪ p ɑː k ɪ s t̪ ɑː n m ẽː bʱ iː s ʋ n eː sil k iː sil q iː m ə t̪ k ə m sil ɦ oː ɡ iː}|عالمی مارکیٹ سمیت پاکستان میں بھی سونے کی قیمت کم ہوگئی
+common_voice_ur_31823514|ur_trimmed|{k ɑː m k ɑː n ɑː ɾ ɑː sil b ə ɦ ʊ t̪ sil m ɪ q b uː l ɦ ə ʋ ɑː}|کام کا نعرہ بہت مقبول ہوا
+common_voice_ur_31824275|ur_trimmed|{s ə l iː m ɑː n sil n d̪ iː sil ɑː x ɾ sil n ɔː ɾ dʒ ə ɦ ɑ̃ː sil p ə ɾ k j ɑː sil ɔː ɾ k eː ũː l ɪ kʰ ẽː}|سلیمان ندوی آخر نورجہاں پر کیا اور کیوں لکھیں گے؟
+common_voice_ur_31823706|ur_trimmed|{t̪ ə n z sil k ə ɾ n ɑː}|بَہُت طنز کرنا
+common_voice_ur_31823582|ur_trimmed|{q uː m iː sil ʊ d̪ ɑː ɾ eː sil ʃ d̪ ə t̪ s eː sil t̪ ɪ ʃ k iː l sil n uː k ɑː sil m ə t̪ ɑː l ɪ b ɑː sil k ə ɾ ɾ ɛː sil ɦ ẽː}|قومی ادارے شدت سے تشکیل نو کا مطالبہ کر رہے ہیں
+common_voice_ur_31823518|ur_trimmed|{ɑː b n ɑː sil ʈʰ k ɑː n ɑː n ɑː m ə n z ə l n ɑː sil m ɪ q s ə d̪ ɦ j ɑː t̪}|اب نہ ٹھکانہ نہ منزل نہ مقصدحیات
+common_voice_ur_31836690|ur_trimmed|{ə m ɾ ɑː n sil x ɑː n k ɑː sil q d̪ m bʱ iː s ɑː t̪ʰ ɔː ẽː sil d̪ʱ ɑː iː k iː sil d̪ ɦ l iː z sil p ə ɾ sil ɛː}|عمران خان کا قدم بھی ساتویں دھائی کی دہلیز پر ہے
+common_voice_ur_31824191|ur_trimmed|{m eː ɾ ɑː sil k ə ɦ n ɑː ɛː sil k eː sil m eː ɖ ɪ j ɑː d̪ ɾ ɑː s ə l sil iː k s ə m ɑː dʒ iː sil ʊ d̪ ɑː ɾ ɑː ɛː}|میرا کہنا ہے کہ میڈیا دراصل ایک سماجی ادارہ ہے
+common_voice_ur_31824432|ur_trimmed|{j ə ɦ ẽː sil s eː sil t̪ z ɑː d̪ k ɑː ɑː ɣ ɑː z ɦ oː sil t̪ ɑː sil ɛː}|یہیں سے تضاد کا آ غاز ہو تا ہے
+common_voice_ur_31823852|ur_trimmed|{f l ə m m ʊ d̪ ɑː ɾ iː sil ɾ ʈ sil s ɛː ŋ m ɑː m ẽː sil ə m d̪ ɑː ɪ z ɑː f ə}|فلم مداری رٹ سینما میں عمدہ اضافہ
+common_voice_ur_31823707|ur_trimmed|{j eː k eː s iː m ə n t̪ q}|یہ کیسی منطق ہے؟
+common_voice_ur_31823851|ur_trimmed|{m ə s t̪ ɪ q b ə l sil m ẽː bʱ iː ɪ s k iː z ə ɾ uː ɾ ə t̪ sil t̪ uː sil ɾ ɛː ɦ iː sil ɡ iː sil dʒ iː s eː p ə l ɑː s ʈ ə k sil ʋ ɣ j ɪ ɾ ɑː sil b ə n ɑː n ɑː ɦ oː ɪ ɡ j ɑː}|مستقبل میں بھی اس کی ضرورت تو رہے ہی گی جیسے پلاسٹک وغیرہ بنا نا ہوگیا
+common_voice_ur_31824277|ur_trimmed|{x ʊ d̪ sil ɦ iː sil t̪ ɦ ə q iː q ɑː t̪ iː sil k ə m iː ʃ ə n sil k ɑː z k ɾ sil tʃ iː ɽ ɑː}|خود ہی تحقیقاتی کمیشن کا ذکر چھیڑا
+common_voice_ur_31824223|ur_trimmed|{dʒ ə ŋ ɡ l s eː sil q ɾ iː b ə ɦ õː eː sil k iː sil ʋ ə dʒ ɑː s eː sil x ʃ k sil l ɪ ɽ iː ɑ̃ː ɖʱ uː ɳ ɖ n eː m ẽː sil z j ɑː d̪ ɑː sil d̪ ə q ə t̪ n ɑː ɦ oː iː}|جنگل سے قریب ہونے کی وجہ سے خشک لکڑیاں ڈھونڈنے میں زیادہ دقت نہ ہوئی
+common_voice_ur_31824411|ur_trimmed|{dʒ ə s k eː sil b ɑː ʔ s eː ɪ s eː pʰ ə l n eː sil pʰ ə oː l n eː sil k ɑː m ɔː q oː sil ɣ iː ɾ sil ə ɾ ɑː d̪ iː sil t̪ uː ɾ p ə ɾ bʱ iː sil m ə l t̪ ɑː sil ɾ ə ɦ t̪ ɑː sil ɛː}|جسکے باعث اسے پھلنے پھولنے کا موقع غیر ارادی طور پر بھی ملتا رہتا ہے
+common_voice_ur_31823823|ur_trimmed|{ʊ p n iː sil ɾ ə ʋ ɑː j ə t̪ k iː sil p ɑː s d̪ ɑː ɾ iː sil n ɑː k ə ɾ s ə k eː ɪ s l ɑː ɦ k ɑː}|اپنی روایت کی پاسداری نہ کر سکے اصلاح کا
+common_voice_ur_31836658|ur_trimmed|{s ɑː ɾ eː s ə f ə ɾ sil n ɑː m eː m ẽː sil k s iː sil x ɑː s sil ʃ ə x s iː t̪}|سارے سفر نامے میں کسی خاص شخصیت
+common_voice_ur_31823601|ur_trimmed|{iː k sil m ə n z ɾ ʋ ɑː sil ɛː dʒ uː sil t̪ ə ɾ q iː j ɑː f t̪ ɑː d̪ n j ɑː m ẽː ə bʱ ɾ sil ɾ ə ɦ ɑː sil ɛː}|ایک منظروہ ہے جو ترقی یافتہ دنیا میں ابھر رہا ہے
+common_voice_ur_31824255|ur_trimmed|{ʋ oː ɑː b ɪ s l ɑː m sil ɑː b ɑː d̪ s eː k j ɑː k ə ɾ ẽː sil ɡ eː}|وہ اب اسلام آباد سے کیا کریں گے
+common_voice_ur_31824385|ur_trimmed|{t̪ uː ɪ s s eː sil ə l ɑː q ɑː iː sil ɔː ɾ sil m ə q ɑː m iː sil s ɪ j ɑː s iː sil q uː t̪ ẽː sil k m z uː ɾ ɦ ũː}|تو اس سے علاقائی اور مقامی سیاسی قوتیں کمزور ہوں
+common_voice_ur_31823981|ur_trimmed|{ɑː ɦ s t̪ ɑː sil ɑː ɦ ə s t̪ ɑː}|آہستہ آہستہ
+common_voice_ur_31823684|ur_trimmed|{m ə m ə l ɦ oː sil ɡ ɑː}|مکمل ہو گا
+common_voice_ur_31824256|ur_trimmed|{b ə ɽ eː sil d̪ ɪ l ɡ ə ɾ d̪ eː sil k iː sil b ɑː t̪ sil ɛː}|بڑے دل گردے کی بات ہے
+common_voice_ur_31823532|ur_trimmed|{ɔː ɾ sil q ʋ ɑː n iː n sil ʊ p n eː sil f ɪ t̪ ɾ iː sil ɪ ɾ t̪ q ɑː s eː sil m eː ɦ ɾ uː m sil ɾ ə ɦ t̪ eː ɦ ẽː}|اور قوانین اپنے فطری ارتقا سے محروم رہتے ہیں
+common_voice_ur_31823987|ur_trimmed|{dʒ ɪ b k iː sil j oː ʃ iː d̪ ɑː k eː ɦ ə s eː m ẽː sil k ɑː n s iː k ɑː t̪ m ɣ ɑː sil ɑː j ɑː}|جبکہ یوشیدا کے حصے میں کانسی کا تمغہ آیا
+common_voice_ur_31823983|ur_trimmed|{ɪ s p ɑ̃ː ʈ sil f k s ŋ ɡ sil ɪ s k iː ɳ ɖ l n ɑː s ə ɾ sil dʒ ʊ m ʃ iː d̪ sil k eː x ɪ l ɑː f sil k eː s k ɑː sil f iː s ə l ɑː m eː ɦ f ɔː z}|اسپاٹ فکسنگ اسکینڈلناصر جمشید کیخلاف کیس کا فیصلہ محفوظ
+common_voice_ur_31823703|ur_trimmed|{ʈ iː n s ɪ s ʈ ɑː ɾ sil s ɑː n iː ɑː m ə ɾ z ɑː sil ɾ ɑː dʒ iː ʋ sil ɡ ɑː n d̪ʱ iː sil kʰ eː l sil ɾ ə t̪ n ɑː ə eː ʋ ɑː ɾ ɖ k eː l ɪ j eː n ɑː m z d̪}|ٹینس اسٹار ثانیہ مرزا راجیو گاندھی کھیل رتنا ایوارڈکیلئے نامزد
+common_voice_ur_31824258|ur_trimmed|{t̪ uː ə k ɛː l eː sil m ẽː s ɑː m n eː ɑː n s ʋ sil n ɑː sil b ə ɦ ɑː eː}|تو اکیلے میں سامنے آنسو نہ بہائے
+common_voice_ur_31823612|ur_trimmed|{d̪ uː n ə m b ə ɾ n ə k l iː}|دو نمبر نکلی
+common_voice_ur_31824274|ur_trimmed|{p ə ɾ s ũː ɑː x ɾ iː sil f iː s ə l ɑː n ɦ ẽː sil ɦ õː eː sil dʒ ɑː ɾ ɦ ɑː}|پرسوں آخری فیصلہ نہیں ہونے جارہا
+common_voice_ur_31824438|ur_trimmed|{s ɑː eː n s sil z d̪ ɑː m ə ʔ ɑː ʃ ɾ ũː sil m ẽː sil dʒ ə ɦ ɑ̃ː sil ɪ n s ɑː n ʊ p n eː uː p ə ɾ sil iː k x ʊ d̪ sil s ɑː x t̪ ɑː ə n ɑː k ɑː sil x ʊ l tʃ ə ɽʱ ɑː sil l ɪ j ə t̪ eː ɦ ẽː}|سائنس زدہ معاشروں میں جہاں انسان اپنے اوپر ایک خود ساختہ انا کا خول چڑھا لیتے ہیں
+common_voice_ur_31823515|ur_trimmed|{dʒ ə b k oː iː sil ə x t̪ l ɑː f iː sil s uː ɾ ə t̪ sil n ə m uː d̪ ɑː ɾ ɦ oː t̪ iː sil x l iː f ɑː ɦ sil k eː s ɑː m n eː m ɑː m l ɑː sil p eː ʃ k ɾ ɪ t̪ eː}|جب کوئی اختلافی صورت نمودار ہوتی خلیفہ کے سامنے معاملہ پیش کرتے
+common_voice_ur_31823590|ur_trimmed|{b ə ʔ z sil ɔː q ɑː t̪ sil ɑː p s ɾ f ʊ p n eː ɦ ɔː s ə l ɑː k eː s ɑː t̪ʰ sil tʃ l t̪ eː ɦ ẽː}|بعض اوقات آپ صرف اپنے حوصلہ کے ساتھ چلتے ہیں
+common_voice_ur_31836680|ur_trimmed|{m ə l t̪ ɑː n n eː ʃ ə n l sil b ĩː k k eː sil ə m l eː k eː m b iː n ɑː f ɾ ɑː ɖ sil k eː x ɪ l ɑː f sil t̪ ɑː dʒ ə ɾ ũː ʃ ə ɦ ɾ ɪ j õː sil k ɑː e ɦ t̪ ɪ dʒ ɑː dʒ}|ملتان نیشنل بینک کے عملے کے مبینہ فراڈ کے خلاف تاجروںشہریوں کا احتجاج
+common_voice_ur_31824474|ur_trimmed|{ɑː s p ɑː s sil ɦ dʒ uː m sil t̪ʰ ɑː}|آس پاس ہجوم تھا
+common_voice_ur_31824354|ur_trimmed|{m ə dʒ eː ə ɡ ə ɾ sil m ə ɡ ə ɾ sil n ɦ ẽː sil tʃ ɑː ɦ eː}|مجھے اگر مگر نہیں چاہئے
+common_voice_ur_31823954|ur_trimmed|{ɪ s sil ʃ ɑː m k eː t̪ eː ʋ ə ɾ sil ə dʒ iː b sil t̪ʰ eː}|اس شام کے تیور عجیب تھے
+common_voice_ur_31836669|ur_trimmed|{b ə n j ɑː d̪ iː m ə ʔ j ɑː ɾ sil m ə z b uː ə t̪ sil s f ɑː ɾ ɪ ʃ k ɑː sil t̪ʰ ɑː}|بنیادی معیار مضبوط سفارش کا تھا
+common_voice_ur_31824310|ur_trimmed|{k bʱ iː ɪ s k oː p ɛː ɾ sil s ɑː ɦ ɪ b k ɑː n ɑː m d̪ ə j ɑː sil ɡ j ɑː}|کبھی اسکو پیر صاحب کا نام دیا گیا
+common_voice_ur_31824212|ur_trimmed|{ʋ ə ɦ ɑ̃ː l oː ɡ ʊ ũː sil k eː m ə z ɦ ə b iː sil dʒ ə z b ɑː t̪ s eː bʱ iː sil kʰ eː l ɑː dʒ ɑː sil ɾ ə ɦ ɑː sil ɛː}|وہاں لوگوں کے مذہبی جذبات سے بھی کھیلاجا رہا ہے
+common_voice_ur_31823934|ur_trimmed|{b ɑː ɳ ɖ z sil k iː sil q iː m ə t̪ ẽː sil b ə l ə n d̪ sil t̪ʰ ẽː}|بانڈز کی قیمتیں بلند تھیں
+common_voice_ur_31824300|ur_trimmed|{ɑː dʒ k eː sil s ɪ j ɑː s ə t̪ d̪ ɑː n sil t̪ uː m ɑː n l ɪ j ɑː sil b ə ɽ eː sil spn sil ɔː ɾ k ɾ p ʈ ɦ ẽː}|آج کے سیاستدان تو مان لیا بڑے نکمّے اورکرپٹ ہیں
+common_voice_ur_31823727|ur_trimmed|{t̪ ɑː ɾ eː x k iː sil ʋ ə ɾ q sil ɡ ɪ ɾ d̪ ɑː n iː s eː m ə ʔ ʊ l uː m ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|تاریخ کی ورق گردانی سے معلوم ہوتا ہے
+common_voice_ur_31824440|ur_trimmed|{ɦ ʊ k uː m ə t̪ k ɑː sil ɑː ɪ n d̪ ɑː sil b ɪ dʒ ʈ m ə iː k eː sil d̪ uː s ɾ eː ɦ ə f t̪ eː m ẽː p eː ʃ sil k ə ɾ n eː k ɑː sil f iː s ə l ɑː}|حکومت کا ائندہ بجٹ مئی کے دوسرے ہفتے میں پیش کرنے کا فیصلہ
+common_voice_ur_31824304|ur_trimmed|{dʒ ə b sil ɦ iː uː m ə n ʈ ə ɾ eː kʰ ə ʃ ə n sil x t̪ m ɦ oː ɡ ɑː sil t̪ uː sil k ə ɾ p ə ʃ ə n sil x ʊ d̪ b x ʊ d̪ sil x t̪ m ɦ oː sil dʒ ɑː ɪ j eː sil ɡ iː}|جب ہیومن انٹریکشن ختم ہوگا تو کرپشن خودبخود ختم ہو جائے گی
+common_voice_ur_31823611|ur_trimmed|{ɑː b bʱ iː sil b ə ɦ ʊ t̪ sil s ɑː ɾ ũː sil k iː ɪ q ɪ l ʈʰ k ɑː n eː sil ɑː dʒ ɑː eː sil ɡ iː}|اب بھی بہت ساروں کی عقل ٹھکانے آجائے گی
+common_voice_ur_31823540|ur_trimmed|{ɔː ɾ n ɑː ɦ oː n ɑː sil tʃ ɑː ɦ iː eː}|اورنہ ہونا چاہیے
+common_voice_ur_31823648|ur_trimmed|{d̪ uː s ɾ iː sil d̪ ə ɾ ə s ɡ ɑː ɦ ũː s eː sil f ɑː ɾ ɣ sil ə l t̪ ɦ s iː l}|دوسری درسگاہوں سے فارغ التحصیل ہیں؟
+common_voice_ur_31823681|ur_trimmed|{k bʱ iː j ə ɦ ɑ̃ː dʒ ɑː sil ɾ ɛː sil ɦ ẽː}|کبھی یہاں جا رہے ہیں
+common_voice_ur_31823671|ur_trimmed|{b ɑː q iː sil t̪ ɑː ɾ eː x sil ə m ɾ ɑː n ɪ j ɑː t̪ sil m ɑː l ɪ j ɑː t̪ sil t̪ʰ eː sil m ə z ɑː m iː n sil dʒ uː sil ʋ oː sil k bʱ iː n ɦ ẽː sil ɾ kʰ t̪ eː sil t̪ʰ eː}|باقی تاریخ عمرانیات مالیات تھے مضامین جو وہ کبھی نہیں رکھتے تھے
+common_voice_ur_31824429|ur_trimmed|{iː k ʃ ə ɾ iː f ɦ ẽː}|ایک شریف ہیں
+common_voice_ur_31824472|ur_trimmed|{m ẽː sil n ə ɦ ɑː t̪ ɑː ɦ ũː sil ɔː ɾ sil k ə p ɽ eː sil p ə ɦ n t̪ ɑː sil ɦ ũː}|میں نہاتاہوں اور کپڑے پہنتا ہوں
+common_voice_ur_31824491|ur_trimmed|{b iː ʃ k sil ʋ ɑː dʒ b iː sil s ə ɦ iː}|بیشک واجبی سہی
+common_voice_ur_31824239|ur_trimmed|{j eː sil t̪ ə b k iː sil b ɑː t̪ t̪ʰ iː}|یہ تب کی بات تھی
+common_voice_ur_31824311|ur_trimmed|{dʒ t̪ n eː sil k eː sil t̪ʰ eː}|جتنے کے تھے
+common_voice_ur_31823544|ur_trimmed|{p ɑː n ɑː m ɑː sil p ɛː pː ə ɾ z m ẽː k ʊ tʃ sil b ɑː t̪ n ɑː sil b ə n sil s k iː}|پاناما پیپرز میں کچھ بات نہ بن سکی
+common_voice_ur_31823580|ur_trimmed|{ʊ d̪ ɑː ɾ eː sil k ə ɾ ẽː bʱ iː k j ɑː}|ادارے کریں بھی کیا
+common_voice_ur_31823725|ur_trimmed|{ɦ ə q iː q ə t̪ m ẽː n ɦ ẽː}|حقیقت میں نہیں
+common_voice_ur_31823646|ur_trimmed|{ə s iː sil t̪ ə ɾ ɑː sil dʒ ə nː ɑː t̪ k eː sil m ʊ s ə l ə sil ɦ õː eː sil k ɑː sil m ə z m uː n sil bʱ iː sil spn sil m ʊ dʒ iː d̪ m ẽː sil b ə j ɑː n ɦ ə ʋ ɑː sil ɛː}|اسی طرح جنات کے مسلط ہونے کا مضمون بھی قرآنِ مجید میں بیان ہوا ہے
+common_voice_ur_31824249|ur_trimmed|{m ʊ x t̪ ə l f}|مختلف آڈیشنزمیں
+common_voice_ur_31836687|ur_trimmed|{m ẽː n eː sil ɪ n t̪ x ɑː b ɑː t̪ sil k eː d̪ ə n ũː sil m ẽː ɪ s eː m uː z uː ʕ sil b ə n ɑː j ɑː sil ɛː}|میں نے انتخابات کے دنوں میں اسے مو ضوع بنایا ہے
+common_voice_ur_31824463|ur_trimmed|{b ɑː l sil ʈ m p ɾ ə ŋ ɡ sil k eː s ɑː eː sil p iː sil eː ʋ k ɑː sil s z ɑː sil m ẽː k ə m iː sil k ɑː m ə t̪ ɑː l ɪ b ɑː}|بال ٹمپرنگ کیساے پی یو کا سزا میں کمی کامطالبہ
+common_voice_ur_31824188|ur_trimmed|{m ə s ɑː l ẽː sil b ɑː ɑː s ɑː n iː p eː ʃ sil k iː sil dʒ ɑː s ə k t̪ iː ɦ ẽː}|مثالیں باآسانی پیش کی جا سکتی ہیں
+common_voice_ur_31823517|ur_trimmed|{ɪ q t̪ ɪ d̪ ɑː ɾ m ẽː z ɑː ɦ ɪ ɾ sil ɛː}|اقتدار میں ظاہر ہے
+common_voice_ur_31824414|ur_trimmed|{ə n s eː sil n dʒ ɑː t̪ k eː l ɪ j eː ɦ ə m ẽː sil t̪ ə ɾ dʒ iː ɦ ɑː t̪ k ɑː t̪ ʔ iː n sil k ə ɾ n ɑː sil ɛː}|ان سے نجات کے لیے ہمیں ترجیحات کا تعین کرنا ہے
+common_voice_ur_31824189|ur_trimmed|{kʰ ə l ɑː ɽ iː k ɑː dʒ ə ɦ ɑː z sil s eː sil b ɑː l sil b ɑː s k ʈ sil k ə ɾ n eː k ɑː sil k ɑː ɾ n ɑː m ɑː}|کھلاڑی کا جہاز سے بال باسکٹ کرنے کا کارنامہ
+common_voice_ur_31824308|ur_trimmed|{d̪ ə n m ẽː dʒ ə z b sil k iː sil ɡ iː k ɑː ɾ b ʊ n sil ɖ ɑː iː ɑː k s ɑː iː ʊ ɖ sil k eː m ə q ɑː b l ɪ eː sil m ẽː sil b ə ɦ ʊ t̪ sil k ə m ɦ ə ʋ ɪ t̪ ɑː sil ɛː}|دن میں جذب کی گئی کاربن ڈائی آکسائیڈ کے مقابلے میں بہت کم ہوتا ہے
+common_voice_ur_31824222|ur_trimmed|{p ə ɾ ɑː n iː sil f l ə m n eː m eː ɾ iː sil b ə tʃ p ə n k iː sil j ɑː d̪ ẽː sil t̪ ɑː z ɑː sil k ɾ ɪ d̪ ẽː}|اُس پرانی فلم نے میری بچپن کی یادیں تازہ کردیں
+common_voice_ur_31824480|ur_trimmed|{ʃ eː ʋ s iː n ɑː sil n eː p ɑː k ɪ s t̪ ɑː n sil ə m p ɑː ɾ sil ə l iː m sil ɖ ɑː ɾ k oː bʱ iː sil d̪ʱ m k iː d̪ eː sil d̪ iː}|شیو سینا نے پاکستان امپائر علیم ڈار کو بھی دھمکی دے دی
+common_voice_ur_31824329|ur_trimmed|{iː k sil dʒ ɑː p ɑː n iː sil t̪ʰ n k sil ʈ ĩː k n eː sil ʋ ɑː z ɦ sil k j ɑː sil ɛː sil k eː sil dʒ iː s eː sil dʒ iː s eː sil ə m ɾ iː k ɑː m ə s ʋ ʔ iː sil z ɦ ɑː n ə t̪ sil ɑː ɾ ʈ iː f iː ʃ ə l sil ɪ n ʈ iː l iː sil dʒ n s sil k eː sil m iː d̪ ɑː n m ẽː sil m ʊ ʃ ɦ uː ɾ ɦ oː ɾ ə ɦ ɑː sil ɛː}|ایک جاپانی تھنک ٹینک نے واضح کیا ہے کہ جیسے جیسے امريکا مصنوعی ذہانت آرٹیفیشل انٹیلی جنس کے میدان میں مشہور ہو رہا ہے
+common_voice_ur_31824330|ur_trimmed|{ɦ ə m ɑː ɾ iː s oː tʃ sil s eː b ə ɽʱ sil k ə ɾ}|ہماری سوچ سے بڑھ کر
+common_voice_ur_31823644|ur_trimmed|{t̪ uː ɪ s m ẽː sil j ə q iː n ɑː p ɛː pː ə l z p ɑː ɾ ʈ iː sil k ɑː sil k ə ɾ d̪ ɑː ɾ sil s ə b s eː sil ə ɦ m sil ɛː}|تو اس میں یقینا پیپلزپارٹی کا کردار سب سے اہم ہے
+common_voice_ur_31823636|ur_trimmed|{ɾ oː ʃ n iː sil ɑː k ɾ sil ʋ ɑː p ə s n ɦ ẽː sil dʒ ɑː s ə k t̪ iː}|روشنی آکر واپس نہیں جاسکتی
+common_voice_ur_31824303|ur_trimmed|{ɪ s sil t̪ ɑː s ə ɾ s eː sil t̪ ɦ ɾ iː k n eː sil ɔː ɾ z uː ɾ p k ɽ ɑː}|اس تاثر سے تحریک نے اور زور پکڑا
+common_voice_ur_31823566|ur_trimmed|{q ʊ b uː l sil n ɦ ẽː k ɾ ɪ t̪ ɑː sil ʋ oː sil d̪ uː n ũː k oː sil b ɑː z ə t̪ sil s ə m ə dʒ t̪ ɑː sil ɛː}|قبول نہیں کرتا وہ دونوں کو باعزت سمجھتا ہے
+common_voice_ur_31824221|ur_trimmed|{ɦ ə m sil ə tʃ eː t̪ ə ɾ iː q eː sil s eː sil ʊ ŋ ɡ l ʃ sil m ẽː sil b ɑː t̪ k ə ɾ s ə k t̪ eː ɦ ẽː}|ہم اچھے طریقے سے انگلش میں بات کر سکتے ہیں
+common_voice_ur_31836682|ur_trimmed|{ɔː ɾ ɦ ə m ɑː ɾ ɑː sil iː m ɑː n sil ɛː sil k ə ɦ ɑː sil tʃ ɑː ɦ k oː iː bʱ iː sil m ə s l ɑː ɦ oː sil ɪ s sil ɦ ə l sil ɾ m ɔː dʒ uː d̪ sil ɛː}|اور ہمارا ایمان ہے کہہ چاہ کوئی بھی مسئلہ ہو اس حل ر موجود ہے
+common_voice_ur_31824479|ur_trimmed|{f iː m l iː sil p ə l ɑː ɳ ŋ ɡ p ɑː l iː s iː m ẽː t̪ ə b ʊ d̪ eː l iː k eː sil b ə ʔ d̪ bʱ iː sil tʃ iː n m ẽː sil ʃ ə ɾ ɑː sil spn m ʊ s ə l s l k ə m ɦ oː ɾ ə ɦ iː sil ɛː}|فیملی پلاننگ پالیسی میں تبدیلی کے بعد بھی چین میں شرح آبادی مسلسل کم ہو رہی ہے
 common_voice_ur_31823531|ur_trimmed|{p ə ɦ ɑː ɽ iː ə l ɑː q ũː sil k iː j eː sil x s ə l ə t̪ sil m ə dʒ eː sil b ə ɦ ʊ t̪ sil bʱ ɑː t̪ iː sil ɛː}|پہاڑی علاقوں کی یہ خصلت مجھے بہت بھاتی ہے
 common_voice_ur_31824259|ur_trimmed|{b ɑː ɾ ɪ ʃ n ɑː ɦ oː t̪ uː sil ɡ ɪ ɾ m iː b ə ɽʱ sil dʒ ɑː t̪ iː sil ɛː}|بارش نہ ہوتو گرمی بڑھ جاتی ہے
-common_voice_ur_31823532|ur_trimmed|{ɔː ɾ sil q ʋ ɑː n iː n sil ʊ p n eː sil f ɪ t̪ ɾ iː sil ɪ ɾ t̪ q ɑː s eː sil m eː ɦ ɾ uː m sil ɾ ə ɦ t̪ eː ɦ ẽː}|اور قوانین اپنے فطری ارتقا سے محروم رہتے ہیں
-common_voice_ur_31824354|ur_trimmed|{m ə dʒ eː ə ɡ ə ɾ sil m ə ɡ ə ɾ sil n ɦ ẽː sil tʃ ɑː ɦ eː}|مجھے اگر مگر نہیں چاہئے
-common_voice_ur_31823726|ur_trimmed|{k eː sil ʊ p n iː ɪ s l ɑː ɦ sil k ə ɾ sil l ẽː}|کہ اپنی اصلاح کر لیں
-common_voice_ur_31823609|ur_trimmed|{t̪ ɑː l iː m k oː ɪ n ɦ ũː sil n eː ʊ p n iː sil t̪ ə ɾ dʒ iː ɦ ɑː t̪ sil m ẽː ʃ ɑː m ə l k j ɑː sil ɛː}|تعلیم کو انہوں نے اپنی ترجیحات میں شامل کیا ہے
+common_voice_ur_31823645|ur_trimmed|{dʒ uː ɦ oː n ɑː ɦ oː t̪ ɑː ɛː ʋ ɑː sil ɦ oː k ə ɾ ɾ ə ɦ t̪ ɑː sil ɛː}|جو ہونا ہوتاہےوہ ہو کر رہتا ہے
+common_voice_ur_31823509|ur_trimmed|{ɔː ɾ sil ɦ ə ɾ k ə t̪ sil k ə ɾ n ɑː ɦ oː n ɑː d̪ eː kʰ n ɑː k ə ɾ n ɑː x ʊ d̪ sil k oː m eː ɦ z ɔː z sil k ə ɾ n ɑː ɦ oː n ɑː}|اور حرکت کرنا ہونا دیکھنا کرنا خود کو محظوظ کرنا ہونا
+common_voice_ur_31823529|ur_trimmed|{k ə ɾ ɑː tʃ iː spn sil k ə ɾ n ɑː sil ə m ɑ̃ː dʒ iː n ɑː sil dʒ ə ɦ iː z sil m ẽː sil l ɑː n ɑː ɦ oː n ɑː}|کراچی یِہ کرنا اماں جینا جہیز میں لانا ہونا
+common_voice_ur_31823850|ur_trimmed|{m eː ɾ eː sil ə ɦ ɑ̃ː b ə tʃ ɑː sil ɦ õː eː sil ʋ ɑː l ɑː sil ɛː}|میرے ہاں بچہ ہونے والا ہے
+common_voice_ur_31823614|ur_trimmed|{s iː d̪ n ə uː ɾ ʊ p n iː sil f l ə m sil tʃ iː n ə eː sil n ɑː sil s eː k j ɑː sil s kʰ ɑː n ɑː sil tʃ ɑː ɦ ə t̪ eː ɦ ẽː}|سید نور اپنی فلم چین ائے نہ سے کیا سکھانا چاہتے ہیں
+common_voice_ur_31823600|ur_trimmed|{m eː ɦ m d̪ ʊ ɦ f iː z sil ʈ ɛː s ʈ sil m eː tʃ ũː m ẽː sil m ʊ s ə l s l sil s ə n tʃ ɾ ɪ j ɑ̃ː b ə n ɑː n eː ʋ ɑː l eː sil tʃ ʈ eː sil p ɑː k ɪ s t̪ ɑː n iː sil b ə l eː sil b ɑː z sil b ə n sil ɡ eː}|محمدحفیظ ٹیسٹ میچوں میں مسلسل سنچریاںبنانیوالے چھٹے پاکستانی بلے باز بن گئے
+common_voice_ur_31823668|ur_trimmed|{dʒ ə ʋ ɑː n iː sil k eː sil j ɑː m sil t̪ʰ eː}|جوانی کے ایام تھے
+common_voice_ur_31823766|ur_trimmed|{m eː ɾ eː ɔː ɾ sil ə n k eː sil spn m ẽː sil tʃ ɪ n d̪ sil k l uː m eː ʈ ə ɾ k ɑː sil f ɑː s ə l ɑː sil ɛː}|میرے اور ان کے گاؤں میں چند کلو میٹرکا فاصلہ ہے
+common_voice_ur_31823616|ur_trimmed|{dʒ ə l d̪ iː sil ɑː ʋ b tʃ ɑː sil ɖ uː b sil ɾ ə ɦ ɑː sil ɛː}|جلدی آوبچہ ڈوب رہا ہے
+common_voice_ur_31836692|ur_trimmed|{ʃ ɑː iː d̪ sil ɦ ə m ɑː ɾ eː p ɑː k ɪ s t̪ ɑː n m ẽː}|شاید ہمارے پاکستان میں
+common_voice_ur_31823603|ur_trimmed|{l eː kʰ ə ə n sil dʒ ə b sil s eː sil ə n k eː m ɑː ɦ ɔː l d̪ ʊ ʃ m ə n sil ɪ s ɾ ɑː t̪}|لیکن جب سے ان کے ماحول دشمن اثرات
+common_voice_ur_31824465|ur_trimmed|{t̪ uː sil k ə ʋ ə n sil ɪ s eː k s iː sil ɡ ɦ ɾ iː sil kʰ ɑː iː m ẽː sil ɡ ɪ ɾ n eː s eː sil ɾ uː k s ə ə k t̪ ɑː sil ɛː}|تو کون اسے کسی گہری کھائی میں گرنے سے روک سکتا ہے 
+common_voice_ur_31824444|ur_trimmed|{ɪ s ə m ə ɾ m ẽː k ɑː f iː sil z m ɑː n ɑː d̪ eː kʰ sil tʃ ɪ k eː ɦ ẽː}|اس عمر میں کافی زمانہ دیکھ چکے ہیں
+common_voice_ur_31823901|ur_trimmed|{dʒ n ɦ ẽː sil ʋ j ʈ iː l eː ʈ ə ɾ sil tʃ l ɑː n ɑː sil t̪ uː k j ɑː n ɑː m bʱ iː s ə iː sil t̪ ə ɾ ɑː sil l eː n ɑː n ɦ ẽː sil ɑː t̪ ɑː sil ʋ ə ɦ ɑ̃ː sil p ə ɾ sil b ə n ɑː iː sil ɡ iː sil ʋ j ɖ eː ʋ bʱ iː m ɔː dʒ uː d̪ sil ɦ ẽː}|جنہیں وینٹیلیٹر چلانا تو کیا نام بھی صحیح طرح لینا نہیں آتا وہاں پر بنائی گئی ویڈیو بھی موجود ہیں
+common_voice_ur_31824466|ur_trimmed|{l eː kʰ ə ə n k j ɑː t̪ ɑː l q ɑː t̪ m ẽː k ʃ iː d̪ ɡ iː}|لیکن کیا تعلقات میں کشیدگی

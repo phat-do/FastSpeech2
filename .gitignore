@@ -116,4 +116,5 @@ output/
 *.npy
 TextGrid/
 hifigan/*.pth.tar
+*.pth.tar
 preprocessed_data/paper-23/en-US/all.zip

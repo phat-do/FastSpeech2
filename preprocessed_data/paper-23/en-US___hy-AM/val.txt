@@ -1,0 +1,10 @@
+common_voice_hy-AM_26499293|hy-AM_trimmed|{h ɑ ɾ ɑ v ɑ j i n m ɑ s u m sil k ɑ ɑ ɾ h ɛ s t ɑ k ɑ n sil l t ʃ ɑ k ʃ ɾ d ʒ ɑ k ɑ j kʰ u m sil k ɑ ʁ n u ɑ n t ɑ r n ɛ ɾ}|հարավային մասում կա արհեստական լճակ, շրջակայքում' կաղնու անտառներ
+common_voice_hy-AM_26572903|hy-AM_trimmed|{b ɛ ʁ m n ɑ v ɔ ɾ u tʰ j u n ə sil n ɛ ɾ kʰ i n ɛ}|բեղմնավորությունը ներքին է
+common_voice_hy-AM_26582760|hy-AM_trimmed|{n ɾ ɑ n ɑ χ ɑ d z ɛ r n u tʰ j ɑ m b sil d p ɾ ɔ t sʰ n ɛ ɾ sil ɛ n b ɑ t sʰ v ɛ l sil h ɑ j k ɑ k ɑ n t ɑ ɾ b ɛ ɾ sil b n ɑ k ɑ v ɑ j ɾ ɛ ɾ u m}|նրա նախաձեռնությամբ դպրոցներ են բացվել հայկական տարբեր բնակավայրերում
+common_voice_hy-AM_26499315|hy-AM_trimmed|{z ɡ ɑ l i m ɑ s ə sil spn sil ɛ ɾ spn sil v ɾ ɑ}|հոնորարների զգալի մասը ծախսում էր բարեգործությունների վրա
+common_voice_hy-AM_26520634|hy-AM_trimmed|{ɛ ɾ i t ɑ s ɑ ɾ d ɑ k ɑ n t ɑ ɾ i n ɛ ɾ i n sil z b ɑ ʁ v ɛ l ɛ sil spn sil spn v ɑ ɾ p ɛ t i spn sil ɛ}|երիտասարդական տարիներին զբաղվել է սուսերամարտով, սպորտի վարպետի թեկնածու է
+common_voice_hy-AM_26466512|hy-AM_trimmed|{ʃ ɑ h ɑ ɡ ɔ ɾ t s ɔ ʁ ɑ k ɑ n f ɔ ɾ m ɑ t sʰ i ɑ n ɛ ɾ u m ɑ j n sil ɑ n h ɑ t u j t sʰ j u ɾ ɑ t sʰ n u m sil ɛ n sil i ʃ χ ɔ ʁ d ɑ s ɑ k ɑ ɾ ɡ ɛ ɾ ə}|շահագործողական ֆորմացիաներում այն անհատույց յուրացնում են իշխող դասակարգերը
+common_voice_hy-AM_26466593|hy-AM_trimmed|{ɔ ɾ ɔ v ɑ j n i sil ɑ p ɔ n ɛ v ɾ ɔ z ə sil b u n ɔ t sʰ ɛ h ɑ n d i s ɑ n u m u ʁ i ʁ sil m k ɑ n i h ɑ m ɑ ɾ}|որովայնի ապոնևրոզը բունոց է հանդիսանում ուղիղ մկանի համար
+common_voice_hy-AM_26483872|hy-AM_trimmed|{s ɑ k ɑ j n sil ɡ ɾ t ʃʰ i n u sil v ɾ d z n i n sil pʰ ɔ χ ɑ ɾ i n ɛ t sʰ sil z ɛ n kʰ ə}|սակայն գրչին ու վրձնին փոխարինեց զենքը
+common_voice_hy-AM_26582772|hy-AM_trimmed|{ɛ k ɑ t ɛ ɾ i n ɑ n d ɑ ɾ d z ɑ v ɑ ʃ χ ɑ ɾ h i sil ɑ m ɛ n ɑ ɛ ɾ i t ɑ s ɑ ɾ d t ʃʰ ɛ m p i ɔ n ə}|եկատերինան դարձավ աշխարհի ամենաերիտասարդ չեմպիոնը
+common_voice_hy-AM_26591425|hy-AM_trimmed|{m ɑ ɾ m n i pʰ ɔ χ ɑ d ɑ ɾ d z χ n ɑ m kʰ ə sil k ɑ ɾ ɔ ʁ ɛ sil z u ɡ ɑ k t sʰ v ɛ l j u ɾ ɑ h ɑ t u k sil d z ɑ j n ɛ ɾ ɔ v}|մարմնի փոխադարձ խնամքը կարող է զուգակցվել յուրահատուկ ձայներով

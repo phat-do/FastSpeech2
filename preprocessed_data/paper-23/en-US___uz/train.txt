@@ -1,190 +1,214 @@
-common_voice_uz_30299262|uz_trimmed|{o t̪ ɡ a n d̪ a v r d̪ a u n i ŋ j ɒ l ʁ i z ɒ v u n tʃ ɒ ʁ i d̪ a d̪ a s i e d̪ i}|o'tgan davrda uning yolg'iz ovunchog'i dadasi edi
-common_voice_uz_30178107|uz_trimmed|{ɒ t̪ a spn u z ɒ q d̪ a}|ota-onam uzoqda
-common_voice_uz_30201275|uz_trimmed|{χ a l q a r ɒ sil k u z a t̪ u v tʃ i l a r u z ɒ q m u d̪ d̪ a t̪ l i sil v a q i s q a m u d̪ d̪ a t̪ l i sil k u z a t̪ u v tʃ i l a r ɡ a b o l i n a d̪ i}|xalqaro kuzatuvchilar uzoq muddatli va qisqa muddatli kuzatuvchilarga bo'linadi.
-common_voice_uz_30178779|uz_trimmed|{b i r j ɒ q i m l i s a b ɒ e s m ɒ q d̪ a}|bir yoqimli sabo esmoqda.
-common_voice_uz_30178309|uz_trimmed|{ɒ t̪ a h a n i m a b o p t̪ i sil d̪ e b sil o z i n i sil ɡ o l l i k k a s ɒ l d̪ i}|ota, ha, nima bo'pti, deb o'zini go'llikka soldi
-common_voice_uz_30178353|uz_trimmed|{ɒ r a d̪ a n a n tʃ a j i l l a r sil o t̪ d̪ i}|oradan ancha yillar o'tdi.
-common_voice_uz_30179350|uz_trimmed|{l e k i n sil r e dʒ i m ɡ a sil k i r i ʃ i ʃ sil ɒ r t̪ i q tʃ a χ u r s a n d̪ tʃ i l i k k a s a b a b b o l i ʃ i sil k e r a k e m a s}|lekin rejimga kirishish ortiqcha xursandchilikka sabab bo'lishi kerak emas.
-common_voice_uz_30178271|uz_trimmed|{m u h ɒ k a m a l a r sil t̪ u ʃ l i k sil d̪ a s t̪ u r χ ɒ n i a t̪ r ɒ ɸ i d̪ a sil v a s a j r l a r d̪ a}|muhokamalar tushlik dasturxoni atrofida va sayrlarda
-common_voice_uz_30275201|uz_trimmed|{h ɒ l b u k i sil t̪ u n b u n d̪ a ɒ d̪ a t̪ d̪ a}|holbuki, tun - bunda odatda
-common_voice_uz_30178178|uz_trimmed|{m e n s i z ɡ a o z i m n i ŋ sil p u l i m n i sil b e r d̪ i m}|men sizga o'zimning pulimni berdim.
-common_voice_uz_30277337|uz_trimmed|{b u d̪ u n j ɒ d̪ a ɡ i e ŋ sil ɒ ʁ i r i ʃ}|- bu dunyodagi eng og'ir ish.
-common_voice_uz_30178640|uz_trimmed|{u k a t̪ t̪ a v a q a l i n d̪ e v ɒ r ɒ r a s i d̪ a j i l l a r d̪ a v ɒ m i d̪ a sil d̪ i m i q i b sil j ɒ t̪ ɡ a n e k a n}|u katta va qalin devor orasida yillar davomida dimiqib yotgan ekan
-common_voice_uz_30267502|uz_trimmed|{b i r ɒ q sil b u ɒ l i j m a q s a d̪ ʃ u n a q a n ɡ i χ u n u k e d̪ i k i}|biroq, bu oliy maqsad shunaqangi xunuk ediki!
-common_voice_uz_30277005|uz_trimmed|{m e n ɡ a i ʃ ɒ n i ŋ sil k e k s a l i k sil b u j a χ ʃ i v a j ɒ q i m l i sil d̪ a v r}|menga ishoning, keksalik bu yaxshi va yoqimli davr.
-common_voice_uz_30178259|uz_trimmed|{ɒ v q a t̪ s a l sil k e tʃ i k s a h a m b ɒ l a l a r j i ʁ l a b sil q ɒ l s a h a m m e n a j b d̪ ɒ r}|ovqat sal kechiksa ham, bolalar yig'lab qolsa ham men aybdor
-common_voice_uz_30178970|uz_trimmed|{s e r i a l d̪ a t̪ ɒ m ɒ ʃ a b i n d̪ i q q a t̪ i sil b ɒ r}|serialda tomoshabin diqqati bor.
-common_voice_uz_30178371|uz_trimmed|{h a m m a ʃ u n d̪ a j d̪ e b sil o j l a j d̪ i}|hamma shunday deb o'ylaydi
-common_voice_uz_30265909|uz_trimmed|{m e n v a s e n h a j r ɒ n b o l a m i z}|men va sen hayron bo'lamiz.
-common_voice_uz_30178110|uz_trimmed|{k u t̪ t̪ i r i b sil q o j ɡ a n i m u tʃ u n u z r}|kuttirib qo'yganim uchun uzr.
-common_voice_uz_30232894|uz_trimmed|{m a z k u r t̪ r a n s p ɒ r t̪ sil i n ʃ ɒ ɒ t̪ l a r i b u ɡ u n d̪ a n ɒ tʃ i l d̪ i}|mazkur transport inshootlari bugundan ochildi
-common_voice_uz_30208994|uz_trimmed|{m i ŋ ɡ a k i r d̪ i m sil tʃ i r i d̪ i dʒ i s m i m}|mingga kirdim, chiridi jismim
-common_voice_uz_30178258|uz_trimmed|{ɒ n a ɒ t̪ a m s i z ɡ a h a m ɒ l i b sil k e l a d̪ i m i}|ona, otam sizga ham olib keladimi?
-common_voice_uz_30178138|uz_trimmed|{u tʃ j i l d̪ e ɡ a n d̪ a u n i sil k o r d̪ i m}|uch yil deganda uni ko'rdim
-common_voice_uz_30265278|uz_trimmed|{j u r a ɡ i m sil spn sil u r i b sil b a t̪ t̪ a r d̪ a n b i q i n i b sil ɒ l d̪ i m}|yuragim taka-puka urib, battardan biqinib oldim
-common_voice_uz_30273796|uz_trimmed|{h a m ʃ i r a ɒ s m a u k ɒ l n i h a m sil u l a b sil tʃ i q i b sil k e t̪ d̪ i}|hamshira osma ukolni ham ulab chiqib ketdi.
-common_voice_uz_30178681|uz_trimmed|{ɡ a p i r i ʃ n i sil b i l a r sil d̪ a r a χ t̪ l a r}|gapirishni bilar daraxtlar.
-common_voice_uz_30178339|uz_trimmed|{b i l a m a n d̪ e d̪ i m ʃ u n d̪ a j q i l i b sil r e b ɒ z a m e n j ɒ ʃ sil b ɒ l a e m a m a n sil ɒ t̪ a ŋ sil t̪ e ŋ i m a n}|bilaman, dedim, shunday qilib, reboza, men yosh bola emasman, otang tengiman
-common_voice_uz_30178900|uz_trimmed|{t̪ o q i s a m a j l i sil u j a l m a j i n s ɒ n l a r ɡ a q a n d̪ a j a j t̪ i b sil b e r i ʃ a r k i n}|to'qisa mayli, uyalmay insonlarga qanday aytib berisharkin?
-common_voice_uz_30240871|uz_trimmed|{t̪ a b i i j k i sil b u l a r ɒ r a s i d̪ a b ɒ ʃ q a t̪ i l l a r d̪ a n sil k i r ɡ a n l a r i h a m b ɒ r}|tabiiyki, bular orasida boshqa tillardan kirganlari ham bor.
-common_voice_uz_30178102|uz_trimmed|{b u s e n m i q u r ɒ l j a r ɒ ʁ u tʃ u n sil p u l j i q q a n}|bu senmi qurol-yarog' uchun pul yiqqan
-common_voice_uz_30178818|uz_trimmed|{dʒ ɒ n a j a d̪ i ŋ b o l m a d̪ i sil v a ɸ ɒ ŋ}|jon ayading, bo'lmadi vafong.
-common_voice_uz_30234070|uz_trimmed|{h a q j o l i d̪ a sil dʒ i s m u dʒ ɒ n i m ɸ i d̪ ɒ d̪ e ɡ a j}|haq yo'lida jismu jonim fido degay.
-common_voice_uz_30178711|uz_trimmed|{q a tʃ ɒ n d̪ i r sil d̪ u tʃ k e l a m a n m i o z i u ŋ a}|qachondir duch kelamanmi o'zi unga
-common_voice_uz_30178359|uz_trimmed|{b i r s a ɸ a r sil b ɒ l a l a r n i sil ɒ l i b sil k e t̪ i ʃ ɡ a k e l ɡ a n d̪ a n a r ɡ i z a q a r ʃ i s i d̪ a n tʃ i q d̪ i}|bir safar bolalarni olib ketishga kelganda nargiza qarshisidan chiqdi
-common_voice_uz_30222804|uz_trimmed|{b i r ɒ q dʒ i m t̪ u r i ʃ h a m sil v a z i j a t̪ d̪ a n tʃ i q a r m a j d̪ i}|biroq jim turish ham vaziyatdan chiqarmaydi
-common_voice_uz_30178275|uz_trimmed|{tʃ ɒ r r a h a ɡ a sil p i j ɒ d̪ a l a r n i ŋ j o l n i sil k e s i b sil o t̪ i ʃ l a r i u tʃ u n sil ɒ s m a sil k o p r i k sil q u r i l d̪ i}|chorrahaga piyodalarning yo'lni kesib o'tishlari uchun osma ko'prik qurildi.
-common_voice_uz_30178378|uz_trimmed|{i s t̪ a m a j m a n}|istamayman.
-common_voice_uz_30178146|uz_trimmed|{k u t̪ i l m a ɡ a n ʃ ɒ v q i n d̪ a n i tʃ k a r i u j d̪ a ɡ i k a t̪ t̪ a o ʁ l i sil j i ʁ l a b t̪ a ʃ q a r i ɡ a ɒ t̪ i l d̪ i}|kutilmagan shovqindan ichkari uydagi katta o'g'li yig'lab tashqariga otildi.
-common_voice_uz_30239336|uz_trimmed|{ʃ u b h a s i z m e n b u t̪ u n l a j t̪ a m ɒ m b o l i b m a n}|shubhasiz, men butunlay tamom bo'libman.
-common_voice_uz_30179351|uz_trimmed|{o q u v tʃ i ɡ a d̪ o s t̪ sil b o l i ŋ}|o'quvchiga do'st bo'ling!
-common_voice_uz_30178868|uz_trimmed|{l ɒ j d̪ a d̪ u m a l a ɡ a n t̪ a n a j ɒ p i ʃ q ɒ q k a ɸ a ŋ a sil b u r k a n d̪ i}|loyda dumalagan tana yopishqoq kafanga burkandi
-common_voice_uz_30244876|uz_trimmed|{l e k i n b u s o z n i i ʃ l a t̪ ɡ a n d̪ a sil i ʃ ɒ n tʃ l i sil v a ɸ a q a t̪ sil i dʒ ɒ b i j m u n ɒ s a b a t̪ d̪ a sil b o l i ʃ i k e r a k}|lekin bu so'zni ishlatganda ishonchli va faqat ijobiy munosabatda bo'lishi kerak
-common_voice_uz_30178308|uz_trimmed|{t̪ u r k m a n b ɒ ʃ i n i ŋ sil ɒ t̪ sil j ɒ k i i t̪ n i sil s e n a t̪ ɡ a sil k i r i t̪ ɡ a n i h a q i d̪ a h e tʃ sil q a n d̪ a j m a ʔ l u m ɒ t̪ sil j o q}|turkmanboshining ot yoki itni senatga kiritgani haqida hech qanday ma'lumot yo'q
-common_voice_uz_30178352|uz_trimmed|{b ɒ ʃ i d̪ a n sil p ɒ χ ɒ l ʃ l j a p a s i n i ɒ l d̪ i}|boshidan poxol shlyapasini oldi.
-common_voice_uz_30203764|uz_trimmed|{n e ɡ r l a r n i ŋ ɒ n a s i h a m b ɒ l a l a r i n i ɒ q sil j u v i b sil ɒ q t̪ a r a j d̪ i m i}|"negrlarning onasi ham bolalarini "oq yuvib, oq taraydimi?"
-common_voice_uz_30236561|uz_trimmed|{r a ʔ n ɒ j a r a ʃ e v a d̪ a n sil ɸ e r u z a n ɒ r m a t̪ ɒ v a ɡ a tʃ a}|ra'no yarashevadan feruza normatovagacha
-common_voice_uz_30178643|uz_trimmed|{χ ɒ t̪ i n i sil b i r j i l sil b u r u n sil v a ɸ ɒ t̪ e t̪ ɡ a n b u ɒ d̪ a m n i ŋ b ɒ l a l a r i sil p a r i ʃ ɒ n b i r sil h ɒ l d̪ a q ɒ l ɡ a n d̪ i}|xotini bir yil burun vafot etgan bu odamning bolalari parishon bir holda qolgandi.
-common_voice_uz_30178358|uz_trimmed|{k o r i ʃ ɡ u n tʃ a}|-ko'rishguncha.
-common_voice_uz_30178300|uz_trimmed|{h a t̪ i t̪ r ɒ q ɒ v ɒ z e ʃ i t̪ i l d̪ i}|ha, titroq ovoz eshitildi
-common_voice_uz_30178140|uz_trimmed|{t̪ u ɡ a l m a s sil b ɒ j l i ɡ i m sil ɒ t̪ a dʒ ɒ n i m d̪ i r}|tugalmas boyligim otajonimdir
-common_voice_uz_30178273|uz_trimmed|{a l b a t̪ t̪ a b o l i ʃ a ɒ l m a s a sil k o z sil k o z q i l i b sil j e j i ʃ k e r a k e m a s}|albatta, bo'lisha olmasa ko'z-ko'z qilib yeyish kerak emas.
-common_voice_uz_30179429|uz_trimmed|{j o q sil b u n a q a d̪ a h e tʃ n a r s a ɡ a e r i ʃ i b b o l m a j d̪ i sil d̪ e b d̪ i a s a b i j l a ʃ i b sil d̪ o s t̪ sil i z l ɒ v tʃ i}|- yo'q, bunaqada hech narsaga erishib bo'lmaydi, - debdi asabiylashib do'st izlovchi
-common_voice_uz_30178147|uz_trimmed|{p u l d̪ a n j ɒ r d̪ a m b e r ɒ l m a j s i z sil b u n i sil b i l a m a n}|puldan yordam berolmaysiz, buni bilaman
-common_voice_uz_30299275|uz_trimmed|{i l m u sil i ʃ q sil d̪ a r j ɒ s i m e h r sil d̪ a r j ɒ s i}|ilmu ishq daryosi, mehr daryosi
-common_voice_uz_30206721|uz_trimmed|{d̪ e m a k sil u n i ŋ s o z m a s ʔ u l i j a t̪ i h a m b ɒ ʃ q a l a r n i k i d̪ a n m i ŋ h i s s a ɒ r t̪ i q r ɒ q d̪ i r}|demak, uning so'z mas'uliyati ham boshqalarnikidan ming hissa ortiqroqdir.
-common_voice_uz_30178061|uz_trimmed|{tʃ ɒ r l a r sil spn sil b a ʁ r i ɡ a}|chorlar takror-takror bag'riga.
-common_voice_uz_30208828|uz_trimmed|{t̪ e a t̪ r ɡ a b ɒ r m ɒ q tʃ i m a n}|teatrga bormoqchiman.
-common_voice_uz_30178059|uz_trimmed|{b ɒ l a l a r sil tʃ i z ɡ a n s u r a t̪ v a j a s a ɡ a n n a r s a l a r i n i sil m a z a χ q i l i ʃ}|bolalar chizgan surat va yasagan narsalarini mazax qilish.
-common_voice_uz_30178212|uz_trimmed|{s i j ɒ s i j sil p i a r}|siyosiy piar.
-common_voice_uz_30178111|uz_trimmed|{u tʃ q u n l a r ɡ a sil t̪ o l ɡ a n d̪ a j sil b o l d̪ i}|qip-qizil uchqunlarga to'lganday bo'ldi.
-common_voice_uz_30178355|uz_trimmed|{ʃ u n a q a d̪ e ŋ d̪ e d̪ i sil b e m ɒ r}|shunaqa deng, dedi bemor
-common_voice_uz_30248197|uz_trimmed|{j o q sil h e tʃ n i m a b e r m a d̪ i a j t̪ m a d̪ i j a m}|yo'q, hech nima bermadi, aytmadiyam.
-common_voice_uz_30219694|uz_trimmed|{b a h r ɒ m n i j ɒ n i ɡ a m e n i sil k i r i t̪ i ʃ m a d̪ i}|bahromni yoniga meni kiritishmadi
-common_voice_uz_30178656|uz_trimmed|{a j n i sil p a j t̪ d̪ a i n v e s t̪ ɒ r l a r b i l a n m u z ɒ k a r a l a r sil o t̪ k a z i l m ɒ q d̪ a sil v a b u sil d̪ a v ɒ m e t̪ a d̪ i}|ayni paytda investorlar bilan muzokaralar o'tkazilmoqda va bu davom etadi.
-common_voice_uz_30178220|uz_trimmed|{u n d̪ a t̪ o ʁ r i χ u l ɒ s a n i q a j e r d̪ a n ɒ l a m i z}|unda to'g'ri xulosani qayerdan olamiz?
-common_voice_uz_30178196|uz_trimmed|{n u r a ɸ ʃ ɒ n d̪ a j a n ɡ i s a r d̪ ɒ r l a r sil k e ŋ a ʃ i sil i ʃ b ɒ ʃ l a d̪ i}|nurafshonda yangi sardorlar kengashi ish boshladi
-common_voice_uz_30178219|uz_trimmed|{m e h n a t̪ v a t̪ a s v i r i j s a n ʔ a t̪ sil d̪ a r s l a r i d̪ a n i m a l a r d̪ a n ɸ ɒ j d̪ a l a n d̪ i ŋ i z}|mehnat va tasviriy san'at darslarida nimalardan foydalandingiz?
-common_voice_uz_30235256|uz_trimmed|{b ɒ t̪ i r ɸ i r q a ɒ q ʃ ɒ m v a q t̪ i a j ɒ l i ɡ a t̪ a j i n l a d̪ i}|botir firqa oqshom vaqti ayoliga tayinladi:
-common_voice_uz_30178720|uz_trimmed|{j i q i l a s a n j o q ɒ t̪ i b sil q o j a s a n sil v a b ɒ ʃ q a l a r}|yiqilasan, yo'qotib qo'yasan va boshqalar.
-common_voice_uz_30178942|uz_trimmed|{q a n i sil k e tʃ i r i m s o r a s a ŋ s o r a b sil ɒ l t̪ a ʁ i n a j n i b sil q ɒ l m a j}|qani, kechirim so'rasang so'rab ol, tag'in aynib qolmay.
-common_voice_uz_30178164|uz_trimmed|{j a q i n d̪ a ʃ a h r i χ ɒ n a j a χ a j r l i sil b i r sil t̪ u ʃ k o r d̪ i}|yaqinda shahrixon aya xayrli bir tush ko'rdi.
-common_voice_uz_30207052|uz_trimmed|{k e j i n h a m m a s i n i χ a m i r d̪ e k sil a r a l a ʃ t̪ i r a s i z}|keyin hammasini xamirdek aralashtirasiz.
-common_voice_uz_30223266|uz_trimmed|{s a b a b i spn sil q i m m a t̪ b u n i ŋ u s t̪ i ɡ a j a n ɡ i sil s ɒ l i q tʃ i q d̪ i}|sababi xom-ashyosi qimmat, buning ustiga yangi soliq chiqdi
-common_voice_uz_30178119|uz_trimmed|{a s l i d̪ a h a m m a ŋ n i sil u r i b sil o l d̪ i r i ʃ i m sil k e r a k}|aslida hammangni urib o'ldirishim kerak
-common_voice_uz_30276919|uz_trimmed|{h a r sil q a n d̪ a j m a s a l a n i m u r a k k a b l a ʃ t̪ i r m a s d̪ a n sil e ŋ sil ɒ d̪ d̪ i j s ɒ d̪ d̪ a n a r s a l a r d̪ a n b ɒ ʃ l a ɡ a n i m i z j a χ ʃ i}|har qanday masalani murakkablashtirmasdan, eng oddiy, sodda narsalardan boshlaganimiz yaxshi.
-common_voice_uz_30231361|uz_trimmed|{d̪ ɒ i m χ a j ɒ l s u r i b sil j u r i ʃ i sil v a ʁ a l a t̪ i sil m u h a b b a t̪ i sil b ɒ r e d̪ i}|doim xayol surib yurishi va g'alati muhabbati bor edi
-common_voice_uz_30178276|uz_trimmed|{k o z j ɒ ʃ l a r i ŋ b i l a n sil e s a u n i sil ɸ a q a t̪ sil o z i ŋ d̪ a n s ɒ v i t̪ a s a n}|ko'z yoshlaring bilan esa uni faqat o'zingdan sovitasan
-common_voice_uz_30178370|uz_trimmed|{o t̪ a e h t̪ i j ɒ t̪ k ɒ r sil e d̪ i e r i m}|o'ta ehtiyotkor edi erim
-common_voice_uz_30178325|uz_trimmed|{ɒ d̪ a m l a r k e l i b sil m e n i sil u ʃ l a ʃ d̪ i}|odamlar kelib meni ushlashdi.
-common_voice_uz_30245810|uz_trimmed|{k o t̪ a r i b sil j u r i ʃ ɡ a r ɒ z i e m a m i z}|ko'tarib yurishga rozi emasmiz!
-common_voice_uz_30275141|uz_trimmed|{ʃ ɒ ʃ i l i n tʃ sil ɒ p e r a ts i j a o t̪ k a z i l i ʃ i t̪ a v s i j a e t̪ i l ɡ a n}|shoshilinch operatsiya o'tkazilishi tavsiya etilgan.
-common_voice_uz_30178272|uz_trimmed|{m e n i m tʃ a ɒ z a j m a d̪ i}|menimcha, ozaymadi.
-common_voice_uz_30178256|uz_trimmed|{t̪ ɒ n i r ɒ v k a d̪ a n t̪ u ʃ ɡ a n sil p u l l a r q a j e r ɡ a i ʃ l a t̪ i l a d̪ i}|tonirovkadan tushgan pullar qayerga ishlatiladi?
-common_voice_uz_30178918|uz_trimmed|{q u ʃ l a r n i ŋ q o ʃ i ʁ i tʃ i ɡ i r t̪ k a n i n a tʃ i l a r n i ŋ sil q u v n ɒ q ɒ v ɒ z i n i e ʃ i t̪ d̪ i}|qushlarning qo'shig'i, chigirtka, ninachilarning quvnoq ovozini eshitdi.
-common_voice_uz_30232874|uz_trimmed|{k i t̪ ɒ b sil o q i ʃ e s a a k s i n tʃ a t̪ a ʔ s i r k o r s a t̪ a d̪ i}|kitob o'qish esa aksincha ta'sir ko'rsatadi.
-common_voice_uz_30266966|uz_trimmed|{t̪ e s l a sil e l e k t̪ r ɒ k a r l a r i sil r u s t̪ i l i d̪ a sil ɡ a p i r i ʃ n i sil b ɒ ʃ l a d̪ i}|tesla elektrokarlari rus tilida gapirishni boshladi
-common_voice_uz_30178285|uz_trimmed|{e s k i sil q ɒ ʁ ɒ z sil u q a l a n i b sil k e t̪ ɡ a n sil j e r r a n ɡ i d̪ a ɡ i u tʃ b u r tʃ a k sil k ɒ n v e r t̪ ɡ a s ɒ l i ŋ a n}|eski qog'oz, uqalanib ketgan, yer rangidagi uchburchak konvertga solingan.
-common_voice_uz_30202274|uz_trimmed|{u s t̪ i d̪ a o t̪ k a z ɡ a n sil t̪ a dʒ r i b a l a r i e s i ɡ a t̪ u ʃ d̪ i}|ustida o'tkazgan tajribalari esiga tushdi.
-common_voice_uz_30178380|uz_trimmed|{ʃ u sil b i l a n b i r ɡ a r e j t̪ i ŋ n a t̪ i dʒ a l a r i a v t̪ ɒ m a t̪ i k sil r a v i ʃ d̪ a ɒ ʃ a d̪ i}|shu bilan birga, reyting natijalari avtomatik ravishda oshadi
-common_voice_uz_30201662|uz_trimmed|{m i r z i j ɒ j e v n i ŋ sil q a t̪ ʔ i j i r ɒ d̪ a s i sil v a j u k s a k sil t̪ a ʃ k i l ɒ t̪ tʃ i l i k s a l ɒ h i j a t̪ i t̪ u ɸ a j l i}|mirziyoyevning qat'iy irodasi va yuksak tashkilotchilik salohiyati tufayli
-common_voice_uz_30271936|uz_trimmed|{s i z n i ŋ χ ɒ n a ŋ i z u tʃ i n tʃ i q a v a t̪ d̪ a}|sizning xonangiz uchinchi qavatda.
-common_voice_uz_30178230|uz_trimmed|{v a z i r l i k sil b a j ɒ n ɒ t̪ i ɡ a j a n a q a j t̪ a m i z}|vazirlik bayonotiga yana qaytamiz.
-common_voice_uz_30178267|uz_trimmed|{i n s ɒ n b i r j i l k a s a l j ɒ t̪ s a sil d̪ a r h ɒ l sil o l a d̪ i m i}|inson bir yil kasal yotsa, darhol o'ladimi?
-common_voice_uz_30178381|uz_trimmed|{b i r sil k u n i sil b i r ɒ d̪ a m sil u l ɡ u r dʒ i sil b ɒ z ɒ r d̪ a n i k k i sil q ɒ p spn s ɒ t̪ i b sil ɒ l d̪ i}|bir kuni bir odam ulgurji bozordan ikki qop sabzi-piyoz sotib oldi
-common_voice_uz_30178283|uz_trimmed|{b i r j u t̪ ɒ q i b sil j u t̪ d̪ i h i l ɒ l n i}|bir yutoqib yutdi hilolni
-common_voice_uz_30286235|uz_trimmed|{i s b ɒ t̪ t̪ a l a b sil q i l d̪ i m e n d̪ a n b e s a b r}|isbot talab qildi mendan besabr.
-common_voice_uz_30178127|uz_trimmed|{e s l a ʃ ɡ a sil u r i n d̪ i}|eslashga urindi
-common_voice_uz_30206899|uz_trimmed|{h a z i l a r a l a ʃ sil b i r sil i b ɒ r a l a r i b ɒ r e d̪ i}|hazil aralash bir iboralari bor edi.
-common_voice_uz_30240225|uz_trimmed|{e r t̪ a ɡ a r ɒ s s i j a m a r k a z i j sil b a n k i j i ʁ i l i b sil b a z a v i j s t̪ a v k a n i sil k o r i b sil tʃ i q a d̪ i}|ertaga rossiya markaziy banki yig'ilib, bazaviy stavkani ko'rib chiqadi
-common_voice_uz_30244526|uz_trimmed|{b u ɡ a p sil e r i ɡ a m a ʔ q u l t̪ u ʃ i b d̪ i}|bu gap eriga ma'qul tushibdi
-common_voice_uz_30207326|uz_trimmed|{b i z q i s m a n b i r l i ɡ i m i z d̪ a n t̪ a ʃ q a r i q o l i m i z d̪ a ɡ i b ɒ j l i k l a r n i ŋ h a m h i s ɒ b i n i ɒ l i ʃ i m i z k e r a k}|biz qisman birligimizdan tashqari qo'limizdagi boyliklarning ham hisobini olishimiz kerak
-common_voice_uz_30178079|uz_trimmed|{d̪ o s t̪ i m b u n tʃ a q i j i n h a j ɒ t̪ d̪ e ɡ a n i}|do'stim, buncha qiyin hayot degani.
-common_voice_uz_30201586|uz_trimmed|{tʃ e k k a d̪ a n k e l ɡ a n m e h m ɒ n l a r n i e ʃ i t̪ a d̪ i}|chekkadan kelgan mehmonlarni eshitadi.
-common_voice_uz_30178085|uz_trimmed|{d̪ a r r ɒ v t̪ ɒ z a s i n i sil k i j ɡ i z i b sil q o j a r e d̪ i ŋ i z}|darrov tozasini kiygizib qo'yar edingiz.
-common_voice_uz_30236135|uz_trimmed|{b u j e r m e n i ŋ tʃ a d̪ u n j ɒ d̪ a ɡ i e ŋ sil ɡ o z a l sil v a e ŋ h a s r a t̪ l i m a k ɒ n b ɒ ʔ i s a k e r a k}|bu yer, meningcha, dunyodagi eng go'zal va eng hasratli makon bo 'isa kerak.
-common_voice_uz_30207103|uz_trimmed|{m e ŋ a q a r a b ɒ l a m}|menga qara, bolam.
-common_voice_uz_30178250|uz_trimmed|{p a s t̪ d̪ a m ɒ v i j t̪ o l q i n t̪ i n m a j d̪ i}|pastda moviy to'lqin tinmaydi
-common_voice_uz_30180686|uz_trimmed|{ɒ t̪ a ɒ n a m e h r i sil ɸ a r z a n d̪ n i ŋ sil ɒ t̪ a spn j a χ ʃ i k o r i ʃ i}|ota-ona mehri, farzandning ota-onani yaxshi ko'rishi
-common_voice_uz_30249576|uz_trimmed|{k o ŋ i l l a r d̪ a t̪ i z i l i b sil q a t̪ ɒ r}|ne-ne ko'ngillarda tizilib qator
-common_voice_uz_30178249|uz_trimmed|{ʃ a h r i s a b z l i k sil r a ʃ i d̪ h a j d̪ a r ɒ v sil o z u j i d̪ a s a j j ɒ h l a r u tʃ u n m e h m ɒ n χ ɒ n a ɒ tʃ d̪ i}|shahrisabzlik rashid haydarov o'z uyida sayyohlar uchun mehmonxona ochdi
-common_voice_uz_30178284|uz_trimmed|{j a q i n sil o t̪ m i ʃ ɡ a n a z a r t̪ a ʃ l a s a k sil b u ɡ u n ɡ i sil v ɒ q e a l a r n i ŋ sil s a b a b l a r i n i sil k o r a m i z}|yaqin o'tmishga nazar tashlasak, bugungi voqealarning sabablarini ko'ramiz
-common_voice_uz_30178158|uz_trimmed|{u j i m sil k u j d̪ i sil d̪ e s a m sil k i m sil h a m sil i ʃ ɒ n a r}|uyim kuydi desam kim ham ishonar
-common_voice_uz_30239999|uz_trimmed|{t̪ o ʁ r i r ɒ ʁ i u sil ʃ u tʃ ɒ r a s i z l i k sil b i l a n t̪ o q n a ʃ k e l ɡ a n}|to'g'rirog'i, u shu chorasizlik bilan to'qnash kelgan
-common_voice_uz_30178331|uz_trimmed|{l e k i n v a q t̪ a l l a m a h a l b o l ɡ a n i d̪ a n sil t̪ a ʃ v i ʃ l a n d̪ i}|lekin vaqt allamahal bo'lganidan tashvishlandi
-common_voice_uz_30265735|uz_trimmed|{k e k s a j ɒ ʃ e r k a k sil u tʃ u n b a r tʃ a n a r s a l a r ɒ r a s i d̪ a e ŋ sil k u t̪ i l m a ɡ a n i d̪ i r}|keksa yosh erkak uchun barcha narsalar orasida eng kutilmaganidir.
-common_voice_uz_30178190|uz_trimmed|{h a a n a ʃ u n d̪ a j sil o z i ɡ a sil b i n ɒ q o j ɡ a n sil ɡ o z a l e d̪ i u}|ha, ana shunday o'ziga bino qo'ygan go'zal edi u!
-common_voice_uz_30178060|uz_trimmed|{b i r ɒ q u m i d̪ l a r i sil k a t̪ t̪ a sil e d̪ i}|biroq umidlari katta edi.
-common_voice_uz_30206709|uz_trimmed|{a ɡ a r s i z o z i ŋ i z n i h a q d̪ e b sil h i s ɒ b l a s a ŋ i z u l a r s i z n i n ɒ h a q l i ɡ i ŋ i z n i i s b ɒ t̪ l a b sil b e r i ʃ l a r i sil k e r a k}|agar siz o'zingizni haq deb hisoblasangiz, ular sizni nohaqligingizni isbotlab berishlari kerak.
-common_voice_uz_30178214|uz_trimmed|{n a ʃ ɒ i r m a n n a ɒ l i m}|na shoirman, na olim
-common_voice_uz_30178644|uz_trimmed|{s i r a s i n i a j t̪ ɡ a n d̪ a sil a j n a n ʃ u n d̪ a j sil a d̪ a b i j ɒ t̪ tʃ i m a n}|sirasini aytganda aynan shunday adabiyotchiman.
-common_voice_uz_30203778|uz_trimmed|{d̪ a r ʁ ɒ m n ɒ m l i sil q i ʃ l ɒ q h a m b o l ɡ a n}|darg'om nomli qishloq ham bo'lgan.
-common_voice_uz_30235528|uz_trimmed|{dʒ u d̪ a sil k o p sil k i t̪ ɒ b l a r m u t̪ ɒ l a a s i d̪ a o q u v tʃ i n i ŋ sil a q l i sil d̪ a m ɒ l a d̪ i}|juda ko'p kitoblar mutolaasida o'quvchining aqli dam oladi
-common_voice_uz_30178210|uz_trimmed|{b u l a r n i ŋ h a m m a s i o z i d̪ a n o z i sil b o l m a j d̪ i sil d̪ e ɡ a n d̪ i}|bularning hammasi o'zidan o'zi bo'lmaydi, degandi
-common_voice_uz_30178068|uz_trimmed|{ɒ r t̪ i q tʃ a t̪ o l a ŋ a n s ɒ l i q sil v a b ɒ ʃ q a m a dʒ b u r i j t̪ o l ɒ v l a r sil s u m m a l a r i n i q a j t̪ a r i ʃ t̪ a r t̪ i b i q a n d̪ a j}|ortiqcha to'langan soliq va boshqa majburiy to'lovlar summalarini qaytarish tartibi qanday?
-common_voice_uz_30178247|uz_trimmed|{j u m ʃ ɒ q}|fe'li-paxtasidek yumshoq.
+common_voice_uz_30177915|uz_trimmed|{t̪ a s l i m b o l i b sil t̪ u r i ʃ i ŋ j a χ ʃ i}|taslim bo'lib turishing yaxshi.
 common_voice_uz_30241769|uz_trimmed|{e h t̪ i m ɒ l d̪ a n u z ɒ q}|ehtimoldan uzoq
-common_voice_uz_30233824|uz_trimmed|{i j e d̪ a d̪ a m q a m a l ɡ a n m i d̪ e s a m}|iye, dadam qamalganmi, desam.
-common_voice_uz_30245053|uz_trimmed|{j o q s a b u d̪ u n j ɒ d̪ a z e r i k i b s i q i l i b sil k e t̪ j a p m a n}|yo'qsa bu dunyoda zerikib, siqilib ketyapman.
-common_voice_uz_30178209|uz_trimmed|{k e j i n ɡ i h a ɸ t̪ a k a m p i r n i k i ɡ a b ɒ r a m a n b ɒ l a n i q a j t̪ a r i b sil b e r i ʃ i n i s o r a j m a n}|keyingi hafta kampirnikiga boraman, bolani qaytarib berishini so'rayman.
+common_voice_uz_30202274|uz_trimmed|{u s t̪ i d̪ a o t̪ k a z ɡ a n sil t̪ a dʒ r i b a l a r i e s i ɡ a t̪ u ʃ d̪ i}|ustida o'tkazgan tajribalari esiga tushdi.
+common_voice_uz_30177887|uz_trimmed|{dʒ ɒ h i l e l ɡ a q a r a m a s}|johil elga qaramas.
+common_voice_uz_30178190|uz_trimmed|{h a a n a ʃ u n d̪ a j sil o z i ɡ a sil b i n ɒ q o j ɡ a n sil ɡ o z a l e d̪ i u}|ha, ana shunday o'ziga bino qo'ygan go'zal edi u!
 common_voice_uz_30241904|uz_trimmed|{e n d̪ i sil v a z i j a t̪ o z ɡ a r m ɒ q d̪ a}|endi vaziyat o'zgarmoqda
-common_voice_uz_30236252|uz_trimmed|{u n i ŋ j u m u ʃ i k o p}|uning yumushi ko'p.
-common_voice_uz_30236285|uz_trimmed|{ʃ u o j d̪ a b a r m ɒ q l a r i m n i sil t̪ i ʃ l a d̪ i m}|shu o'yda barmoqlarimni tishladim.
-common_voice_uz_30178286|uz_trimmed|{b ɒ l a ɡ a n i m a b o l ɡ a n}|bolaga nima bo'lgan
-common_voice_uz_30178058|uz_trimmed|{k a t̪ t̪ a u tʃ i n tʃ i tʃ ɒ r a k t̪ a ʔ s i r q i l i ʃ i m u m k i n}|katta uchinchi chorak ta'sir qilishi mumkin
-common_voice_uz_30287218|uz_trimmed|{o z i m i z n i sil u j i m i z sil b o l a d̪ i}|o'zimizni uyimiz bo'ladi.
-common_voice_uz_30178223|uz_trimmed|{v a j a n a u d̪ ɒ i m ɒ t̪ e s k a r i t̪ ɒ m ɒ n ɡ a h a m i ʃ l a j d̪ i}|va yana u doimo teskari tomonga ham ishlaydi.
-common_voice_uz_30249591|uz_trimmed|{a ɡ a r h a q b o l ɡ a n d̪ a q a j s i sil b i r i ŋ d̪ a q a n d̪ a j s a v ɒ l sil b ɒ r sil d̪ e j a r d̪ i m}|agar haq bo'lganda, qaysi biringda qanday savol bor? deyardim
-common_voice_uz_30179154|uz_trimmed|{tʃ e r k ɒ v d̪ a n q a j t̪ a j ɒ t̪ ɡ a n a j ɒ l e d̪ i}|cherkovdan qaytayotgan ayol edi.
-common_voice_uz_30178261|uz_trimmed|{b ɒ s sil d̪ e r h i n d̪ u}|bos, der hindu
-common_voice_uz_30277248|uz_trimmed|{k e tʃ q u r u n o ʁ i l l a r ɒ l i b sil k e l i b sil q o j i b sil k e t̪ i ʃ a d̪ i}|kechqurun o'g'illar olib kelib qo'yib ketishadi
-common_voice_uz_30178278|uz_trimmed|{ɒ q ʃ ɒ m s i z d̪ a n h u s a j i n m e n i ŋ i s m i m n i sil s o r a j d̪ i}|oqshom sizdan husayin mening ismimni so'raydi.
-common_voice_uz_30178623|uz_trimmed|{b i r b i r i n i sil tʃ i m tʃ i l a b sil k u l d̪ i}|bir-birini chimchilab kuldi.
-common_voice_uz_30274873|uz_trimmed|{χ u d̪ ɒ i n s ɒ n n i sil b i r u m r sil b a χ t̪ sil i z l a ʃ a z ɒ b i b i l a n dʒ a z ɒ l a ɡ a n}|xudo insonni bir umr baxt izlash azobi bilan jazolagan.
-common_voice_uz_30178641|uz_trimmed|{u l a r d̪ a b ɒ ʃ sil r e dʒ a j o q}|ularda bosh reja yo'q
-common_voice_uz_30178082|uz_trimmed|{j a n a b i r j a χ ʃ i s e r i a l n i sil t̪ a v s i j a q i l m ɒ q tʃ i m a n}|yana bir yaxshi serialni tavsiya qilmoqchiman.
-common_voice_uz_30179123|uz_trimmed|{ɒ v ɒ z i ŋ i z t̪ i ŋ l a b t̪ o j ɒ l m a ɡ a n m a n}|ovozingiz tinglab to'yolmaganman.
-common_voice_uz_30289456|uz_trimmed|{a χ i r sil p a r v a r d̪ i ɡ ɒ r u ŋ a q ɒ n u n i j sil b ɒ j l i k sil a t̪ ɒ q i l d̪ i}|axir parvardigor unga qonuniy boylik ato qildi
-common_voice_uz_30178188|uz_trimmed|{s i z n i ŋ ɒ d̪ d̪ i j sil b e k l i k d̪ a n ʃ u n d̪ a j sil b u j u k s a l t̪ a n a t̪ s ɒ h i b i sil d̪ a r a dʒ a s i ɡ a j e t̪ i ʃ i ŋ i z ɡ a sil n i m a sil j ɒ r d̪ a m b e r d̪ i}|- sizning oddiy beklikdan shunday buyuk saltanat sohibi darajasiga yetishingizga nima yordam berdi?
-common_voice_uz_30178721|uz_trimmed|{b i t̪ m ɒ q b o l d̪ i sil i l k ʃ e ʔ r i n i}|bitmoq bo'ldi ilk she'rini.
-common_voice_uz_30178121|uz_trimmed|{ɒ t̪ a m dʒ u d̪ a sil tʃ o r t̪ k e s a r e d̪ i}|otam juda cho'rtkesar edi.
-common_voice_uz_30178077|uz_trimmed|{j u k s a l a j ɒ t̪ ɡ a n m i l l a t̪ n i ŋ sil ɒ r z u s i j u k s a k sil m o l dʒ a l i a n i q b o l a d̪ i}|yuksalayotgan millatning orzusi yuksak, mo'ljali aniq bo'ladi
-common_voice_uz_30178199|uz_trimmed|{e r t̪ a ɡ a j ɒ q sil spn q a j t̪ a r i b sil j u b ɒ r}|ertagayoq lash-lushlarini qaytarib yubor
-common_voice_uz_30178156|uz_trimmed|{a m m ɒ sil k e s a k j a n a o r t̪ a ɡ a sil ɡ a p sil q o ʃ i b d̪ i}|ammo kesak yana o'rtaga gap qo'shibdi:
-common_voice_uz_30178314|uz_trimmed|{m e n i sil b e ɡ ɒ n a l a r ɡ a sil r o p a r a q i l m a}|meni begonalarga ro'para qilma
-common_voice_uz_30231343|uz_trimmed|{ɸ a r z a n d̪ i m i z ɒ l t̪ i j ɒ ʃ ɡ a t̪ o l d̪ i}|farzandimiz olti yoshga to'ldi
-common_voice_uz_30178240|uz_trimmed|{d̪ ɒ l z a r b sil m a v z u l a r}|dolzarb mavzular
-common_voice_uz_30287841|uz_trimmed|{e r t̪ a s i sil k u n i j a n a m a r d̪ i k ɒ r b ɒ z ɒ r i ɡ a b ɒ r d̪ i}|ertasi kuni yana mardikor bozoriga bordi
-common_voice_uz_30178150|uz_trimmed|{u ŋ a q ɒ n q u j i ʃ i m i z k e r a k}|unga qon quyishimiz kerak
-common_voice_uz_30178866|uz_trimmed|{e s k i r ɡ a n b u j u m l a r q a t̪ ɒ r i sil b i r sil k u n}|eskirgan buyumlar qatori bir kun
+common_voice_uz_30201275|uz_trimmed|{χ a l q a r ɒ sil k u z a t̪ u v tʃ i l a r u z ɒ q m u d̪ d̪ a t̪ l i sil v a q i s q a m u d̪ d̪ a t̪ l i sil k u z a t̪ u v tʃ i l a r ɡ a b o l i n a d̪ i}|xalqaro kuzatuvchilar uzoq muddatli va qisqa muddatli kuzatuvchilarga bo'linadi.
+common_voice_uz_30178273|uz_trimmed|{a l b a t̪ t̪ a b o l i ʃ a ɒ l m a s a sil k o z sil k o z q i l i b sil j e j i ʃ k e r a k e m a s}|albatta, bo'lisha olmasa ko'z-ko'z qilib yeyish kerak emas.
 common_voice_uz_30231834|uz_trimmed|{i n s ɒ n n i ŋ s o z i sil ɸ i k r l a r i ɒ r q a l i b a j ɒ n e t̪ i l a d̪ i}|insonning so'zi, fikrlari orqali bayon etiladi.
+common_voice_uz_30178271|uz_trimmed|{m u h ɒ k a m a l a r sil t̪ u ʃ l i k sil d̪ a s t̪ u r χ ɒ n i a t̪ r ɒ ɸ i d̪ a sil v a s a j r l a r d̪ a}|muhokamalar tushlik dasturxoni atrofida va sayrlarda
+common_voice_uz_30177904|uz_trimmed|{j a χ ʃ i sil i ʃ}|yaxshi ish qildimikan-a?
+common_voice_uz_30179154|uz_trimmed|{tʃ e r k ɒ v d̪ a n q a j t̪ a j ɒ t̪ ɡ a n a j ɒ l e d̪ i}|cherkovdan qaytayotgan ayol edi.
+common_voice_uz_30245810|uz_trimmed|{k o t̪ a r i b sil j u r i ʃ ɡ a r ɒ z i e m a m i z}|ko'tarib yurishga rozi emasmiz!
+common_voice_uz_30177864|uz_trimmed|{u tʃ i n tʃ i sil ɒ q ʃ ɒ m u z ɒ q r ɒ q q ɒ l i b sil k e t̪ ɡ a n}|uchinchi oqshom uzoqroq qolib ketgan
+common_voice_uz_30178623|uz_trimmed|{b i r b i r i n i sil tʃ i m tʃ i l a b sil k u l d̪ i}|bir-birini chimchilab kuldi.
+common_voice_uz_30178150|uz_trimmed|{u ŋ a q ɒ n q u j i ʃ i m i z k e r a k}|unga qon quyishimiz kerak
+common_voice_uz_30178118|uz_trimmed|{u l a r t̪ a r ʁ i b ɒ t̪ tʃ i n i sil r a q ɒ b a t̪ tʃ i sil d̪ e b sil b i l d̪ i}|ular targ'ibotchini raqobatchi deb bildi.
+common_voice_uz_30178371|uz_trimmed|{h a m m a ʃ u n d̪ a j d̪ e b sil o j l a j d̪ i}|hamma shunday deb o'ylaydi
+common_voice_uz_30178918|uz_trimmed|{q u ʃ l a r n i ŋ q o ʃ i ʁ i tʃ i ɡ i r t̪ k a n i n a tʃ i l a r n i ŋ sil q u v n ɒ q ɒ v ɒ z i n i e ʃ i t̪ d̪ i}|qushlarning qo'shig'i, chigirtka, ninachilarning quvnoq ovozini eshitdi.
+common_voice_uz_30178272|uz_trimmed|{m e n i m tʃ a ɒ z a j m a d̪ i}|menimcha, ozaymadi.
+common_voice_uz_30178866|uz_trimmed|{e s k i r ɡ a n b u j u m l a r q a t̪ ɒ r i sil b i r sil k u n}|eskirgan buyumlar qatori bir kun
 common_voice_uz_30178360|uz_trimmed|{χ a j ɒ l i m ɡ a χ a r χ i l sil b o l m a ʁ u r ɸ i k r l a r k e l d̪ i}|xayolimga xar xil bo'lmag'ur fikrlar keldi
-common_voice_uz_30207077|uz_trimmed|{χ a l q l a r d̪ o s t̪ l i ɡ i sil k u n i sil b e l ɡ i l a n a d̪ i}|xalqlar do'stligi kuni belgilanadi
-common_voice_uz_30178680|uz_trimmed|{q i s s a q a h r a m ɒ n i a z i z n i ŋ k a s b i a ɡ r ɒ n ɒ m}|qissa qahramoni azizning kasbi agronom
-common_voice_uz_30241723|uz_trimmed|{m e n i sil d̪ u ɒ q i l a r s a n}|meni duo qilarsan.
-common_voice_uz_30286507|uz_trimmed|{b u n tʃ a sil p i n h ɒ n t̪ u t̪ d̪ i ŋ s i r l a r i ŋ}|buncha pinhon tutding sirlaring
-common_voice_uz_30301362|uz_trimmed|{u n i m a n i χ u ʃ k o r a d̪ i}|u nimani xush ko'radi.
-common_voice_uz_30178176|uz_trimmed|{o t̪ a r sil b u v a ŋ i z q ɒ tʃ q i n d̪ a j u r ɡ a n k e z l a r i ʃ a h ɒ b i d̪ d̪ i n sil k o p sil ɒ d̪ a m sil q o j d̪ i}|o'tar buvangiz qochqinda yurgan kezlari shahobiddin ko'p odam qo'ydi.
-common_voice_uz_30229942|uz_trimmed|{u ʃ b u m a s a l a d̪ a m e n b i l ɡ a n j a ɡ ɒ n a h a q i q a t̪ ʃ u}|ushbu masalada men bilgan yagona haqiqat shu.
-common_voice_uz_30268072|uz_trimmed|{m u s u l m ɒ n}|musulmon.
-common_voice_uz_30249402|uz_trimmed|{u z u n d̪ a n u z ɒ q n a s i h a t̪ q i l d̪ i}|uzundan uzoq nasihat qildi
-common_voice_uz_30178373|uz_trimmed|{k o j l a k χ i j ɒ l u z u n e d̪ i e t̪ a ɡ i n i sil b u k i b sil b ɒ q d̪ i}|ko'ylak xiyol uzun edi. etagini bukib boqdi.
-common_voice_uz_30180781|uz_trimmed|{j i l l a r ʃ a m ɒ l d̪ e k t̪ e z o t̪ a r d̪ i}|yillar shamoldek tez o'tardi
-common_voice_uz_30178237|uz_trimmed|{o z i m ʃ u n i ŋ t̪ a r a ɸ d̪ ɒ r i m a n}|- o'zim shuning tarafdoriman.
-common_voice_uz_30207121|uz_trimmed|{q i z a m s e n i j ɒ q t̪ i r a d̪ i m i o z i}|qiz-chi, qizam seni yoqtiradimi, o'zi
-common_voice_uz_30178200|uz_trimmed|{t̪ o ʁ r i m u t̪ a χ a s s i s l a r ɸ i k r i o r i n l i a l b a t̪ t̪ a}|to'g'ri, mutaxassislar fikri o'rinli, albatta.
-common_voice_uz_30178088|uz_trimmed|{k o r d̪ i ŋ i z m i o ʃ a sil k u n i sil k e tʃ a s i sil b i l a n dʒ a l a sil q u j i b sil tʃ i q d̪ i}|ko'rdingizmi, o'sha kuni kechasi bilan jala quyib chiqdi.
-common_voice_uz_30240158|uz_trimmed|{a j ɒ l i ʃ n i ŋ a s l i n i b i l ɡ a tʃ sil s a b r l i ɒ h a ŋ d̪ a}|ayol ishning aslini bilgach, sabrli ohangda
-common_voice_uz_30301400|uz_trimmed|{tʃ o l p ɒ n h a j ɒ t̪ i h a q i d̪ a sil ɸ i l m}|cho'lpon hayoti haqida film
-common_voice_uz_30240902|uz_trimmed|{dʒ a z i r a m a d̪ a i n s ɒ n n i ŋ i ʃ t̪ a h a s i sil p a s a j i b sil l ɒ h a s b o l i b b ɒ r i ʃ i t̪ a b i i j h ɒ l}|jaziramada insonning ishtahasi pasayib, lohas bo'lib borishi tabiiy hol.
-common_voice_uz_30233714|uz_trimmed|{j ɒ j m a b ɒ z ɒ r n i sil k o z d̪ a n k e tʃ i r ɡ a n b o l d̪ i}|yoymabozorni ko'zdan kechirgan bo'ldi
-common_voice_uz_30178722|uz_trimmed|{n a h ɒ t̪ k i j o l l a r i sil ʃ u n tʃ a l a r sil j i r ɒ q}|nahotki, yo'llari shunchalar yiroq!
-common_voice_uz_30178290|uz_trimmed|{n i ɡ ɒ h i d̪ a n}|nigohidan
-common_voice_uz_30179411|uz_trimmed|{q a r m ɒ q t̪ a ʃ l a ɡ a n l a r n i h a m sil j e ɡ a n l a r n i h a m sil s a n a ʃ k e r a k}|qarmoq tashlaganlarni ham, yeganlarni ham sanash kerak.
-common_voice_uz_30178241|uz_trimmed|{u l a r n i ŋ b a r i ʃ u q i z d̪ a m u dʒ a s s a m}|ularning bari shu qizda mujassam.
-common_voice_uz_30178130|uz_trimmed|{h ɒ z i r o t̪ k a n sil k u n l a r m e n sil u tʃ u n n a ɸ a q a t̪ s e v ɡ i q i s s a s i sil b a l k i j u r t̪ ʃ a ʔ n i}|hozir o'tkan kunlar men uchun nafaqat sevgi qissasi, balki yurt sha'ni
-common_voice_uz_30178221|uz_trimmed|{b a n a n s ɒ t̪ u v tʃ i j i ɡ i t̪ sil a j t̪ ɡ a n i m d̪ a j q i l d̪ i}|banan sotuvchi yigit aytganimday qildi.
-common_voice_uz_30178327|uz_trimmed|{m e n b ɒ ʃ d̪ a n sil ɒ j ɒ q h o l sil b o l d̪ i m}|men boshdan oyoq ho'l bo'ldim.
-common_voice_uz_30178903|uz_trimmed|{ɒ h u sil k o z l a r b i r sil p a r tʃ a sil q u j ɒ ʃ}|oh, u ko'zlar bir parcha quyosh.
+common_voice_uz_30177903|uz_trimmed|{j a n a o q i t̪ u v tʃ i l a r s ɒ ʁ l i ɡ i j a χ ʃ i l a n a d̪ i}|yana o'qituvchilar sog'ligi yaxshilanadi
 common_voice_uz_30247661|uz_trimmed|{k u t̪ ɡ a n i m d̪ e k d̪ u ɡ ɒ n a l a r i m k e l i n i m h a q i d̪ a s o r a ʃ d̪ i}|kutganimdek dugonalarim kelinim haqida so'rashdi
+common_voice_uz_30240158|uz_trimmed|{a j ɒ l i ʃ n i ŋ a s l i n i b i l ɡ a tʃ sil s a b r l i ɒ h a ŋ d̪ a}|ayol ishning aslini bilgach, sabrli ohangda
+common_voice_uz_30178138|uz_trimmed|{u tʃ j i l d̪ e ɡ a n d̪ a u n i sil k o r d̪ i m}|uch yil deganda uni ko'rdim
+common_voice_uz_30289456|uz_trimmed|{a χ i r sil p a r v a r d̪ i ɡ ɒ r u ŋ a q ɒ n u n i j sil b ɒ j l i k sil a t̪ ɒ q i l d̪ i}|axir parvardigor unga qonuniy boylik ato qildi
+common_voice_uz_30223266|uz_trimmed|{s a b a b i spn sil q i m m a t̪ b u n i ŋ u s t̪ i ɡ a j a n ɡ i sil s ɒ l i q tʃ i q d̪ i}|sababi xom-ashyosi qimmat, buning ustiga yangi soliq chiqdi
+common_voice_uz_30178644|uz_trimmed|{s i r a s i n i a j t̪ ɡ a n d̪ a sil a j n a n ʃ u n d̪ a j sil a d̪ a b i j ɒ t̪ tʃ i m a n}|sirasini aytganda aynan shunday adabiyotchiman.
+common_voice_uz_30178110|uz_trimmed|{k u t̪ t̪ i r i b sil q o j ɡ a n i m u tʃ u n u z r}|kuttirib qo'yganim uchun uzr.
+common_voice_uz_30177888|uz_trimmed|{a v v a l i ɡ a sil t̪ o j sil k e tʃ a s i j ɒ q sil k u j ɒ v n i ŋ sil t̪ u t̪ q a n ɒ ʁ i t̪ u t̪ i b sil r ɒ s a sil q o r q i t̪ d̪ i}|avvaliga to'y kechasiyoq kuyovning tutqanog'i tutib, rosa qo'rqitdi
+common_voice_uz_30231361|uz_trimmed|{d̪ ɒ i m χ a j ɒ l s u r i b sil j u r i ʃ i sil v a ʁ a l a t̪ i sil m u h a b b a t̪ i sil b ɒ r e d̪ i}|doim xayol surib yurishi va g'alati muhabbati bor edi
+common_voice_uz_30178339|uz_trimmed|{b i l a m a n d̪ e d̪ i m ʃ u n d̪ a j q i l i b sil r e b ɒ z a m e n j ɒ ʃ sil b ɒ l a e m a m a n sil ɒ t̪ a ŋ sil t̪ e ŋ i m a n}|bilaman, dedim, shunday qilib, reboza, men yosh bola emasman, otang tengiman
+common_voice_uz_30178354|uz_trimmed|{u i ʃ l a j ɒ t̪ ɡ a n i d̪ ɒ r a ʃ u n i sil t̪ a q ɒ z ɒ q i l a r d̪ i}|u ishlayotgan idora shuni taqozo qilardi.
+common_voice_uz_30178127|uz_trimmed|{e s l a ʃ ɡ a sil u r i n d̪ i}|eslashga urindi
+common_voice_uz_30180686|uz_trimmed|{ɒ t̪ a ɒ n a m e h r i sil ɸ a r z a n d̪ n i ŋ sil ɒ t̪ a ɒ n a n i j a χ ʃ i k o r i ʃ i}|ota-ona mehri, farzandning ota-onani yaxshi ko'rishi
+common_voice_uz_30178107|uz_trimmed|{ɒ t̪ a ɒ n a m u z ɒ q d̪ a}|ota-onam uzoqda
+common_voice_uz_30178060|uz_trimmed|{b i r ɒ q u m i d̪ l a r i sil k a t̪ t̪ a sil e d̪ i}|biroq umidlari katta edi.
+common_voice_uz_30179429|uz_trimmed|{j o q sil b u n a q a d̪ a h e tʃ n a r s a ɡ a e r i ʃ i b b o l m a j d̪ i sil d̪ e b d̪ i a s a b i j l a ʃ i b sil d̪ o s t̪ sil i z l ɒ v tʃ i}|- yo'q, bunaqada hech narsaga erishib bo'lmaydi, - debdi asabiylashib do'st izlovchi
+common_voice_uz_30240902|uz_trimmed|{dʒ a z i r a m a d̪ a i n s ɒ n n i ŋ i ʃ t̪ a h a s i sil p a s a j i b sil l ɒ h a s b o l i b b ɒ r i ʃ i t̪ a b i i j h ɒ l}|jaziramada insonning ishtahasi pasayib, lohas bo'lib borishi tabiiy hol.
+common_voice_uz_30245053|uz_trimmed|{j o q s a b u d̪ u n j ɒ d̪ a z e r i k i b s i q i l i b sil k e t̪ j a p m a n}|yo'qsa bu dunyoda zerikib, siqilib ketyapman.
+common_voice_uz_30277337|uz_trimmed|{b u d̪ u n j ɒ d̪ a ɡ i e ŋ sil ɒ ʁ i r i ʃ}|- bu dunyodagi eng og'ir ish.
+common_voice_uz_30207121|uz_trimmed|{q i z a m s e n i j ɒ q t̪ i r a d̪ i m i o z i}|qiz-chi, qizam seni yoqtiradimi, o'zi
+common_voice_uz_30178196|uz_trimmed|{n u r a ɸ ʃ ɒ n d̪ a j a n ɡ i s a r d̪ ɒ r l a r k e ŋ a ʃ i sil i ʃ b ɒ ʃ l a d̪ i}|nurafshonda yangi sardorlar kengashi ish boshladi
+common_voice_uz_30178250|uz_trimmed|{p a s t̪ d̪ a m ɒ v i j t̪ o l q i n t̪ i n m a j d̪ i}|pastda moviy to'lqin tinmaydi
+common_voice_uz_30233824|uz_trimmed|{i j e d̪ a d̪ a m q a m a l ɡ a n m i sil d̪ e s a m}|iye, dadam qamalganmi, desam.
+common_voice_uz_30178779|uz_trimmed|{b i r j ɒ q i m l i s a b ɒ e s m ɒ q d̪ a}|bir yoqimli sabo esmoqda.
+common_voice_uz_30178247|uz_trimmed|{j u m ʃ ɒ q}|fe'li-paxtasidek yumshoq.
+common_voice_uz_30301362|uz_trimmed|{u n i m a n i χ u ʃ k o r a d̪ i}|u nimani xush ko'radi.
+common_voice_uz_30177897|uz_trimmed|{dʒ u n i ɒ r sil q u j i d̪ a ɡ i l a r n i q i l a ɒ l a d̪ i}|junior quyidagilarni qila oladi
+common_voice_uz_30178314|uz_trimmed|{m e n i sil b e ɡ ɒ n a l a r ɡ a sil r o p a r a q i l m a}|meni begonalarga ro'para qilma
+common_voice_uz_30178643|uz_trimmed|{χ ɒ t̪ i n i sil b i r j i l sil b u r u n sil v a ɸ ɒ t̪ e t̪ ɡ a n b u ɒ d̪ a m n i ŋ b ɒ l a l a r i sil p a r i ʃ ɒ n b i r sil h ɒ l d̪ a q ɒ l ɡ a n d̪ i}|xotini bir yil burun vafot etgan bu odamning bolalari parishon bir holda qolgandi.
+common_voice_uz_30236252|uz_trimmed|{u n i ŋ j u m u ʃ i k o p}|uning yumushi ko'p.
+common_voice_uz_30178082|uz_trimmed|{j a n a b i r j a χ ʃ i s e r i a l n i sil t̪ a v s i j a q i l m ɒ q tʃ i m a n}|yana bir yaxshi serialni tavsiya qilmoqchiman.
+common_voice_uz_30232894|uz_trimmed|{m a z k u r t̪ r a n s p ɒ r t̪ sil i n ʃ ɒ ɒ t̪ l a r i b u ɡ u n d̪ a n ɒ tʃ i l d̪ i}|mazkur transport inshootlari bugundan ochildi
+common_voice_uz_30273796|uz_trimmed|{h a m ʃ i r a ɒ s m a u k ɒ l n i h a m sil u l a b sil tʃ i q i b sil k e t̪ d̪ i}|hamshira osma ukolni ham ulab chiqib ketdi.
+common_voice_uz_30178720|uz_trimmed|{j i q i l a s a n j o q ɒ t̪ i b sil q o j a s a n sil v a b ɒ ʃ q a l a r}|yiqilasan, yo'qotib qo'yasan va boshqalar.
+common_voice_uz_30236135|uz_trimmed|{b u j e r m e n i ŋ tʃ a d̪ u n j ɒ d̪ a ɡ i e ŋ sil ɡ o z a l sil v a e ŋ h a s r a t̪ l i m a k ɒ n b ɒ ʔ i s a k e r a k}|bu yer, meningcha, dunyodagi eng go'zal va eng hasratli makon bo 'isa kerak.
+common_voice_uz_30203764|uz_trimmed|{n e ɡ r l a r n i ŋ ɒ n a s i h a m b ɒ l a l a r i n i ɒ q sil j u v i b sil ɒ q t̪ a r a j d̪ i m i}|"negrlarning onasi ham bolalarini "oq yuvib, oq taraydimi?"
+common_voice_uz_30178641|uz_trimmed|{u l a r d̪ a b ɒ ʃ sil r e dʒ a j o q}|ularda bosh reja yo'q
+common_voice_uz_30178353|uz_trimmed|{ɒ r a d̪ a n a n tʃ a j i l l a r sil o t̪ d̪ i}|oradan ancha yillar o'tdi.
+common_voice_uz_30277005|uz_trimmed|{m e n ɡ a i ʃ ɒ n i ŋ sil k e k s a l i k sil b u j a χ ʃ i v a j ɒ q i m l i sil d̪ a v r}|menga ishoning, keksalik bu yaxshi va yoqimli davr.
+common_voice_uz_30275201|uz_trimmed|{h ɒ l b u k i sil t̪ u n b u n d̪ a ɒ d̪ a t̪ d̪ a}|holbuki, tun - bunda odatda
+common_voice_uz_30178077|uz_trimmed|{j u k s a l a j ɒ t̪ ɡ a n m i l l a t̪ n i ŋ sil ɒ r z u s i j u k s a k sil m o l dʒ a l i a n i q b o l a d̪ i}|yuksalayotgan millatning orzusi yuksak, mo'ljali aniq bo'ladi
+common_voice_uz_30299262|uz_trimmed|{o t̪ ɡ a n d̪ a v r d̪ a u n i ŋ j ɒ l ʁ i z ɒ v u n tʃ ɒ ʁ i d̪ a d̪ a s i e d̪ i}|o'tgan davrda uning yolg'iz ovunchog'i dadasi edi
+common_voice_uz_30276919|uz_trimmed|{h a r sil q a n d̪ a j m a s a l a n i m u r a k k a b l a ʃ t̪ i r m a s d̪ a n sil e ŋ sil ɒ d̪ d̪ i j s ɒ d̪ d̪ a n a r s a l a r d̪ a n b ɒ ʃ l a ɡ a n i m i z j a χ ʃ i}|har qanday masalani murakkablashtirmasdan, eng oddiy, sodda narsalardan boshlaganimiz yaxshi.
+common_voice_uz_30178068|uz_trimmed|{ɒ r t̪ i q tʃ a t̪ o l a ŋ a n s ɒ l i q sil v a b ɒ ʃ q a m a dʒ b u r i j t̪ o l ɒ v l a r sil s u m m a l a r i n i q a j t̪ a r i ʃ t̪ a r t̪ i b i q a n d̪ a j}|ortiqcha to'langan soliq va boshqa majburiy to'lovlar summalarini qaytarish tartibi qanday?
+common_voice_uz_30178711|uz_trimmed|{q a tʃ ɒ n d̪ i r sil d̪ u tʃ k e l a m a n m i o z i u ŋ a}|qachondir duch kelamanmi o'zi unga
+common_voice_uz_30178258|uz_trimmed|{ɒ n a ɒ t̪ a m s i z ɡ a h a m ɒ l i b sil k e l a d̪ i m i}|ona, otam sizga ham olib keladimi?
+common_voice_uz_30178275|uz_trimmed|{tʃ ɒ r r a h a ɡ a sil p i j ɒ d̪ a l a r n i ŋ j o l n i sil k e s i b sil o t̪ i ʃ l a r i u tʃ u n sil ɒ s m a sil k o p r i k sil q u r i l d̪ i}|chorrahaga piyodalarning yo'lni kesib o'tishlari uchun osma ko'prik qurildi.
+common_voice_uz_30274873|uz_trimmed|{χ u d̪ ɒ i n s ɒ n n i sil b i r u m r sil b a χ t̪ sil i z l a ʃ a z ɒ b i b i l a n dʒ a z ɒ l a ɡ a n}|xudo insonni bir umr baxt izlash azobi bilan jazolagan.
+common_voice_uz_30277448|uz_trimmed|{m i l l a t̪ p a r v a r sil i n v e s t̪ ɒ r l a r sil k e r a k sil b i z ɡ a}|millatparvar investorlar kerak bizga.
+common_voice_uz_30177876|uz_trimmed|{j a n ɡ i s p e k t̪ a k l d̪ a ʃ a j b ɒ n i j χ ɒ n sil n i m a q i l i b b o l s a d̪ a b ɒ b u r n i s a q l a ʃ ɡ a sil u r i n a d̪ i}|yangi spektaklda shayboniyxon nima qilib bo'lsa-da, boburni saqlashga urinadi.
+common_voice_uz_30178256|uz_trimmed|{t̪ ɒ n i r ɒ v k a d̪ a n t̪ u ʃ ɡ a n sil p u l l a r q a j e r ɡ a i ʃ l a t̪ i l a d̪ i}|tonirovkadan tushgan pullar qayerga ishlatiladi?
+common_voice_uz_30178681|uz_trimmed|{ɡ a p i r i ʃ n i sil b i l a r sil d̪ a r a χ t̪ l a r}|gapirishni bilar daraxtlar.
+common_voice_uz_30178164|uz_trimmed|{j a q i n d̪ a ʃ a h r i χ ɒ n a j a χ a j r l i sil b i r sil t̪ u ʃ k o r d̪ i}|yaqinda shahrixon aya xayrli bir tush ko'rdi.
+common_voice_uz_30244526|uz_trimmed|{b u ɡ a p sil e r i ɡ a m a ʔ q u l t̪ u ʃ i b d̪ i}|bu gap eriga ma'qul tushibdi
+common_voice_uz_30179350|uz_trimmed|{l e k i n sil r e dʒ i m ɡ a sil k i r i ʃ i ʃ sil ɒ r t̪ i q tʃ a χ u r s a n d̪ tʃ i l i k k a s a b a b b o l i ʃ i sil k e r a k e m a s}|lekin rejimga kirishish ortiqcha xursandchilikka sabab bo'lishi kerak emas.
+common_voice_uz_30178358|uz_trimmed|{k o r i ʃ ɡ u n tʃ a}|-ko'rishguncha.
+common_voice_uz_30265278|uz_trimmed|{j u r a ɡ i m sil spn sil u r i b sil b a t̪ t̪ a r d̪ a n b i q i n i b sil ɒ l d̪ i m}|yuragim taka-puka urib, battardan biqinib oldim
+common_voice_uz_30287218|uz_trimmed|{o z i m i z n i sil u j i m i z sil b o l a d̪ i}|o'zimizni uyimiz bo'ladi.
+common_voice_uz_30178176|uz_trimmed|{o t̪ a r sil b u v a ŋ i z q ɒ tʃ q i n d̪ a j u r ɡ a n k e z l a r i ʃ a h ɒ b i d̪ d̪ i n sil k o p sil ɒ d̪ a m sil q o j d̪ i}|o'tar buvangiz qochqinda yurgan kezlari shahobiddin ko'p odam qo'ydi.
+common_voice_uz_30233714|uz_trimmed|{j ɒ j m a b ɒ z ɒ r n i sil k o z d̪ a n k e tʃ i r ɡ a n b o l d̪ i}|yoymabozorni ko'zdan kechirgan bo'ldi
+common_voice_uz_30177905|uz_trimmed|{o ʃ a n d̪ a n b e r i sil b u ɒ d̪ a t̪ h a n u z ɡ a tʃ a d̪ a v ɒ m e t̪ i b sil k e l m ɒ q d̪ a}|o'shandan beri bu odat hanuzgacha davom etib kelmoqda.
+common_voice_uz_30177865|uz_trimmed|{t̪ ɒ l i b ɒ n a ɸ ʁ ɒ n i s t̪ ɒ n l i k sil a m a l d̪ ɒ r l a r sil u tʃ u n sil u m u m i j sil a m n i s t̪ i j a sil e ʔ l ɒ n q i l d̪ i}|tolibon afg'onistonlik amaldorlar uchun umumiy amnistiya e'lon qildi
+common_voice_uz_30203778|uz_trimmed|{d̪ a r ʁ ɒ m n ɒ m l i sil q i ʃ l ɒ q h a m b o l ɡ a n}|darg'om nomli qishloq ham bo'lgan.
+common_voice_uz_30178721|uz_trimmed|{b i t̪ m ɒ q b o l d̪ i sil i l k ʃ e ʔ r i n i}|bitmoq bo'ldi ilk she'rini.
+common_voice_uz_30178903|uz_trimmed|{ɒ h u sil k o z l a r b i r sil p a r tʃ a sil q u j ɒ ʃ}|oh, u ko'zlar bir parcha quyosh.
+common_voice_uz_30178210|uz_trimmed|{b u l a r n i ŋ h a m m a s i o z i d̪ a n o z i sil b o l m a j d̪ i sil d̪ e ɡ a n d̪ i}|bularning hammasi o'zidan o'zi bo'lmaydi, degandi
+common_voice_uz_30178327|uz_trimmed|{m e n b ɒ ʃ d̪ a n sil ɒ j ɒ q h o l sil b o l d̪ i m}|men boshdan oyoq ho'l bo'ldim.
+common_voice_uz_30207326|uz_trimmed|{b i z q i s m a n b i r l i ɡ i m i z d̪ a n t̪ a ʃ q a r i q o l i m i z d̪ a ɡ i b ɒ j l i k l a r n i ŋ h a m h i s ɒ b i n i ɒ l i ʃ i m i z k e r a k}|biz qisman birligimizdan tashqari qo'limizdagi boyliklarning ham hisobini olishimiz kerak
+common_voice_uz_30178970|uz_trimmed|{s e r i a l d̪ a t̪ ɒ m ɒ ʃ a b i n d̪ i q q a t̪ i sil b ɒ r}|serialda tomoshabin diqqati bor.
+common_voice_uz_30235558|uz_trimmed|{u s t̪ ɒ z sil b i l a n b o l ɡ a n ɒ d̪ d̪ i j s u h b a t̪ l a r d̪ a h a m b i z sil u sil k i ʃ i d̪ a n k a t̪ t̪ a s a b ɒ q sil ɒ l a r d̪ i k}|ustoz bilan bo'lgan oddiy suhbatlarda ham biz u kishidan katta saboq olardik.
+common_voice_uz_30178199|uz_trimmed|{e r t̪ a ɡ a j ɒ q sil spn q a j t̪ a r i b sil j u b ɒ r}|ertagayoq lash-lushlarini qaytarib yubor
+common_voice_uz_30178359|uz_trimmed|{b i r s a ɸ a r sil b ɒ l a l a r n i sil ɒ l i b sil k e t̪ i ʃ ɡ a k e l ɡ a n d̪ a n a r ɡ i z a q a r ʃ i s i d̪ a n tʃ i q d̪ i}|bir safar bolalarni olib ketishga kelganda nargiza qarshisidan chiqdi
+common_voice_uz_30268072|uz_trimmed|{m u s u l m ɒ n}|musulmon.
+common_voice_uz_30240871|uz_trimmed|{t̪ a b i i j k i sil b u l a r ɒ r a s i d̪ a b ɒ ʃ q a t̪ i l l a r d̪ a n sil k i r ɡ a n l a r i h a m b ɒ r}|tabiiyki, bular orasida boshqa tillardan kirganlari ham bor.
+common_voice_uz_30287841|uz_trimmed|{e r t̪ a s i sil k u n i j a n a m a r d̪ i k ɒ r b ɒ z ɒ r i ɡ a b ɒ r d̪ i}|ertasi kuni yana mardikor bozoriga bordi
+common_voice_uz_30201662|uz_trimmed|{m i r z i j ɒ j e v n i ŋ sil q a t̪ ʔ i j i r ɒ d̪ a s i sil v a j u k s a k sil t̪ a ʃ k i l ɒ t̪ tʃ i l i k s a l ɒ h i j a t̪ i t̪ u ɸ a j l i}|mirziyoyevning qat'iy irodasi va yuksak tashkilotchilik salohiyati tufayli
+common_voice_uz_30277248|uz_trimmed|{k e tʃ q u r u n o ʁ i l l a r ɒ l i b sil k e l i b sil q o j i b sil k e t̪ i ʃ a d̪ i}|kechqurun o'g'illar olib kelib qo'yib ketishadi
+common_voice_uz_30178209|uz_trimmed|{k e j i n ɡ i h a ɸ t̪ a k a m p i r n i k i ɡ a b ɒ r a m a n b ɒ l a n i q a j t̪ a r i b sil b e r i ʃ i n i s o r a j m a n}|keyingi hafta kampirnikiga boraman, bolani qaytarib berishini so'rayman.
+common_voice_uz_30178722|uz_trimmed|{n a h ɒ t̪ k i j o l l a r i sil ʃ u n tʃ a l a r sil j i r ɒ q}|nahotki, yo'llari shunchalar yiroq!
+common_voice_uz_30178249|uz_trimmed|{ʃ a h r i s a b z l i k sil r a ʃ i d̪ h a j d̪ a r ɒ v sil o z u j i d̪ a s a j j ɒ h l a r u tʃ u n m e h m ɒ n χ ɒ n a ɒ tʃ d̪ i}|shahrisabzlik rashid haydarov o'z uyida sayyohlar uchun mehmonxona ochdi
+common_voice_uz_30236561|uz_trimmed|{r a ʔ n ɒ j a r a ʃ e v a d̪ a n ɸ e r u z a n ɒ r m a t̪ ɒ v a ɡ a tʃ a}|ra'no yarashevadan feruza normatovagacha
+common_voice_uz_30178221|uz_trimmed|{b a n a n s ɒ t̪ u v tʃ i j i ɡ i t̪ sil a j t̪ ɡ a n i m d̪ a j q i l d̪ i}|banan sotuvchi yigit aytganimday qildi.
+common_voice_uz_30177899|uz_trimmed|{b ɒ l a n i ŋ ɒ n a s i sil i ʃ n i ŋ sil ɒ ʃ k ɒ r sil b o l i b sil q ɒ l i ʃ i d̪ a n sil q o r q q a n}|bolaning onasi ishning oshkor bo'lib qolishidan qo'rqqan.
+common_voice_uz_30178088|uz_trimmed|{k o r d̪ i ŋ i z m i o ʃ a sil k u n i sil k e tʃ a s i sil b i l a n dʒ a l a sil q u j i b sil tʃ i q d̪ i}|ko'rdingizmi, o'sha kuni kechasi bilan jala quyib chiqdi.
+common_voice_uz_30206721|uz_trimmed|{d̪ e m a k sil u n i ŋ s o z m a s ʔ u l i j a t̪ i h a m b ɒ ʃ q a l a r n i k i d̪ a n m i ŋ h i s s a ɒ r t̪ i q r ɒ q d̪ i r}|demak, uning so'z mas'uliyati ham boshqalarnikidan ming hissa ortiqroqdir.
+common_voice_uz_30207052|uz_trimmed|{k e j i n h a m m a s i n i χ a m i r d̪ e k sil a r a l a ʃ t̪ i r a s i z}|keyin hammasini xamirdek aralashtirasiz.
+common_voice_uz_30179411|uz_trimmed|{q a r m ɒ q t̪ a ʃ l a ɡ a n l a r n i h a m sil j e ɡ a n l a r n i h a m sil s a n a ʃ k e r a k}|qarmoq tashlaganlarni ham, yeganlarni ham sanash kerak.
+common_voice_uz_30249402|uz_trimmed|{u z u n d̪ a n u z ɒ q n a s i h a t̪ q i l d̪ i}|uzundan uzoq nasihat qildi
+common_voice_uz_30178156|uz_trimmed|{a m m ɒ sil k e s a k j a n a o r t̪ a ɡ a sil ɡ a p sil q o ʃ i b d̪ i}|ammo kesak yana o'rtaga gap qo'shibdi:
+common_voice_uz_30178267|uz_trimmed|{i n s ɒ n b i r j i l k a s a l j ɒ t̪ s a sil d̪ a r h ɒ l sil o l a d̪ i m i}|inson bir yil kasal yotsa, darhol o'ladimi?
+common_voice_uz_30178212|uz_trimmed|{s i j ɒ s i j sil p i a r}|siyosiy piar.
+common_voice_uz_30179467|uz_trimmed|{m a n a o ʃ a n d̪ a n b u j ɒ n ɒ l t̪ i j i l o t̪ d̪ i}|mana, o'shandan buyon olti yil o'tdi.
+common_voice_uz_30266966|uz_trimmed|{t̪ e s l a sil e l e k t̪ r ɒ k a r l a r i sil r u s t̪ i l i d̪ a sil ɡ a p i r i ʃ n i sil b ɒ ʃ l a d̪ i}|tesla elektrokarlari rus tilida gapirishni boshladi
+common_voice_uz_30178284|uz_trimmed|{j a q i n sil o t̪ m i ʃ ɡ a n a z a r t̪ a ʃ l a s a k sil b u ɡ u n ɡ i sil v ɒ q e a l a r n i ŋ sil s a b a b l a r i n i sil k o r a m i z}|yaqin o'tmishga nazar tashlasak, bugungi voqealarning sabablarini ko'ramiz
+common_voice_uz_30286235|uz_trimmed|{i s b ɒ t̪ t̪ a l a b sil q i l d̪ i m e n d̪ a n b e s a b r}|isbot talab qildi mendan besabr.
+common_voice_uz_30178900|uz_trimmed|{t̪ o q i s a m a j l i sil u j a l m a j i n s ɒ n l a r ɡ a q a n d̪ a j a j t̪ i b sil b e r i ʃ a r k i n}|to'qisa mayli, uyalmay insonlarga qanday aytib berisharkin?
+common_voice_uz_30178121|uz_trimmed|{ɒ t̪ a m dʒ u d̪ a sil tʃ o r t̪ k e s a r e d̪ i}|otam juda cho'rtkesar edi.
+common_voice_uz_30301400|uz_trimmed|{tʃ o l p ɒ n h a j ɒ t̪ i h a q i d̪ a sil ɸ i l m}|cho'lpon hayoti haqida film
+common_voice_uz_30178059|uz_trimmed|{b ɒ l a l a r sil tʃ i z ɡ a n s u r a t̪ v a j a s a ɡ a n n a r s a l a r i n i sil m a z a χ q i l i ʃ}|bolalar chizgan surat va yasagan narsalarini mazax qilish.
+common_voice_uz_30178325|uz_trimmed|{ɒ d̪ a m l a r k e l i b sil m e n i sil u ʃ l a ʃ d̪ i}|odamlar kelib meni ushlashdi.
+common_voice_uz_30178381|uz_trimmed|{b i r sil k u n i sil b i r ɒ d̪ a m sil u l ɡ u r dʒ i sil b ɒ z ɒ r d̪ a n i k k i sil q ɒ p s a b z i spn s ɒ t̪ i b sil ɒ l d̪ i}|bir kuni bir odam ulgurji bozordan ikki qop sabzi-piyoz sotib oldi
+common_voice_uz_30178259|uz_trimmed|{ɒ v q a t̪ s a l sil k e tʃ i k s a h a m b ɒ l a l a r j i ʁ l a b sil q ɒ l s a h a m m e n a j b d̪ ɒ r}|ovqat sal kechiksa ham, bolalar yig'lab qolsa ham men aybdor
+common_voice_uz_30267502|uz_trimmed|{b i r ɒ q sil b u ɒ l i j m a q s a d̪ ʃ u n a q a n ɡ i χ u n u k e d̪ i k i}|biroq, bu oliy maqsad shunaqangi xunuk ediki!
+common_voice_uz_30178230|uz_trimmed|{v a z i r l i k sil b a j ɒ n ɒ t̪ i ɡ a j a n a q a j t̪ a m i z}|vazirlik bayonotiga yana qaytamiz.
+common_voice_uz_30178237|uz_trimmed|{o z i m ʃ u n i ŋ t̪ a r a ɸ d̪ ɒ r i m a n}|- o'zim shuning tarafdoriman.
+common_voice_uz_30178220|uz_trimmed|{u n d̪ a t̪ o ʁ r i χ u l ɒ s a n i q a j e r d̪ a n ɒ l a m i z}|unda to'g'ri xulosani qayerdan olamiz?
+common_voice_uz_30178058|uz_trimmed|{k a t̪ t̪ a u tʃ i n tʃ i tʃ ɒ r a k t̪ a ʔ s i r q i l i ʃ i m u m k i n}|katta uchinchi chorak ta'sir qilishi mumkin
+common_voice_uz_30286507|uz_trimmed|{b u n tʃ a sil p i n h ɒ n t̪ u t̪ d̪ i ŋ s i r l a r i ŋ}|buncha pinhon tutding sirlaring
+common_voice_uz_30241723|uz_trimmed|{m e n i sil d̪ u ɒ q i l a r s a n}|meni duo qilarsan.
+common_voice_uz_30275141|uz_trimmed|{ʃ ɒ ʃ i l i n tʃ sil ɒ p e r a ts i j a o t̪ k a z i l i ʃ i t̪ a v s i j a e t̪ i l ɡ a n}|shoshilinch operatsiya o'tkazilishi tavsiya etilgan.
+common_voice_uz_30300298|uz_trimmed|{a n ʔ a n a j u spn ɒ ŋ i m i z sil ɒ s t̪ i d̪ a}|urf-odatlarimiz, an'anayu irim-sirimlarimizgacha, ongimiz ostida
+common_voice_uz_30178328|uz_trimmed|{o q i t̪ u v tʃ i ɡ a j ɒ r d̪ a m}|o'qituvchiga yordam
+common_voice_uz_30208994|uz_trimmed|{m i ŋ ɡ a k i r d̪ i m sil tʃ i r i d̪ i dʒ i s m i m}|mingga kirdim, chiridi jismim
+common_voice_uz_30178276|uz_trimmed|{k o z j ɒ ʃ l a r i ŋ b i l a n sil e s a u n i sil ɸ a q a t̪ sil o z i ŋ d̪ a n s ɒ v i t̪ a s a n}|ko'z yoshlaring bilan esa uni faqat o'zingdan sovitasan
+common_voice_uz_30178188|uz_trimmed|{s i z n i ŋ ɒ d̪ d̪ i j sil b e k l i k d̪ a n ʃ u n d̪ a j sil b u j u k s a l t̪ a n a t̪ s ɒ h i b i sil d̪ a r a dʒ a s i ɡ a j e t̪ i ʃ i ŋ i z ɡ a sil n i m a sil j ɒ r d̪ a m b e r d̪ i}|- sizning oddiy beklikdan shunday buyuk saltanat sohibi darajasiga yetishingizga nima yordam berdi?
+common_voice_uz_30178178|uz_trimmed|{m e n s i z ɡ a o z i m n i ŋ sil p u l i m n i sil b e r d̪ i m}|men sizga o'zimning pulimni berdim.
+common_voice_uz_30232874|uz_trimmed|{k i t̪ ɒ b sil o q i ʃ e s a a k s i n tʃ a t̪ a ʔ s i r k o r s a t̪ a d̪ i}|kitob o'qish esa aksincha ta'sir ko'rsatadi.
+common_voice_uz_30178869|uz_trimmed|{n a ɸ a r s o z i o r n i d̪ a}|nafar so'zi o'rnida
+common_voice_uz_30178380|uz_trimmed|{ʃ u sil b i l a n b i r ɡ a r e j t̪ i ŋ n a t̪ i dʒ a l a r i a v t̪ ɒ m a t̪ i k sil r a v i ʃ d̪ a ɒ ʃ a d̪ i}|shu bilan birga, reyting natijalari avtomatik ravishda oshadi
+common_voice_uz_30178290|uz_trimmed|{n i ɡ ɒ h i d̪ a n}|nigohidan
+common_voice_uz_30179351|uz_trimmed|{o q u v tʃ i ɡ a d̪ o s t̪ sil b o l i ŋ}|o'quvchiga do'st bo'ling!
+common_voice_uz_30177900|uz_trimmed|{o z b e k i s t̪ ɒ n sil a ɸ ʁ ɒ n i s t̪ ɒ n s a v d̪ ɒ i q t̪ i s ɒ d̪ i j a l ɒ q a l a r sil j a n a d̪ a sil k e ŋ a j m ɒ q d̪ a}|o'zbekiston - afg'oniston: savdo-iqtisodiy aloqalar yanada kengaymoqda
+common_voice_uz_30178680|uz_trimmed|{q i s s a q a h r a m ɒ n i a z i z n i ŋ k a s b i a ɡ r ɒ n ɒ m}|qissa qahramoni azizning kasbi agronom
+common_voice_uz_30178241|uz_trimmed|{u l a r n i ŋ b a r i ʃ u q i z d̪ a m u dʒ a s s a m}|ularning bari shu qizda mujassam.
+common_voice_uz_30178219|uz_trimmed|{m e h n a t̪ v a t̪ a s v i r i j s a n ʔ a t̪ sil d̪ a r s l a r i d̪ a n i m a l a r d̪ a n ɸ ɒ j d̪ a l a n d̪ i ŋ i z}|mehnat va tasviriy san'at darslarida nimalardan foydalandingiz?
+common_voice_uz_30178942|uz_trimmed|{q a n i sil k e tʃ i r i m s o r a s a ŋ s o r a b sil ɒ l t̪ a ʁ i n a j n i b sil q ɒ l m a j}|qani, kechirim so'rasang so'rab ol, tag'in aynib qolmay.
+common_voice_uz_30239999|uz_trimmed|{t̪ o ʁ r i r ɒ ʁ i u sil ʃ u tʃ ɒ r a s i z l i k sil b i l a n t̪ o q n a ʃ k e l ɡ a n}|to'g'rirog'i, u shu chorasizlik bilan to'qnash kelgan
+common_voice_uz_30248197|uz_trimmed|{j o q sil h e tʃ n i m a b e r m a d̪ i a j t̪ m a d̪ i j a m}|yo'q, hech nima bermadi, aytmadiyam.
+common_voice_uz_30178140|uz_trimmed|{t̪ u ɡ a l m a s sil b ɒ j l i ɡ i m sil ɒ t̪ a dʒ ɒ n i m d̪ i r}|tugalmas boyligim otajonimdir
+common_voice_uz_30178331|uz_trimmed|{l e k i n v a q t̪ a l l a m a h a l b o l ɡ a n i d̪ a n sil t̪ a ʃ v i ʃ l a n d̪ i}|lekin vaqt allamahal bo'lganidan tashvishlandi
+common_voice_uz_30207103|uz_trimmed|{m e ŋ a q a r a b ɒ l a m}|menga qara, bolam.
 common_voice_uz_30271883|uz_trimmed|{b o p t̪ i sil u n d̪ a χ ɒ t̪ i n j a n a sil ɡ a z e t̪ a o q i ʃ ɡ a sil t̪ u t̪ i n d̪ i}|bo'pti undaxotin yana gazeta o'qishga tutindi
+common_voice_uz_30249591|uz_trimmed|{a ɡ a r h a q b o l ɡ a n d̪ a q a j s i sil b i r i ŋ d̪ a q a n d̪ a j s a v ɒ l sil b ɒ r sil d̪ e j a r d̪ i m}|agar haq bo'lganda, qaysi biringda qanday savol bor? deyardim
+common_voice_uz_30177867|uz_trimmed|{n e ɡ a d̪ i r i k k a l a sil dʒ ɒ ʔ m r a k d̪ a n sil h a m s u v sil ɒ q i z i b sil q o j i l ɡ a n}|negadir ikkala jo'mrakdan ham suv oqizib qo'yilgan
+common_voice_uz_30235256|uz_trimmed|{b ɒ t̪ i r ɸ i r q a ɒ q ʃ ɒ m v a q t̪ i a j ɒ l i ɡ a t̪ a j i n l a d̪ i}|botir firqa oqshom vaqti ayoliga tayinladi:
+common_voice_uz_30177902|uz_trimmed|{tʃ o k i b sil b ɒ r a r sil ʁ u r u r i m sil h i s ɒ r}|cho'kib borar g'ururim - hisor
+common_voice_uz_30265909|uz_trimmed|{m e n v a s e n h a j r ɒ n b o l a m i z}|men va sen hayron bo'lamiz.
+common_voice_uz_30178378|uz_trimmed|{i s t̪ a m a j m a n}|istamayman.
+common_voice_uz_30178283|uz_trimmed|{b i r j u t̪ ɒ q i b sil j u t̪ d̪ i h i l ɒ l n i}|bir yutoqib yutdi hilolni
+common_voice_uz_30236285|uz_trimmed|{ʃ u o j d̪ a b a r m ɒ q l a r i m n i sil t̪ i ʃ l a d̪ i m}|shu o'yda barmoqlarimni tishladim.
+common_voice_uz_30180781|uz_trimmed|{j i l l a r ʃ a m ɒ l d̪ e k t̪ e z o t̪ a r d̪ i}|yillar shamoldek tez o'tardi
+common_voice_uz_30177916|uz_trimmed|{e ŋ q i z i q dʒ ɒ j i sil d̪ a r ɒ m a d̪ i q a n a q a}|eng qiziq joyi - daromadi qanaqa?
+common_voice_uz_30206899|uz_trimmed|{h a z i l a r a l a ʃ sil b i r sil i b ɒ r a l a r i b ɒ r e d̪ i}|hazil aralash bir iboralari bor edi.
+common_voice_uz_30177875|uz_trimmed|{m ɒ s k v a d̪ a d̪ a v ɒ l a n a j ɒ t̪ ɡ a n sil m u ɸ t̪ i j sil u s m ɒ n χ ɒ n sil a l i m ɒ v s ɒ ʁ l i ʁ i sil h a q i d̪ a m a ʔ l u m ɒ t̪ sil b e r i l d̪ i}|moskvada davolanayotgan muftiy usmonxon alimov sog'lig'i haqida ma'lumot berildi
+common_voice_uz_30178119|uz_trimmed|{a s l i d̪ a h a m m a ŋ n i sil u r i b sil o l d̪ i r i ʃ i m sil k e r a k}|aslida hammangni urib o'ldirishim kerak
+common_voice_uz_30178102|uz_trimmed|{b u s e n m i q u r ɒ l j a r ɒ ʁ u tʃ u n sil p u l j i q q a n}|bu senmi qurol-yarog' uchun pul yiqqan
+common_voice_uz_30178111|uz_trimmed|{u tʃ q u n l a r ɡ a sil t̪ o l ɡ a n d̪ a j sil b o l d̪ i}|qip-qizil uchqunlarga to'lganday bo'ldi.
+common_voice_uz_30178146|uz_trimmed|{k u t̪ i l m a ɡ a n ʃ ɒ v q i n d̪ a n i tʃ k a r i u j d̪ a ɡ i k a t̪ t̪ a o ʁ l i sil j i ʁ l a b t̪ a ʃ q a r i ɡ a ɒ t̪ i l d̪ i}|kutilmagan shovqindan ichkari uydagi katta o'g'li yig'lab tashqariga otildi.
+common_voice_uz_30206709|uz_trimmed|{a ɡ a r s i z o z i ŋ i z n i h a q d̪ e b sil h i s ɒ b l a s a ŋ i z u l a r s i z n i n ɒ h a q l i ɡ i ŋ i z n i i s b ɒ t̪ l a b sil b e r i ʃ l a r i sil k e r a k}|agar siz o'zingizni haq deb hisoblasangiz, ular sizni nohaqligingizni isbotlab berishlari kerak.
+common_voice_uz_30178373|uz_trimmed|{k o j l a k χ i j ɒ l u z u n e d̪ i e t̪ a ɡ i n i sil b u k i b sil b ɒ q d̪ i}|ko'ylak xiyol uzun edi. etagini bukib boqdi.
+common_voice_uz_30219694|uz_trimmed|{b a h r ɒ m n i j ɒ n i ɡ a m e n i sil k i r i t̪ i ʃ m a d̪ i}|bahromni yoniga meni kiritishmadi
+common_voice_uz_30178200|uz_trimmed|{t̪ o ʁ r i m u t̪ a χ a s s i s l a r ɸ i k r i o r i n l i a l b a t̪ t̪ a}|to'g'ri, mutaxassislar fikri o'rinli, albatta.
+common_voice_uz_30178640|uz_trimmed|{u k a t̪ t̪ a v a q a l i n d̪ e v ɒ r ɒ r a s i d̪ a j i l l a r d̪ a v ɒ m i d̪ a sil d̪ i m i q i b sil j ɒ t̪ ɡ a n e k a n}|u katta va qalin devor orasida yillar davomida dimiqib yotgan ekan
+common_voice_uz_30178223|uz_trimmed|{v a j a n a u d̪ ɒ i m ɒ t̪ e s k a r i t̪ ɒ m ɒ n ɡ a h a m i ʃ l a j d̪ i}|va yana u doimo teskari tomonga ham ishlaydi.
+common_voice_uz_30178656|uz_trimmed|{a j n i sil p a j t̪ d̪ a i n v e s t̪ ɒ r l a r b i l a n m u z ɒ k a r a l a r sil o t̪ k a z i l m ɒ q d̪ a sil v a b u sil d̪ a v ɒ m e t̪ a d̪ i}|ayni paytda investorlar bilan muzokaralar o'tkazilmoqda va bu davom etadi.
+common_voice_uz_30178079|uz_trimmed|{d̪ o s t̪ i m b u n tʃ a q i j i n h a j ɒ t̪ d̪ e ɡ a n i}|do'stim, buncha qiyin hayot degani.
+common_voice_uz_30235528|uz_trimmed|{dʒ u d̪ a sil k o p sil k i t̪ ɒ b l a r m u t̪ ɒ l a a s i d̪ a o q u v tʃ i n i ŋ sil a q l i sil d̪ a m ɒ l a d̪ i}|juda ko'p kitoblar mutolaasida o'quvchining aqli dam oladi
+common_voice_uz_30178240|uz_trimmed|{d̪ ɒ l z a r b sil m a v z u l a r}|dolzarb mavzular
+common_voice_uz_30177869|uz_trimmed|{m a ʔ s u m a n i ŋ sil ɒ j ɒ ʁ i i l d̪ a m l a ʃ i b sil tʃ a r tʃ ɒ ʁ i t̪ a r q a b sil k e t̪ d̪ i}|ma'sumaning oyog'i ildamlashib, charchog'i tarqab ketdi.
+common_voice_uz_30178061|uz_trimmed|{tʃ ɒ r l a r sil spn sil b a ʁ r i ɡ a}|chorlar takror-takror bag'riga.
+common_voice_uz_30265735|uz_trimmed|{k e k s a j ɒ ʃ e r k a k sil u tʃ u n b a r tʃ a n a r s a l a r ɒ r a s i d̪ a e ŋ sil k u t̪ i l m a ɡ a n i d̪ i r}|keksa yosh erkak uchun barcha narsalar orasida eng kutilmaganidir.
+common_voice_uz_30178300|uz_trimmed|{h a t̪ i t̪ r ɒ q ɒ v ɒ z e ʃ i t̪ i l d̪ i}|ha, titroq ovoz eshitildi
+common_voice_uz_30239336|uz_trimmed|{ʃ u b h a s i z m e n b u t̪ u n l a j t̪ a m ɒ m b o l i b m a n}|shubhasiz, men butunlay tamom bo'libman.
+common_voice_uz_30177912|uz_trimmed|{h ɒ m i l a d̪ ɒ r sil a j ɒ l sil b a ʔ z a n sil e r i n i ŋ h i d̪ i n i sil j ɒ q t̪ i r m a j d̪ i}|homilador ayol ba'zan erining hidini yoqtirmaydi.
+common_voice_uz_30177914|uz_trimmed|{z a m i n t̪ u z a l m a s a sil ɒ d̪ a m t̪ u z a l m a s}|zamin tuzalmasa - odam tuzalmas!
+common_voice_uz_30178868|uz_trimmed|{l ɒ j d̪ a d̪ u m a l a ɡ a n t̪ a n a j ɒ p i ʃ q ɒ q k a ɸ a ŋ a sil b u r k a n d̪ i}|loyda dumalagan tana yopishqoq kafanga burkandi
+common_voice_uz_30201586|uz_trimmed|{tʃ e k k a d̪ a n k e l ɡ a n m e h m ɒ n l a r n i e ʃ i t̪ a d̪ i}|chekkadan kelgan mehmonlarni eshitadi.
+common_voice_uz_30234070|uz_trimmed|{h a q j o l i d̪ a sil dʒ i s m u dʒ ɒ n i m ɸ i d̪ ɒ d̪ e ɡ a j}|haq yo'lida jismu jonim fido degay.
+common_voice_uz_30271936|uz_trimmed|{s i z n i ŋ χ ɒ n a ŋ i z u tʃ i n tʃ i q a v a t̪ d̪ a}|sizning xonangiz uchinchi qavatda.
+common_voice_uz_30179123|uz_trimmed|{ɒ v ɒ z i ŋ i z t̪ i ŋ l a b t̪ o j ɒ l m a ɡ a n m a n}|ovozingiz tinglab to'yolmaganman.
+common_voice_uz_30178147|uz_trimmed|{p u l d̪ a n j ɒ r d̪ a m b e r ɒ l m a j s i z sil b u n i sil b i l a m a n}|puldan yordam berolmaysiz, buni bilaman
+common_voice_uz_30178285|uz_trimmed|{e s k i sil q ɒ ʁ ɒ z sil u q a l a n i b sil k e t̪ ɡ a n sil j e r r a n ɡ i d̪ a ɡ i u tʃ b u r tʃ a k sil k ɒ n v e r t̪ ɡ a s ɒ l i ŋ a n}|eski qog'oz, uqalanib ketgan, yer rangidagi uchburchak konvertga solingan.
+common_voice_uz_30178085|uz_trimmed|{d̪ a r r ɒ v t̪ ɒ z a s i n i sil k i j ɡ i z i b sil q o j a r e d̪ i ŋ i z}|darrov tozasini kiygizib qo'yar edingiz.
+common_voice_uz_30177898|uz_trimmed|{a ɡ a r sil o r a ɡ a sil b i r ɒ r t̪ a tʃ i r i ɡ a n s a b z i sil t̪ u ʃ i b sil q ɒ l s a b ɒ ʃ q a l a r i n i h a m sil t̪ a m ɒ m q i l a d̪ i}|agar o'raga birorta chirigan sabzi tushib qolsa, boshqalarini ham tamom qiladi.
+common_voice_uz_30244876|uz_trimmed|{l e k i n b u s o z n i i ʃ l a t̪ ɡ a n d̪ a sil i ʃ ɒ n tʃ l i sil v a ɸ a q a t̪ sil i dʒ ɒ b i j m u n ɒ s a b a t̪ d̪ a sil b o l i ʃ i k e r a k}|lekin bu so'zni ishlatganda ishonchli va faqat ijobiy munosabatda bo'lishi kerak
+common_voice_uz_30275867|uz_trimmed|{q u r i ɡ a n d̪ e ŋ i z n i ŋ sil q i r ʁ ɒ q l a r i d̪ a}|qurigan dengizning qirg'oqlarida
+common_voice_uz_30177901|uz_trimmed|{k ɒ r ɒ n a v i r u s sil b a r tʃ a sil h u d̪ u d̪ l a r d̪ a sil k u n l i k h ɒ l a t̪ l a r s ɒ n i o s m ɒ q d̪ a}|koronavirus: barcha hududlarda kunlik holatlar soni o'smoqda
+common_voice_uz_30177868|uz_trimmed|{b u n i e n d̪ i h a t̪ t̪ ɒ ʃ a r h l a ʃ n i sil i s t̪ a m a j d̪ i k i ʃ i}|buni endi hatto sharhlashni istamaydi kishi
+common_voice_uz_30222804|uz_trimmed|{b i r ɒ q dʒ i m t̪ u r i ʃ h a m sil v a z i j a t̪ d̪ a n tʃ i q a r m a j d̪ i}|biroq jim turish ham vaziyatdan chiqarmaydi
+common_voice_uz_30178214|uz_trimmed|{n a ʃ ɒ i r m a n n a ɒ l i m}|na shoirman, na olim
+common_voice_uz_30207077|uz_trimmed|{χ a l q l a r d̪ o s t̪ l i ɡ i sil k u n i sil b e l ɡ i l a n a d̪ i}|xalqlar do'stligi kuni belgilanadi
+common_voice_uz_30178352|uz_trimmed|{b ɒ ʃ i d̪ a n sil p ɒ χ ɒ l ʃ l j a p a s i n i ɒ l d̪ i}|boshidan poxol shlyapasini oldi.
+common_voice_uz_30229942|uz_trimmed|{u ʃ b u m a s a l a d̪ a m e n b i l ɡ a n j a ɡ ɒ n a h a q i q a t̪ ʃ u}|ushbu masalada men bilgan yagona haqiqat shu.
+common_voice_uz_30231343|uz_trimmed|{ɸ a r z a n d̪ i m i z ɒ l t̪ i j ɒ ʃ ɡ a t̪ o l d̪ i}|farzandimiz olti yoshga to'ldi
+common_voice_uz_30208828|uz_trimmed|{t̪ e a t̪ r ɡ a b ɒ r m ɒ q tʃ i m a n}|teatrga bormoqchiman.
+common_voice_uz_30178355|uz_trimmed|{ʃ u n a q a d̪ e ŋ d̪ e d̪ i sil b e m ɒ r}|shunaqa deng, dedi bemor
+common_voice_uz_30178278|uz_trimmed|{ɒ q ʃ ɒ m s i z d̪ a n h u s a j i n m e n i ŋ i s m i m n i sil s o r a j d̪ i}|oqshom sizdan husayin mening ismimni so'raydi.
+common_voice_uz_30249576|uz_trimmed|{k o ŋ i l l a r d̪ a t̪ i z i l i b sil q a t̪ ɒ r}|ne-ne ko'ngillarda tizilib qator
+common_voice_uz_30177906|uz_trimmed|{e l m e n d̪ a n sil r ɒ z i sil b o l s i n}|el mendan rozi bo'lsin
+common_voice_uz_30178370|uz_trimmed|{o t̪ a e h t̪ i j ɒ t̪ k ɒ r sil e d̪ i e r i m}|o'ta ehtiyotkor edi erim
+common_voice_uz_30178309|uz_trimmed|{ɒ t̪ a h a n i m a b o p t̪ i sil d̪ e b sil o z i n i sil ɡ o l l i k k a s ɒ l d̪ i}|ota, ha, nima bo'pti, deb o'zini go'llikka soldi

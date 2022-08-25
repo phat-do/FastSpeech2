@@ -1,0 +1,30 @@
+common_voice_bg_27411610.wav|bg_trimmed|{a z v ɤ r v j a x p o k r a j r e k a t a i t e s ɫ e d j a x sil}|аз вървях покрай реката и те следях.
+common_voice_bg_27411611.wav|bg_trimmed|{n a t a j a m i n u t a k o p a j a t p r i v o d e n i ts a t a sil}|- на тая минута копаят при воденицата.
+common_voice_bg_27411613.wav|bg_trimmed|{a k o n e m o ɡ a d a ʒ e r t v u v a m ʒ i v o t a s i s ɫ a v n o sil t o m o ɡ a d a ɡ o ʒ e r t v u v a m tʃ e s t n o sil}|ако не мога да жертвувам живота си славно, то мога да го жертвувам честно.
+common_voice_bg_27411614.wav|bg_trimmed|{s t o i ɫ s e p oː t d e ɫ j a n a s t r a n a s d e ɫ tʃ a i n i s k o m u ɡ o v o r i n e ʃ tʃ o sil}|стоил се поотделя настрана с делча и ниско му говори нещо.
+common_voice_bg_27411617.wav|bg_trimmed|{t v o j a t d j a d o t a t k o m i ʒ i v eː ʃ e v ʃ u m e n i b e ʃ e m n o ɡ o b o ɡ a t sil}|твоят дядо татко ми живееше в шумен и беше много богат.
+common_voice_bg_27411670.wav|bg_trimmed|{p r i p o m n j a m e s i d u m i t e n a m a j o r a i s e s m eː m sil}|припомняме си думите на майора и се смеем.
+common_voice_bg_27411671.wav|bg_trimmed|{v e d i n ɤ ɡ ɤ ɫ e z a d e ɫ e n o b j a ɫ o m j a s t o s n a d p i s sil x r i s t o d a n o v sil}|в един ъгъл е заделено бяло място с надпис: христо данов.
+common_voice_bg_27411672.wav|bg_trimmed|{s tʃ i t a j s e v e tʃ e z a k o n e n b ɤ ɫ ɡ a r s k i ts a r sil}|считай се вече законен български цар.
+common_voice_bg_27411673.wav|bg_trimmed|{ts i ɡ u ɫ a r i t e z a s v i r i x a sil z a d u m k a ɡ r ɤ m k o t ɤ p a n ɤ t sil}|цигуларите засвириха, задумка гръмко тъпанът.
+common_voice_bg_27411674.wav|bg_trimmed|{k a k t o s t o e ʃ e sil k a t o tʃ e b e ʃ e s e p r i ɡ o t v i ɫ z a b o r b a sil}|както стоеше, като че беше се приготвил за борба.
+common_voice_bg_27411693.wav|bg_trimmed|{a x i z v i k a v u ʒ a s k a r d a ʃ e v sil i t u k a sil}|- ах - извика в ужас кардашев, - и тука!
+common_voice_bg_27411695.wav|bg_trimmed|{t o ɡ a v a ʒ i v o t ɤ t s i z a t e tʃ e s ɤ s s t a r a t a n e v o ɫ j a i s t a r a t a s k r ɤ b sil}|тогава животът си затече със старата неволя и старата скръб.
+common_voice_bg_27411697.wav|bg_trimmed|{t o j p r i b ɤ r z a d a s e o t m a x n e o t t o j a o p a s e n s ɤ b e s e d n i k i t r ɤ ɡ n a n a p r e d sil}|той прибърза да се отмахне от тоя опасен събеседник и тръгна напред.
+common_voice_bg_27411698.wav|bg_trimmed|{k o ɡ o t ɤ r s i t e sil p o p i t a ɫ ɡ i e d i n m i n u v a tʃ sil}|- кого търсите? - попитал ги един минувач.
+common_voice_bg_27411699.wav|bg_trimmed|{ʃ i ʃ e n ts e t o sil d o s t a ɡ o ɫ e m i tʃ k o sil b e ʃ e p ɤ ɫ n o s r a k i j a sil}|шишенцето, доста големичко, беше пълно с ракия.
+common_voice_bg_27411771.wav|bg_trimmed|{s t r a ʒ a r i t e s e s p o ɡ ɫ e d a x a u tʃ u d e n i sil i z n e n a d a n i o t t a k a v a n e tʃ u v a n a d ɤ r z o s t sil}|стражарите се спогледаха учудени, изненадани от такава нечувана дързост.
+common_voice_bg_27411772.wav|bg_trimmed|{t o k a z v a ʃ e sil d o v i s o k o s ɫ a v n i j a b ɤ ɫ ɡ a r s k i ts a r s v e t o s ɫ a v a o t v e ɫ i k i j a v ɫ a s t e ɫ i n n a t a t a r i t e sil}|то казваше: до високославния български цар светослава от великия властелин на татарите.
+common_voice_bg_27411773.wav|bg_trimmed|{v t i j a v r e m e n a n i k o j n i k o ɡ o n e p o z n a v a sil}|в тия времена никой никого не познава.
+common_voice_bg_27411774.wav|bg_trimmed|{p o d t ɤ n k a t a r i z a s e o tʃ e r t a v a ʃ e ɡ ɤ v k a v o t o j m ɫ a d o t j a ɫ o sil}|под тънката риза се очертаваше гъвкавото й младо тяло.
+common_voice_bg_27411775.wav|bg_trimmed|{i n a i s t i n a t e ʒ k o b e ʃ e p o ɫ o ʒ e n i e t o n a t o j a tʃ o v e k sil}|и наистина тежко беше положението на тоя човек.
+common_voice_bg_27411835.wav|bg_trimmed|{v e d n a k o ɫ a n a t o v a r i x a v s i tʃ k o p o ts e nː o o t p o k ɤ ʃ tʃ n i n a t a sil v d r u ɡ a k a tʃ i x a d a s k a ɫ a n ɡ e ɫ a sil}|в една кола натовариха всичко по-ценно от покъщнината, в друга качиха даскал ангела.
+common_voice_bg_27411837.wav|bg_trimmed|{ɡ o r o ɫ o m o v i m e t o d i s e z a p ɤ t i x a k ɤ m u tʃ i ɫ i ʃ tʃ e t o sil}|гороломов и методи се запътиха към училището.
+common_voice_bg_27411838.wav|bg_trimmed|{k a r d a ʃ e v n e m o ʒ e ʃ e d a p o v j a r v a u ʃ i t e s i sil}|кардашев не можеше да повярва ушите си.
+common_voice_bg_27411839.wav|bg_trimmed|{d o j d o x m e n a b ɫ i z o d o o n o v a m j a s t o sil o t ɡ d e t o b a ʃ i b o z u ʃ k i t e tʃ a ɫ m i s v o b o d n o m o ʒ e x a d a s e v i ʒ d a t sil}|дойдохме наблизо до онова място, отгдето башибозушките чалми свободно можеха да се виждат.
+common_voice_bg_27411840.wav|bg_trimmed|{k r a s i v sil ɫ e k sil s u e t e n sil s m a ɫ k o z a u tʃ e n a s v e ts k o s t sil t o j b e ɫ e s n o s p e tʃ e ɫ i ɫ t o t k i n a t a s i m p a t i j a sil}|красив, лек, суетен, с малко заучена светскост, той бе лесно спечелил тоткината симпатия.
+common_voice_bg_27411890.wav|bg_trimmed|{t e x n i j a t p o ɫ k e v ɫ i z a ɫ v s ɤ s t a v a n a t r i j s t a k a z a ʃ k a d i v i z i j a sil k o j a t o e b i ɫ a v ɡ a ɫ i ts i j a sil}|техният полк е влизал в състава на трийста казашка дивизия, която е била в галиция.
+common_voice_bg_27411891.wav|bg_trimmed|{x o ɫ s k i b e ʃ e p r i b j a ɡ n a ɫ d o p o m o ʃ tʃ t a n a x r i s t o v o t o u tʃ e n i e sil ɫ j u b i t e sil z a d a p o d k r e p i s v o e t o sil n e o b i tʃ a j t e sil}|холски беше прибягнал до помощта на христовото учение: любите!,за да подкрепи своето: не обичайте!
+common_voice_bg_27411892.wav|bg_trimmed|{v j a r v a m i v i e d a s t e s e z d r a v i s v a ɫ i s n e ɡ o t a m sil}|вярвам и вие да сте се здрависвали с него там.
+common_voice_bg_27411893.wav|bg_trimmed|{e t o t o v a e p ɫ a n i n a t a t a x o sil n a j x u b a v a t a o t p ɫ a n i n i t e n a ɫ u n a t a sil}|- ето това е планината тахо, най-хубавата от планините на луната.
+common_voice_bg_27411894.wav|bg_trimmed|{x e sil ɡ r a f e sil d a p r o ʃ tʃ a v a ʃ sil a z t e ɡ o s t i x sil}|- хе, графе, да прощаваш, аз те гостих.

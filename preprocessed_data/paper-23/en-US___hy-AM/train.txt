@@ -1,0 +1,161 @@
+common_voice_hy-AM_26483860|hy-AM_trimmed|{h ɑ m ɑ t ɛ ʁ k j ɑ n kʰ i sil ə n tʰ ɑ t sʰ kʰ u m u n ɛ t sʰ ɛ l sil ɛ n t ʃʰ ɔ ɾ s sil ɛ ɾ ɛ χ ɑ}|համատեղ կյանքի ընթացքում ունեցել են չորս երեխա
+common_voice_hy-AM_26572891|hy-AM_trimmed|{m i n t ʃʰ ɑ j d kʰ ɑ ʁ ɑ kʰ ɑ t sʰ i ɑ k ɑ n b n ɑ k t ʃʰ u tʰ j ɑ n sil spn sil m ɑ s i n spn t ʃʰ i sil ɛ ʁ ɛ l}|մինչ այդ քաղաքացիական բնակչության վտարման մասին խոսք չի եղել
+common_voice_hy-AM_26466425|hy-AM_trimmed|{h ɔ ɾ i z ɔ n i n sil ɛ ɾ ɛ v u m ɛ n m ɛ ɾ k t s ɑ r ɛ ɾ ɛ v sil t n ɛ ɾ}|հորիզոնին երևում են մերկ ծառեր և տներ
+common_voice_hy-AM_26600883|hy-AM_trimmed|{b ɛ ɾ ɑ n i sil ɛ z ɾ ɛ ɾ ə sil h ɑ s t ɑ t sʰ ɑ t s sil ɛ n ɛ v sil ɑ r d ʒ ɛ v u m sil ɛ n sil b ɛ ɾ ɑ n ɑ j i n t s t s ɑ n ə}|բերանի եզրերը հաստացած են և առջևում են բերանային ծծանը
+common_voice_hy-AM_26600884|hy-AM_trimmed|{m ɔ z ɾ ɔ v ə sil ɛ ɾ k ɾ ɑ b ɑ n ɑ k ɑ n h ɑ ɾ u s t sil ɡ ɔ j ɑ t sʰ u tʰ j u n n ɛ ɾ ɔ v sil χ ɔ ɾ ə sil kʰ ɑ ɾ ɑ n d z ɑ v ɛ}|մոզրովը երկրաբանական հարուստ գոյացություններով խորը քարանձավ է
+common_voice_hy-AM_26572900|hy-AM_trimmed|{ɛ k ɛ ʁ ɛ t sʰ u spn sil spn sil k ɑ r u t sʰ v ɑ t s sil ɛ s ɾ b ɑ t ɑ ʃ}|եկեղեցու գմբեթն ամբողջովին կառուցված է սրբատաշ կաթնագույն քարից
+common_voice_hy-AM_26520611|hy-AM_trimmed|{b n ɑ k t ʃʰ u tʰ j ɑ n m ɛ t s m ɑ s ə sil kʰ ɾ i s t ɔ n j ɑ ɛ}|բնակչության մեծ մասը քրիստոնյա է
+common_voice_hy-AM_26499376|hy-AM_trimmed|{k ɑ n}|օգտակար հանածոներից կան քրոմիտ, երկաթ, պղինձ, ասբեստ
+common_voice_hy-AM_26627908|hy-AM_trimmed|{b n ɔ ɾ ɔ ʃ ɛ n ɑ ɛ v sil h ɔ ɡ ɛ k ɑ n ɑ m b ɔ ʁ d ʒ ɑ k ɑ n sil ɡ ɔ ɾ t s u n ɛ u tʰ j ɑ n ɑ ʁ kʰ ɑ t ɑ t sʰ u m n sil u ɑ n k u m ə}|բնորոշ է նաև հոգեկան ամբողջական գործունեության աղքատացումն ու անկումը
+common_voice_hy-AM_26499252|hy-AM_trimmed|{p ɛ t ɾ ɔ s j ɑ n i sil ʁ ɛ k ɑ v ɑ ɾ u tʰ j ɑ m b sil p ɑ ʃ t p ɑ n v ɛ l sil ɛ n sil tʰ ɛ k n ɑ t s u ɑ k ɑ n ɑ t ɛ n ɑ χ ɔ s u tʰ j u n n ɛ ɾ}|պետրոսյանի ղեկավարությամբ պաշտպանվել են թեկնածուական ատենախոսություններ
+common_voice_hy-AM_26540418|hy-AM_trimmed|{i s k sil spn sil spn sil p ɛ t kʰ sil ɛ sil ɔ ɾ i n ɑ k sil spn sil spn sil spn h ɑ m ɑ ɾ}|իսկ հաղթողի պահվածքը պետք է օրինակ լիներ յուրաքանչյուր ամերիկացու համար
+common_voice_hy-AM_26520677|hy-AM_trimmed|{l ɛ r n ɑ j i n h ɑ m ɑ k ɑ ɾ ɡ i sil spn m ɛ t s d ɛ ɾ ɛ n sil χ ɑ ʁ ɑ t sʰ ɛ l}|լեռնային համակարգի կառուցվածքում մեծ դեր են խաղացել բեկվածքները
+common_voice_hy-AM_26540415|hy-AM_trimmed|{m i ɛ v n u j n sil spn k ɑ ɾ ɛ l i sil ɛ sil spn sil t ɑ ɾ b ɛ ɾ}|միևնույն կոտորակը կարելի է ներկայացնել տարբեր ձևերով
+common_voice_hy-AM_26466592|hy-AM_trimmed|{m i tʰ ɛ sil m ɑ j ɾ ə v ɛ ɾ ɑ d ɑ ɾ d z ɑ v}|մի՞թե մայրը վերադարձավ
+common_voice_hy-AM_26600895|hy-AM_trimmed|{m i d ʒ n ɑ d ɑ ɾ j ɑ n sil h ɑ j k ɑ k ɑ n sil spn sil spn sil spn sil m ɛ k n sil ɛ}|հաղարծինը միջնադարյան հայկական ճարտարապետության ամենանշանավոր օրինակներից մեկն է
+common_voice_hy-AM_26610439|hy-AM_trimmed|{ɑ j s t ɛ ʁ spn sil ɛ n sil t ɑ ɾ b ɛ ɾ sil h ɑ m ɛ ɾ ɡ n ɛ ɾ spn sil i ɾ ɑ d ɑ ɾ d z u tʰ j u n n ɛ ɾ}|այստեղ անցկացվում են տարբեր համերգներ, սպորտային իրադարձություններ
+common_voice_hy-AM_26627910|hy-AM_trimmed|{n ɑ u n ɛ ɾ sil m ɔ t t ɑ s ə sil ɛ ɾ ɛ χ ɑ sil s ɑ k ɑ j n sil p ɑ ɾ b ɛ ɾ ɑ b ɑ ɾ sil ɑ j t sʰ ɛ l u m sil ɛ ɾ i ɾ sil ɑ ʁ d ʒ k ɑ n}|նա ուներ մոտ տասը երեխա, սակայն պարբերաբար այցելում էր իր աղջկան
+common_voice_hy-AM_26540324|hy-AM_trimmed|{ɑ m b ɔ ʁ d ʒ h u ʃ ɑ h ɑ m ɑ l i ɾ n sil u n i t s ɔ v ɑ j i n tʰ ɛ m ɑ t i k ɑ}|ամբողջ հուշահամալիրն ունի ծովային թեմատիկա
+common_voice_hy-AM_26499380|hy-AM_trimmed|{l u t s v u m ɛ sil ɑ ɾ kʰ ɑ j ɑ d ʒ ɾ u m ɛ v sil t ɑ kʰ χ i t sil t s t s m b ɑ k ɑ n sil tʰ tʰ v u m}|լուծվում է արքայաջրում և տաք, խիտ ծծմբական թթվում
+common_voice_hy-AM_26499262|hy-AM_trimmed|{u ɔ kʰ ɾ n ɛ ɾ u n sil ə n t ɑ n i kʰ ə sil k ə sil d ɑ v ɑ n ɑ j m ɔ ɾ m ɔ n u tʰ ɛ ɑ n}|ուոքրներուն ընտանիքը կը դաւանայ մորմոնութեան
+common_voice_hy-AM_26582759|hy-AM_trimmed|{d ɾ ɑ n i t sʰ sil h ɛ t ɔ sil spn sil spn sil spn sil h ɑ n d z n u m ɛ spn sil ɛ v}|դրանից հետո քահանան հարսի ձեռքը հանձնում է փեսային և օրհնում
+common_voice_hy-AM_26520680|hy-AM_trimmed|{b ɾ i k u i m ɑ ɾ m i n ə sil ɑ j d p ɛ s ɛ l t ʃʰ i sil ɡ t n v ɛ l}|բրիկուի մարմինը այդպես էլ չի գտնվել
+common_voice_hy-AM_26540355|hy-AM_trimmed|{ɑ j n ɛ ɾ i t ɑ s ɑ ɾ d ɑ k ɑ n sil spn sil spn spn sil ɛ}|այն երիտասարդական դաշտի սպասված ծրագրերից է
+common_voice_hy-AM_26499378|hy-AM_trimmed|{h ɑ t ʃ ɑ χ ɑ r ɑ d ʒ ɑ n u m sil ɛ sil ɛ ɾ k ɑ ɾ ʒ ɑ m ɑ n ɑ k sil spn spn sil ɔ ɾ i n ɑ k sil spn sil m i d ʒ ɔ t sʰ n ɛ ɾ}|արգիրոզը հաճախ առաջանում է երկար ժամանակ արծաթի ընդունումից, օրինակ' կոսմետիկ միջոցներ
+common_voice_hy-AM_26591733|hy-AM_trimmed|{ɑ n ɔ ɾ sil ɡ ɛ ɾ ɛ z m ɑ n ə sil ɛ ɾ k ɑ ɾ ʒ ɑ m ɑ n ɑ k sil u χ t ɑ t ɛ ʁ i sil ɛ ʁ ɑ t s sil ɛ ʃ ɾ d ʒ ɑ k ɑ j sil h ɑ j b n ɑ k t ʃʰ u tʰ ɛ ɑ n h ɑ m ɑ ɾ}|անոր գերեզմանը երկար ժամանակ ուխտատեղի եղած է շրջակայ հայ բնակչութեան համար
+common_voice_hy-AM_26610448|hy-AM_trimmed|{ɛ ʁ ɛ l sil ɛ}|քեյսեմը եղել է վեգան
+common_voice_hy-AM_26483863|hy-AM_trimmed|{ɛ ʁ ɛ l ɛ sil ɛ ɾ k u k ɔ n s u l sil ɔ ɾ ɔ n t sʰ sil ə n t ɾ ɛ l sil ɛ n t sʰ ɛ n t u ɾ i ɑ k ɑ n sil k ɔ m i t i ɑ n ɛ ɾ u m sil m ɛ k sil t ɑ ɾ ɔ v}|եղել է երկու կոնսուլ, որոնց ընտրել են ցենտուրիական կոմիտիաներում մեկ տարով
+common_voice_hy-AM_26591424|hy-AM_trimmed|{r ɑ j χ s f j u ɾ ɛ ɾ ə sil ɑ ɾ d ɛ n sil n ɾ ɑ n sil t v ɛ l ɛ sil h ɑ m ɑ p ɑ t ɑ s χ ɑ n h ɑ n d z n ɑ ɾ ɑ ɾ u tʰ j u n n ɛ ɾ}|ռայխսֆյուրերը արդեն նրան տվել է համապատասխան հանձնարարություններ
+common_voice_hy-AM_26499261|hy-AM_trimmed|{u n i sil z ɑ ɾ ɡ ɑ t sʰ ɑ t s ɑ ɾ m ɑ t n ɛ ɾ sil ɛ v sil tʰ ɑ v ɔ t t ɛ ɾ ɛ v n ɛ ɾ}|ունի զարգացած արմատներ և թավոտ տերևներ
+common_voice_hy-AM_26540413|hy-AM_trimmed|{h ɛ t h ɛ ʃ t ɛ sil spn sil ɡ t n ɛ l}|ինձ հետ հեշտ է լեզու գտնել
+common_voice_hy-AM_26520746|hy-AM_trimmed|{l sil ɔ ɾ b ɛ l u ɑ ʃ χ ɑ t ɑ n kʰ n ɛ ɾ ə h ɑ m ɑ ʃ χ ɑ ɾ h ɑ j i n t ʃ ɑ n ɑ t ʃʰ u m u n ɛ n}|լ. օրբելու աշխատանքները համաշխարհային ճանաչում ունեն
+common_voice_hy-AM_26499381|hy-AM_trimmed|{ɑ ʃ χ ɑ t ɑ n kʰ i ə n d u n ɑ k sil b n ɑ k t ʃʰ u tʰ j u n ə sil p ɑ k ɑ s u m sil ɛ ɑ ɾ t ɑ ɡ ɑ ʁ tʰ i p ɑ t t ʃ ɑ r ɔ v}|աշխատանքի ընդունակ բնակչությունը պակասում է արտագաղթի պատճառով
+common_voice_hy-AM_26591740|hy-AM_trimmed|{b ɑ ʒ ɑ k ɑ tʰ ɛ ɾ tʰ i k n ɛ ɾ ə s ʁ ɔ t sʰ ɑ ɛ z ɾ sil ɛ n}|բաժակաթերթիկները սղոցաեզր են
+common_voice_hy-AM_26627907|hy-AM_trimmed|{n ɾ ɑ n kʰ sil u n ɛ t sʰ ɛ l sil ɛ n t ʃʰ ɔ ɾ s ɔ ɾ d i sil ɛ v ɛ ɾ k u d u s t ɾ}|նրանք ունեցել են չորս որդի և երկու դուստր
+common_voice_hy-AM_26499398|hy-AM_trimmed|{d ɑ s n sil u h ɑ ɾ ɑ v ɑ j i n k ɔ ʁ m n ɑ j i n n ɑ v ə ɑ v ɑ ɾ t v u m sil ɛ n k i s ɑ ʃ ɾ d ʒ ɑ n ɑ d z ɛ v sil ɑ p s i d ɔ v}|դասն ու հարավային կողմնային նավը ավարտվում են կիսաշրջանաձև ապսիդով
+common_voice_hy-AM_26540357|hy-AM_trimmed|{n ɾ ɑ n spn sil ɛ n sil spn ɔ ɾ t ɛ ʁ sil spn ɛ n ɛ ɾ k u sil ɔ t kʰ ɛ ɾ ə}|նրան հասցնում են հիվանդանոց, որտեղ կտրում են երկու ոտքերը ծնկից վերև
+common_voice_hy-AM_26591426|hy-AM_trimmed|{ɛ l b ɑ s ɑ n u m ɑ p ɾ u m ɛ i n tʰ u ɾ kʰ ɛ ɾ sil ɑ ɾ ɑ b n ɛ ɾ sil h ɑ j ɛ ɾ sil ɛ v h ɾ ɛ ɑ n ɛ ɾ}|էլբասանում ապրում էին թուրքեր, արաբներ, հայեր և հրեաներ
+common_voice_hy-AM_26591427|hy-AM_trimmed|{ɛ sil spn sil m i ʃ ɑ ɾ kʰ}|աշխատակցել է բոլշևիկյան մի շարք թերթերի
+common_voice_hy-AM_26499402|hy-AM_trimmed|{m u t kʰ ɛ ɾ sil u n ɛ ɾ sil h ɑ ɾ ɑ v ɑ j i n sil ɛ v ɑ ɾ ɛ v m t j ɑ n sil t ʃ ɑ k ɑ t n ɛ ɾ i t sʰ}|մուտքեր ուներ հարավային և արևմտյան ճակատներից
+common_voice_hy-AM_26483864|hy-AM_trimmed|{n ɑ sil ɑ j n p ɛ s ɛ ɾ s p ɑ n u m sil ɔ ɾ sil ə n d ɡ t s ɛ ɾ sil d ɾ ɑ sil ɑ ɾ j u n ɑ ɾ b u tʰ j u n ə}|նա այնպես էր սպանում, որ ընդգծեր դրա արյունարբությունը
+common_voice_hy-AM_26540298|hy-AM_trimmed|{n ɑ ɛ ɾ ɾ ɔ ɾ d ɛ v ɑ m ɛ n ɑ pʰ ɔ kʰ ɾ sil ɛ ɾ ɛ χ ɑ n ɛ i ɾ sil ə n t ɑ n i kʰ u m}|նա երրորդ և ամենափոքր երեխան է իր ընտանիքում
+common_voice_hy-AM_26499278|hy-AM_trimmed|{h ɛ ʁ i n ɑ k ɛ sil spn sil spn ɑ ʃ χ ɑ t u tʰ j u n n ɛ ɾ i sil ɛ v}|հեղինակ է ձեռնարկների, մեթոդական աշխատությունների և մշակումների
+common_voice_hy-AM_26483873|hy-AM_trimmed|{b ɾ ɛ n d i n i ɾ ɛ n sil h ɑ m ɑ ɾ u m sil ɛ sil z t ɑ ɾ j u n s p ɑ n j ɛ l}|բրենդին իրեն համարում է զտարյուն սպանյել
+common_voice_hy-AM_26483866|hy-AM_trimmed|{l ɑ n d ʒ ɛ ɾ ə sil χ i s t sil z ɑ r i tʰ ɑ pʰ u sil b u s ɑ t s ɑ t s k sil ɛ n ɡ ɑ ɡ ɑ tʰ ə ʒ ɑ j r ɔ t sil m ɑ s n ɑ t v ɑ t s}|լանջերը խիստ զառիթափ ու բուսածածկ են, գագաթը' ժայռոտ, մասնատված
+common_voice_hy-AM_26582789|hy-AM_trimmed|{i b ɾ ɛ v sil l ɛ z u ɑ ɡ ɛ t sil z b ɑ ʁ ɑ t s sil ɛ sil kʰ ɛ ɾ ɑ k ɑ n ɑ k ɑ n h ɑ ɾ t sʰ ɛ ɾ ɔ v}|իբրեւ լեզուագէտ, զբաղած է քերականական հարցերով
+common_voice_hy-AM_26499292|hy-AM_trimmed|{ɛ ɾ ɑ ʒ ʃ t ɑ k ɑ n sil spn sil k ɔ ʁ m i t sʰ sil spn ɛ sil d ɾ ɑ k ɑ n}|երգն երաժշտական քննադատների կողմից արժանացել է դրական գնահատականների
+common_voice_hy-AM_26466446|hy-AM_trimmed|{ʃ ɑ ɾ u n ɑ k ɛ l ɛ ɡ ɾ ɛ l}|շարունակել է գրել
+common_voice_hy-AM_26466617|hy-AM_trimmed|{h i p ɔ tʰ ɛ ɾ m i ɑ j i p ɑ j m ɑ n n ɛ ɾ u m sil s ɾ t i v i ɾ ɑ h ɑ t u tʰ j u n ə sil m ɛ t s k i ɾ ɑ r u tʰ j u n ɛ sil ɡ t ɛ l sil ɑ r ɔ ɾ j ɑ sil p ɾ ɑ k t i k ɑ j u m}|հիպոթերմիայի պայմաններում սրտի վիրահատությունը մեծ կիրառություն է գտել առօրյա պրակտիկայում
+common_voice_hy-AM_26540326|hy-AM_trimmed|{s ɛ ɾ b ɛ ɾ ə sil ɛ v sil l ɛ h ɛ ɾ ə n ɑ t sʰ i s t ɑ k ɑ n sil h ɑ n t sʰ ɑ ɡ ɔ ɾ t s u tʰ j u n n ɛ ɾ i z ɔ h ɛ ɾ i t sʰ sil m ɛ k n ɛ n}|սերբերը և լեհերը նացիստական հանցագործությունների զոհերից մեկն են
+common_voice_hy-AM_26610442|hy-AM_trimmed|{ɑ n ɑ v ɑ ɾ t h ɑ v ɑ t kʰ ə m i ɑ j n sil s k i z b n ɛ}|անավարտ. հավատքը միայն սկիզբն է
+common_voice_hy-AM_26483876|hy-AM_trimmed|{kʰ ɑ ʁ ɑ kʰ ə h ɑ ɾ u s t sil ɛ m i d ʒ n ɑ d ɑ ɾ j ɑ n sil h u ʃ ɑ ɾ d z ɑ n n ɛ ɾ ɔ v}|քաղաքը հարուստ է միջնադարյան հուշարձաններով
+common_voice_hy-AM_26466427|hy-AM_trimmed|{t s n v ɛ l sil ɛ b ɛ d u i n n ɛ ɾ i sil ə n t ɑ n i kʰ u m}|ծնվել է բեդուինների ընտանիքում
+common_voice_hy-AM_26540410|hy-AM_trimmed|{k ə ɡ ɔ ɾ t s ɑ k t sʰ i sil b ɑ z m ɑ tʰ i v sil tʰ ɑ t ɛ ɾ ɑ χ u m b ɛ ɾ u sil h ɛ t k ə sil ʃ ɾ d ʒ i sil kʰ ɑ ʁ ɑ kʰ ɛ sil kʰ ɑ ʁ ɑ kʰ}|կը գործակցի բազմաթիւ թատերախումբերու հետ, կը շրջի քաղաքէ քաղաք
+common_voice_hy-AM_26499319|hy-AM_trimmed|{n ɑ h i v ɑ n d ɛ ɾ n ɑ ɛ v sil s i f i l i s ɔ v}|նա հիվանդ էր նաև սիֆիլիսով
+common_voice_hy-AM_26610452|hy-AM_trimmed|{h ɑ m ɑ ɾ j ɑ sil m ɛ k sil ɑ m s v ɑ ə n tʰ ɑ t sʰ kʰ u m sil p ɑ t ɑ n d n ɛ ɾ i t sʰ t ɛ ʁ ɛ k u tʰ j u n t ʃʰ i sil ɛ ʁ ɛ l}|համարյա մեկ ամսվա ընթացքում պատանդներից տեղեկություն չի եղել
+common_voice_hy-AM_26540323|hy-AM_trimmed|{ɑ ʃ u ɾ b ɑ n i p ɑ l n i n kʰ ə sil m ɛ t s k ɑ ɾ ɛ v ɔ ɾ u tʰ j u n ɛ ɾ t ɑ l i s sil ɡ ɾ ɑ d ɑ ɾ ɑ n i k ɑ n ɔ n ɑ k ɑ ɾ ɡ m ɑ n ə}|աշուրբանիպալն ինքը մեծ կարևորություն էր տալիս գրադարանի կանոնակարգմանը
+common_voice_hy-AM_26582792|hy-AM_trimmed|{t ɑ ɾ i n ɛ ɾ i n s ɔ v ɔ ɾ ɛ l sil ɛ ɛ ɾ ɑ ʒ ʃ t ɑ k ɑ n d p ɾ ɔ t sʰ u m}|մանկության տարիներին սովորել է երաժշտական դպրոցում դաշնամուրի բաժին
+common_voice_hy-AM_26466426|hy-AM_trimmed|{tʰ pʰ ɛ ɾ ə sil t ɑ ɾ ɑ t s v ɑ t s ɛ n t u n d ɾ ɑ j u m t ʃ ɑ h i t ʃ n ɛ ɾ i v ɾ ɑ pʰ ʃ ɑ t ɛ ɾ ɛ v ɑ n t ɑ r n ɛ ɾ u m sil b ɑ ɾ d z ɾ sil l ɛ r n ɛ ɾ u m}|թփերը տարածված են տունդրայում, ճահիճների վրա, փշատերև անտառներում, բարձր լեռներում
+common_voice_hy-AM_26499316|hy-AM_trimmed|{ɔ ɾ ɛ n s d i ɾ m ɑ ɾ m i n t ʃʰ ɛ}|օրենսդիր մարմին չէ
+common_voice_hy-AM_26582762|hy-AM_trimmed|{s ɛ ɾ t sil k ɑ p ɛ ɾ ɔ v k ɑ p v ɑ t s sil ɛ ɛ ʁ ɛ l sil h ɑ j sil ɡ ɾ ɑ k ɑ n ʃ ɾ d ʒ ɑ n n ɛ ɾ i h ɛ t}|սերտ կապերով կապված է եղել հայ գրական շրջանների հետ
+common_voice_hy-AM_26540411|hy-AM_trimmed|{ɛ l sil ɑ j ʒ m sil k ɔ t ʃʰ v u m ɛ}|ձևավորված ամբարտակված ջրավազանն էլ այժմ կոչվում է գյոյգյոլ լիճ
+common_voice_hy-AM_26520609|hy-AM_trimmed|{k ɔ t ʃʰ v u m sil ɛ}|լուսանկարահանում իրականացնող մարդը կոչվում է լուսանկարիչ
+common_voice_hy-AM_26627911|hy-AM_trimmed|{ə s t sil spn sil s ɾ ɑ sil t ɛ ʁ spn sil ɛ ʁ ɛ l sil ɛ sil ɛ k ɛ ʁ ɛ t sʰ i}|ըստ ավանդության սրա տեղ հնում եղել է եկեղեցի
+common_voice_hy-AM_26520607|hy-AM_trimmed|{v ɑ n u t ɑ u i sil k ʁ z i n ɛ ɾ i sil m ɛ d ʒ t ɑ ɾ ɑ t s kʰ ɔ v sil z b ɑ ʁ ɛ t sʰ n u m h i n ɡ ɛ ɾ ɔ ɾ d sil t ɛ ʁ ə}|վանուտաուի կղզիների մեջ տարածքով զբաղեցնում հինգերորդ տեղը
+common_voice_hy-AM_26540300|hy-AM_trimmed|{k i n ɑ m ə sil b n u tʰ ɑ ɡ ɾ u m sil ɛ n ɾ ɑ n t sʰ ɔ ɾ p ɛ s k ɑ j s ɾ u tʰ j ɑ n v ɑ s ɑ l n ɛ ɾ}|կինամը բնութագրում է նրանց որպես կայսրության վասալներ
+common_voice_hy-AM_26540325|hy-AM_trimmed|{n ɑ pʰ ɔ ɾ d z u m sil ɛ ɾ h ɑ s k ɑ n ɑ l sil k i n ɛ m ɑ t ɔ ɡ ɾ ɑ f i ɑ j i ɑ ɾ t ɑ d ɾ u tʰ j u n ə sil ɛ v t ɑ ɾ ɾ ɛ ɾ ə}|նա փորձում էր հասկանալ կինեմատոգրաֆիայի արտադրությունը և տարրերը
+common_voice_hy-AM_26499260|hy-AM_trimmed|{ɛ sil spn sil spn sil m i d ʒ ɔ t sʰ ɔ v}|մահապատժի է դատապարտվել կախաղանի միջոցով
+common_voice_hy-AM_26499382|hy-AM_trimmed|{k ɔ ɾ u s t n ɛ ɾ i m ɑ s i n ɑ r ɑ j ʒ m t ʃʰ i sil h ɑ j t ɑ ɾ ɑ ɾ v ɛ l}|կորուստների մասին առայժմ չի հայտարարվել
+common_voice_hy-AM_26540358|hy-AM_trimmed|{n k ɑ ɾ u m p ɑ t k ɛ ɾ v ɑ t s sil ɛ n sil ɛ ɾ ɛ kʰ h ɔ ɡ i}|նկարում պատկերված են երեք հոգի
+common_voice_hy-AM_26520632|hy-AM_trimmed|{s j u z i n ɑ j d ʒ ɑ m ɑ n ɑ k m ɔ d ɛ l ɛ ɾ}|սյուզին այդ ժամանակ մոդել էր
+common_voice_hy-AM_26499388|hy-AM_trimmed|{t ɑ t ʃ ɑ ɾ i ʃ ɛ n kʰ n sil ɑ ʁ j u s ɛ sil ɛ ɾ sil t ɑ n i kʰ ə sil t s ɑ t s k v ɑ t s ɛ ɾ sil ɛ ɾ k ɑ tʰ ɔ v z ɑ n ɡ ɑ k ɑ t u n t ʃʰ u n ɛ ɾ}|տաճարի շենքն աղյուսե էր, տանիքը ծածկված էր երկաթով, զանգակատուն չուներ
+common_voice_hy-AM_26610438|hy-AM_trimmed|{ɔ s l ɑ n sil tʰ tʰ v i sil ɑ r k ɑ j u tʰ j ɑ m b sil d ʒ ɾ i h ɛ t sil t ɑ kʰ ɑ t sʰ n ɛ l i s sil ɛ n tʰ ɑ ɾ k v u m ɛ sil h i d ɾ ɔ l i z i}|օսլան թթվի առկայությամբ ջրի հետ տաքացնելիս ենթարկվում է հիդրոլիզի
+common_voice_hy-AM_26610444|hy-AM_trimmed|{ɑ k u m b i sil h ɛ t sil k n kʰ v ɛ l sil ɛ p ɑ j m ɑ n ɑ ɡ i ɾ sil ɛ ɾ ɛ kʰ t ɑ ɾ ɔ v}|ակումբի հետ կնքվել է պայմանագիր երեք տարով
+common_voice_hy-AM_26520610|hy-AM_trimmed|{n ɾ ɑ sil spn sil spn ɛ n ɑ ʃ χ ɑ ɾ h i sil t ɑ ɾ b ɛ ɾ}|նրա կտավները ցուցադրված են աշխարհի տարբեր թանգարաններում
+common_voice_hy-AM_26572899|hy-AM_trimmed|{n ɾ ɑ t s n ɔ ʁ n ɛ ɾ ə ɑ m ɛ n ɑ h ɑ j t n i sil ɛ v ʃ ɑ t s i ɾ ɛ l i sil h ɛ ɾ ɔ s n ɛ ɾ sil ɛ n}|նրա ծնողները ամենահայտնի և շատ սիրելի հերոսներ են
+common_voice_hy-AM_26499341|hy-AM_trimmed|{h ɑ v ɑ t ɑ t sʰ j ɑ l sil b u ɾ ɛ ɾ ə sil p ɑ t k ɑ n u m sil ɛ n h ɔ l ɑ n d ɑ k ɑ n sil b ɔ ʁ ɔ kʰ ɑ k ɑ n sil ɛ k ɛ ʁ ɛ t sʰ u n}|հավատացյալ բուրերը պատկանում են հոլանդական բողոքական եկեղեցուն
+common_voice_hy-AM_26483874|hy-AM_trimmed|{ɑ k ɑ n d ʒ n ɛ ɾ ə sil m ɛ t s sil ɛ v l ɑ j n ɛ n sil ɛ v sil u n ɛ n sil k ɑ ɾ m i ɾ sil ɡ u n ɑ v ɔ ɾ u m}|ականջները մեծ և լայն են և ունեն կարմիր գունավորում
+common_voice_hy-AM_26591736|hy-AM_trimmed|{k i n ə sil ʃ ɑ t z ɑ ɾ m ɑ t sʰ ɑ v sil b ɑ j t sʰ k ɑ ɾ ɛ t sʰ ɑ j n}|կինը շատ զարմացավ, բայց կարեց այն
+common_voice_hy-AM_26483875|hy-AM_trimmed|{l ɛ r n ɑ j i n sil spn sil spn ɛ i n sil spn sil m ɛ d ʒ}|հնում լեռնային ապարները վերամշակում էին խարույկի մեջ շիկացնելով
+common_voice_hy-AM_26520608|hy-AM_trimmed|{ʒ ɑ m ɑ t sʰ u j t sʰ n sil ɛ z ɑ k i ɛ i ɾ t ɛ s ɑ k i sil m ɛ d ʒ}|ժամացույցն եզակի է իր տեսակի մեջ
+common_voice_hy-AM_26572875|hy-AM_trimmed|{ɡ ɔ ɾ t s n ɑ k ɑ n sil k i ɾ ɑ r u tʰ j u n t ʃʰ u n i}|գործնական կիրառություն չունի
+common_voice_hy-AM_26483868|hy-AM_trimmed|{k ɑ tʰ ɔ ʁ i k ɛ sil t ɑ t ʃ ɑ ɾ i sil ɡ m b ɛ tʰ n ɛ ɾ ə sil b ɑ z m ɛ l ɛ n sil ɑ m u ɾ sil kʰ ɑ n d ɑ k ɑ z ɑ ɾ d s j u n ɛ ɾ i v ɾ ɑ}|կաթողիկե տաճարի գմբեթները բազմել են ամուր քանդակազարդ սյուների վրա
+common_voice_hy-AM_26591732|hy-AM_trimmed|{n ɾ ɑ n t sʰ ɑ m u s n u tʰ j u n ə sil t ɛ v ɛ t sʰ sil k ɑ ɾ t ʃ}|նրանց ամուսնությունը տևեց կարճ
+common_voice_hy-AM_26499401|hy-AM_trimmed|{t ɑ ɾ i n ɛ ɾ ɛ sil i v ɛ ɾ sil k ə sil t ɑ r ɑ p i sil m ɛ t s ɑ r ɔ ʁ d ʒ ɑ p ɑ h ɑ k ɑ n h ɑ ɾ t sʰ ɛ ɾ ɛ}|տարիներէ ի վեր կը տառապի մեծ առողջապահական հարցերէ
+common_voice_hy-AM_26466442|hy-AM_trimmed|{n ɾ ɑ n kʰ ɑ m ɛ n u ɾ ɛ kʰ spn sil ɛ i n}|նրանք ամենուրեք քաջությամբ էին կռվում
+common_voice_hy-AM_26466621|hy-AM_trimmed|{n ɾ ɑ ɔ ɾ d i n sil d ɑ ɾ d z ɛ l ɛ tʰ m ɾ ɑ m ɔ l sil ɛ v ʃ u t ɔ v m ɑ h ɑ t sʰ ɛ l}|նրա որդին դարձել է թմրամոլ և շուտով մահացել
+common_voice_hy-AM_26499339|hy-AM_trimmed|{t ɑ ɾ b ɛ ɾ sil spn sil spn sil h ɛ t ɔ ɑ j n sil spn ɛ sil i ɾ n ɑ χ n ɑ k ɑ n}|տարբեր վայրերում հայտնվելուց հետո այն հանգրվանել է իր նախնական տեղում
+common_voice_hy-AM_26520679|hy-AM_trimmed|{u d ɛ j ə h ɑ j t n i sil ɛ ɾ i ɾ sil t sʰ ɔ pʰ sil ʃ v ɑ j t sil s ɑ n d z ɑ ɾ d z ɑ k sil k j ɑ n kʰ ɔ v}|ուդեյը հայտնի էր իր ցոփ, շվայտ, սանձարձակ կյանքով
+common_voice_hy-AM_26499400|hy-AM_trimmed|{i ɾ ɑ n ə sil h ɛ t z h ɛ t ɛ sil d u ɾ s ɛ sil m ʁ v u m sil m i d ʒ ɑ z ɡ ɑ j i n ɑ r ɛ v t ɾ i t sʰ}|իրանը հետզհետե դուրս է մղվում միջազգային առևտրից
+common_voice_hy-AM_26499279|hy-AM_trimmed|{m i ɛ v n u j n m ɛ t ɑ ʁ i t sʰ sil b ɑ z m ɑ l ɑ ɾ sil h ɑ ʁ ɔ ɾ d ɑ l ɑ ɾ ɛ ɾ ə sil h j u s u m sil ɛ n m i ɛ v n u j n h ɑ t v ɑ t s kʰ i h ɑ ʁ ɔ ɾ d ɑ l ɑ ɾ ɛ ɾ i t sʰ}|միևնույն մետաղից բազմալար հաղորդալարերը հյուսում են միևնույն հատվածքի հաղորդալարերից
+common_voice_hy-AM_26499238|hy-AM_trimmed|{h b ɑ t ʃʰ k ɔ v i sil m ɑ ɾ z ɑ k ɑ n sil k ɑ ɾ i ɛ ɾ ɑ n sil h ɑ ɾ tʰ t ʃʰ i sil ə n tʰ ɑ t sʰ ɛ l}|հ. բաչկովի մարզական կարիերան հարթ չի ընթացել
+common_voice_hy-AM_26466514|hy-AM_trimmed|{h ɑ k ɑ r ɑ k ɔ ɾ d n u n ɛ ɾ sil ɡ ɾ ɛ tʰ ɛ sil k ɾ k n ɑ k i tʰ v ɑ k ɑ n sil ɡ ɛ ɾ ɑ k ʃ r u tʰ j u n}|հակառակորդն ուներ գրեթե կրկնակի թվական գերակշռություն
+common_voice_hy-AM_26591428|hy-AM_trimmed|{m ɛ ɾ d z ɑ ɾ ɛ v ɑ d ɑ ɾ d z ɑ j i n spn sil spn sil ɑ r ɑ d ʒ ɑ n u m ɛ}|մերձարևադարձային մուսսոնային կլիման առաջանում է մուսսոնային քամիներից
+common_voice_hy-AM_26466428|hy-AM_trimmed|{χ n d ɾ i l u t s m ɑ n ʃ ɑ ɾ u n ɑ k u tʰ j u n ə k ɑ χ v ɑ t s ɛ m ɑ ɾ m n i ʃ ɑ ɾ ʒ m ɑ n u ʁ ɛ t s ɾ i t ɛ s ɑ k i t sʰ}|խնդրի լուծման շարունակությունը կախված է մարմնի շարժման ուղեծրի տեսակից
+common_voice_hy-AM_26499251|hy-AM_trimmed|{b ɑ j t sʰ sil spn sil k j ɑ n kʰ ə sil m ɑ j ɾ ɑ kʰ ɑ ʁ ɑ kʰ u m}|բայց թեթև կյանքը մայրաքաղաքում չստացվեց
+common_voice_hy-AM_26572876|hy-AM_trimmed|{t ʃʰ n ɑ j ɑ t s k n ɔ d ʒ b ɑ ɾ d z ɾ s ɔ t sʰ i ɑ l ɑ k ɑ n v i t ʃ ɑ k i n sil n ɾ ɑ n d z ɛ ɾ b ɑ k ɑ l ɛ t sʰ i n}|չնայած կնոջ բարձր սոցիալական վիճակին, նրան ձերբակալեցին
+common_voice_hy-AM_26499250|hy-AM_trimmed|{χ ɑ ʁ ɑ t sʰ ɑ n k u m ɡ ɛ ɾ i ʃ χ u m ɛ i n r u s d ɑ s ɑ k ɑ n n ɛ ɾ i sil s t ɛ ʁ t s ɑ ɡ ɔ ɾ t s u tʰ j u n n ɛ ɾ ə}|խաղացանկում գերիշխում էին ռուս դասականների ստեղծագործությունները
+common_voice_hy-AM_26520630|hy-AM_trimmed|{ɡ l χ ɑ v ɔ ɾ spn sil m ɛ k ə}|ուժի արթնացում ֆիլմի գլխավոր դերերից մեկը
+common_voice_hy-AM_26499392|hy-AM_trimmed|{ə s t s j u ʒ ɛ i sil pʰ ɔ kʰ ɾ i k sil t ʁ ɑ n sil spn sil ɛ ɔ ɾ u n i}|ըստ սյուժեի փոքրիկ տղան իմանում է, որ ունի դիսլեքսիա
+common_voice_hy-AM_26499239|hy-AM_trimmed|{ɛ ɾ i t ɑ s ɑ ɾ d sil t ɑ ɾ i kʰ u m sil tʰ ɔ ʁ n u m ɛ sil t s n n d ɑ v ɑ j ɾ n sil u ɑ ʃ χ ɑ t ɑ n kʰ ɔ ɾ ɔ n u m sil m ɑ j ɾ ɑ kʰ ɑ ʁ ɑ kʰ u m}|երիտասարդ տարիքում թողնում է ծննդավայրն ու աշխատանք որոնում մայրաքաղաքում
+common_voice_hy-AM_26582774|hy-AM_trimmed|{ɑ r ɑ d ʒ i n sil spn sil m ɑ s i n spn h ɑ j t n i sil t ʃʰ ɛ}|լանդոլֆի կարիերայի առաջին տարիների մասին ոչինչ հայտնի չէ
+common_voice_hy-AM_26582769|hy-AM_trimmed|{b ɑ j t sʰ sil spn sil ɑ r ɑ n t sʰ sil spn sil spn sil d ɛ ɾ ɑ s ɑ n u h u sil spn sil t ʃʰ ɛ}|բայց նկարը առանց բեմական հանդերձավորման դերասանուհու դիմանկարը չէ
+common_voice_hy-AM_26483869|hy-AM_trimmed|{tʰ ɑ n ɡ ɑ ɾ ɑ n i sil z ɑ ɾ d ɑ ɾ ɑ n kʰ n ɛ ɾ u sil m ɛ t s m ɑ s n sil ə n t ɾ u ɑ t s sil ɛ sil m ɾ t sʰ ɔ j tʰ n ɛ ɾ u sil m i d ʒ ɔ t sʰ ɔ v}|թանգարանի զարդարանքներու մեծ մասն ընտրուած է մրցոյթներու միջոցով
+common_voice_hy-AM_26520745|hy-AM_trimmed|{t s ɑ ʁ i k n ɛ ɾ ə h ɑ m ɑ ɾ j ɑ sil spn sil ɛ n}|ծաղիկները համարյա նսադիր են
+common_voice_hy-AM_26591735|hy-AM_trimmed|{ɛ v spn sil spn ʃ ɑ t sil spn sil ɛ n}|կետիկների և թեփուկների չափսերը շատ փոփոխական են
+common_voice_hy-AM_26499338|hy-AM_trimmed|{ɑ r ɑ d ʒ i n h ɑ m ɑ ʃ χ ɑ ɾ h ɑ j i n sil ɛ v kʰ ɑ ʁ ɑ kʰ ɑ t sʰ i ɑ k ɑ n p ɑ t ɛ ɾ ɑ z m n ɛ ɾ i sil m ɑ s n ɑ k i t sʰ ɛ}|առաջին համաշխարհային և քաղաքացիական պատերազմների մասնակից է
+common_voice_hy-AM_26610434|hy-AM_trimmed|{b ɑ n ɑ k t sʰ u tʰ j u n n ɛ ɾ i sil ə n tʰ ɑ t sʰ kʰ u m sil h ɑ j ɔ t sʰ tʰ ɑ ɡ u h i n sil n ɑ ɛ v sil h ɑ j t ɑ ɾ ɑ ɾ u m ɛ ɔ ɾ d i m ɑ d ɾ u tʰ j u n ə sil t ʃʰ i d ɑ d ɑ ɾ ɛ l u}|բանակցությունների ընթացքում հայոց թագուհին նաև հայտարարում է, որ դիմադրությունը չի դադարելու
+common_voice_hy-AM_26499342|hy-AM_trimmed|{ə n d h ɑ n u ɾ spn sil spn sil spn sil spn sil ɛ sil spn sil χ ɔ ɾ h ɾ d ɑ n i ʃ ə}|ընդհանուր առմամբ, անգլիական կառավարությունը փորձել է վարկաբեկել խորհրդանիշը
+common_voice_hy-AM_26572878|hy-AM_trimmed|{ɛ n h i m kʰ u m spn sil spn h ɛ t}|փշերը կեռ են, հիմքում լայնացած, փշիկների հետ խառը
+common_voice_hy-AM_26499264|hy-AM_trimmed|{ɑ ɾ d j u n kʰ u m sil n ɛ ɾ k ɑ j ɑ t sʰ u m ə s t i p v ɑ t s sil ɛ n l i n u m sil d ɑ d ɑ ɾ ɛ t sʰ n ɛ l}|արդյունքում, ներկայացումը ստիպված են լինում դադարեցնել
+common_voice_hy-AM_26520635|hy-AM_trimmed|{h ɛ ʁ i n ɑ k sil ɛ sil b ɑ z m ɑ tʰ i v sil h ɑ n ɾ ɑ j i n h u ʃ ɑ ɾ d z ɑ n n ɛ ɾ i sil ɛ v sil k i s ɑ n d ɾ i n ɛ ɾ i}|հեղինակ է բազմաթիվ հանրային հուշարձանների և կիսանդրիների
+common_voice_hy-AM_26582776|hy-AM_trimmed|{h ɔ n ɔ ɾ i ɔ s ə s t i p v ɑ t s h ɑ m ɑ d z ɑ j n v u m sil ɛ ɡ n ɑ l sil z i d ʒ u m n ɛ ɾ i}|հոնորիոսը ստիպված համաձայնվում է գնալ զիջումների
+common_voice_hy-AM_26582761|hy-AM_trimmed|{k ɑ j s ɛ ɾ ɑ k ɑ n sil spn sil n m ɑ n t ʃʰ ɛ sil ʒ ɑ m ɑ n ɑ k ɑ k i t sʰ}|կայսերական թագը նման չէ ժամանակակից թագերին
+common_voice_hy-AM_26600894|hy-AM_trimmed|{s ɑ k ɑ j n sil spn sil ɛ v sil spn sil kʰ ɑ ʁ ɑ kʰ}|սակայն գտան և վերադարձրեցին քաղաք
+common_voice_hy-AM_26572887|hy-AM_trimmed|{ɑ j s p i s ɔ v d ɑ ʃ t ə n ɛ ʁ ɑ n u m sil ɛ m i n t ʃʰ ɛ v v ɛ ɾ d ʒ n ɑ k ɑ n sil kʰ v ɛ ɑ ɾ k u tʰ j u n ə}|այսպիսով, դաշտը նեղանում է մինչև վերջնական քվեարկությունը
+common_voice_hy-AM_26572877|hy-AM_trimmed|{n ɾ ɑ ɑ r d ʒ ɛ v i sil t s ɑ j ɾ ə sil b u tʰ sil ɛ i s k sil h ɛ t ɛ v i n ə s u ɾ}|նրա առջևի ծայրը բութ է, իսկ հետևինը'սուր
+common_voice_hy-AM_26466546|hy-AM_trimmed|{ʃ p ɛ ɛ ɾ ə sil ʃ ɑ t ɑ ɾ ɑ ɡ sil m t ɛ l sil ɛ sil f j u ɾ ɛ ɾ i sil m t ɛ ɾ i m n ɛ ɾ i ʃ ɾ d ʒ ɑ n ɑ k}|շպեերը շատ արագ մտել է ֆյուրերի մտերիմների շրջանակ
+common_voice_hy-AM_26572904|hy-AM_trimmed|{d ɑ s t i ɑ ɾ ɑ k v ɛ l ɛ sil h ɔ ɾ sil ɛ v n ɾ ɑ t s n ɔ ʁ n ɛ ɾ i sil k ɔ ʁ m i t sʰ}|դաստիարակվել է հոր և նրա ծնողների կողմից
+common_voice_hy-AM_26591731|hy-AM_trimmed|{k u s ɑ k t sʰ u tʰ j u n n ɛ ɾ i sil m i d ʒ ɛ v sil p ɑ j kʰ ɑ ɾ ə ʃ ɑ ɾ u n ɑ k v ɛ t sʰ n ɑ ɛ v sil tʰ ɑ ɡ ɑ v ɔ ɾ i ə n t ɾ v ɛ l u t sʰ sil h ɛ t ɔ}|կուսակցությունների միջև պայքարը շարունակվեց նաև թագավորի ընտրվելուց հետո
+common_voice_hy-AM_26582771|hy-AM_trimmed|{ɑ ʃ χ ɑ t ɛ l ɛ sil ɡ ɔ ɾ t s ɑ ɾ ɑ n u m}|աշխատել է գործարանում
+common_voice_hy-AM_26499389|hy-AM_trimmed|{s ɑ k ɑ j n sil spn sil χ n d i ɾ n ɛ ɾ i p ɑ t t ʃ ɑ r ɔ v v ɛ p ə sil ɑ n ɑ v ɑ ɾ t ɛ}|սակայն առողջական խնդիրների պատճառով վեպը անավարտ է թողել
+common_voice_hy-AM_26499391|hy-AM_trimmed|{ɑ ʃ χ ɑ t u m sil ɛ ɾ}|աշխատում էր բանկում
+common_voice_hy-AM_26627909|hy-AM_trimmed|{ɛ sil m ɔ t ɑ p ɑ ɡ ɑ j u m sil s t ɛ ʁ t s ɛ l sil ɛ ɾ k ɑ tʰ u ʁ ɑ j i n}|նախատեսվում է մոտ ապագայում ստեղծել երկաթուղային հաղորդակցություն
+common_voice_hy-AM_26572879|hy-AM_trimmed|{tʰ ɛ ɛ v pʰ ɔ kʰ ɾ sil m ɑ s ʃ t ɑ b n ɛ ɾ ɔ v ɑ j l ʃ ɾ d ʒ ɑ n n ɛ ɾ i sil h ɑ m ɛ m ɑ t kʰ ɑ ʁ ɑ kʰ ɑ j i n sil t ʃ n ʃ u m ə ʃ ɑ ɾ u n ɑ k v u m ɛ}|թեև փոքր մասշտաբներով այլ շրջանների համեմատ, քաղաքային ճնշումը շարունակվում է
+common_voice_hy-AM_26483867|hy-AM_trimmed|{ʃ ɾ d ʒ ɑ n i n sil spn sil spn ɑ r ɑ d ʒ sil k ə sil spn sil ɛ v}|թատրոնի հանգստեան շրջանին քանդակագործութեան արուեստը առաջ կը տանի եւ անով կ'ապրի
+common_voice_hy-AM_26466544|hy-AM_trimmed|{p ɑ t m ɑ k ɑ n ɛ ɾ k ɛ ɾ u m sil h ɛ ʁ i n ɑ k ə h ɑ ʁ ɔ ɾ d u m ɛ ɑ j n p i s i sil pʰ ɑ s t ɛ ɾ ɔ ɾ ɔ n kʰ sil t ʃʰ k ɑ n ɑ j l sil ɑ ʁ b j u ɾ n ɛ ɾ u m}|պատմական երկերում հեղինակը հաղորդում է այնպիսի փաստեր, որոնք չկան այլ աղբյուրներում
+common_voice_hy-AM_26466513|hy-AM_trimmed|{s t ɛ ʁ t s ɛ l ɛ χ ɔ ɾ h ɾ d ɑ j i n sil t n t ɛ s ɑ k ɑ n ɑ ʃ χ ɑ ɾ h ɑ ɡ ɾ u tʰ j ɑ n sil n ɔ ɾ t ʃ j u ʁ kʰ ɑ ʁ ɑ kʰ n ɛ ɾ i sil ɑ ʃ χ ɑ ɾ h ɑ ɡ ɾ u tʰ j u n ə}|ստեղծել է խորհրդային տնտեսական աշխարհագրության նոր ճյուղ' քաղաքների աշխարհագրությունը
+common_voice_hy-AM_26466515|hy-AM_trimmed|{i ɾ ɑ k ɑ n ɑ t sʰ v ɛ l ɛ n ɑ v t ɔ m ɑ t sil ɛ v ɔ d ɑ t ʃʰ u ɑ v ɔ ɾ sil r ɛ ʒ i m n ɛ ɾ ɔ v tʰ r i t ʃʰ kʰ n ɛ ɾ}|իրականացվել են ավտոմատ և օդաչուավոր ռեժիմներով թռիչքներ
+common_voice_hy-AM_26499291|hy-AM_trimmed|{h ɛ n t sʰ sil ɑ j d ʒ ɑ m ɑ n ɑ k ɛ l s k s u m sil ɛ spn sil ɡ ɾ ɛ l}|հենց այդ ժամանակ էլ սկսում է պանեգիրիկներ գրել
+common_voice_hy-AM_26466595|hy-AM_trimmed|{u spn sil spn sil spn sil spn sil ɛ n sil ɛ k ɛ ʁ ɛ t sʰ u}|աղանդավորներն ու հերետիկոսները, ենթարկվելով բանադրանքի, զրկվել են եկեղեցու հաղորդությունից
+common_voice_hy-AM_26540414|hy-AM_trimmed|{n ɾ ɑ v ɑ ʁ sil k j ɑ n kʰ i sil m ɑ s i n sil ʃ ɑ t kʰ i t ʃʰ t ɛ ʁ ɛ k u tʰ j u n sil ɛ sil h ɑ j t n i}|նրա վաղ կյանքի մասին շատ քիչ տեղեկություն է հայտնի
+common_voice_hy-AM_26591739|hy-AM_trimmed|{h i m n ɑ k ɑ n spn sil spn sil ɛ}|պիրոլ միջուկը պորֆիրինների հիմնական կառուցվածքային բաղադրիչն է
+common_voice_hy-AM_26610451|hy-AM_trimmed|{k ɑ ɾ ɔ ʁ ɛ sil d i t ɑ ɾ k v ɛ l sil n ɑ ɛ v ɔ ɾ p ɛ s h r ɛ t ɔ ɾ ɑ k ɑ n h n ɑ ɾ kʰ}|կարող է դիտարկվել նաև որպես հռետորական հնարք
+common_voice_hy-AM_26466547|hy-AM_trimmed|{ɑ ʃ χ ɑ ɾ h i sil ɑ r ɑ d ʒ i n s u p ɛ ɾ m ɔ d ɛ l n ɛ ɾ i t sʰ m ɛ k n sil ɛ ɛ v n ɔ ɾ ɑ d z ɛ v u tʰ j ɑ n sil i k ɔ n ɑ}|աշխարհի առաջին սուպերմոդելներից մեկն է և նորաձևության իկոնա
+common_voice_hy-AM_26466443|hy-AM_trimmed|{d ɑ ɑ r ɑ d ʒ i n sil h ɑ j k ɑ k ɑ n ɑ l b ɔ m n ɛ ɾ r ɛ ɡ ɡ i sil ɛ v s k ɑ sil ɔ t ʃ ɛ ɾ i m ɛ d ʒ}|դա առաջին հայկական ալբոմն էր ռեգգի և սկա ոճերի մեջ
+common_voice_hy-AM_26520676|hy-AM_trimmed|{s ɑ h ɑ ɾ ɑ n ɑ ʃ χ ɑ ɾ h i sil ɑ m ɛ n ɑ m ɛ t s ɑ n ɑ p ɑ t n ɛ sil ɔ t ʃʰ b ɛ v ɛ r ɑ j i n ɡ ɔ t u m}|սահարան աշխարհի ամենամեծ անապատն է ոչ բևեռային գոտում
+common_voice_hy-AM_26540356|hy-AM_trimmed|{ɡ n u n j ɑ t sʰ n ɑ χ ɑ ɾ ɑ ɾ ɑ k ɑ n t ɑ n n ɛ sil h ɑ n d z n u m h ɑ z ɑ ɾ ɑ p ɛ t u tʰ j u n ə}|գնունյաց նախարարական տանն է հանձնում հազարապետությունը
+common_voice_hy-AM_26520675|hy-AM_trimmed|{t ɑ ɾ ɑ t s kʰ n ɛ ɾ ə sil h ɑ n d z n v ɛ l sil ɛ n v ɑ ɾ d z ɑ k ɑ l u tʰ j ɑ m b}|տարածքները հանձնվել են վարձակալությամբ
+common_voice_hy-AM_26466429|hy-AM_trimmed|{tʰ ɛ i n t ʃʰ h ɑ ɾ t sʰ ɛ ɾ sil ɛ kʰ n n ɑ ɾ k ɛ l sil ʒ ɔ ʁ ɔ v ə p ɑ t m i t ʃʰ n ɛ ɾ ə t ɛ ʁ ɛ k u tʰ j u n n ɛ ɾ t ʃʰ ɛ n sil h ɑ ʁ ɔ ɾ d u m}|թե ինչ հարցեր է քննարկել ժողովը, պատմիչները տեղեկություններ չեն հաղորդում
+common_voice_hy-AM_26600896|hy-AM_trimmed|{χ ɔ ɾ u tʰ j u n ə sil t ʃʰ i ɡ ɛ ɾ ɑ z ɑ n t sʰ u m m i kʰ ɑ n i sil m ɛ t ɾ ə}|խորությունը չի գերազանցում մի քանի մետրը
+common_voice_hy-AM_26582758|hy-AM_trimmed|{ɑ v ɑ ɡ spn sil n ɾ ɑ n kʰ sil h ɑ v ɑ kʰ v u m ɛ i n u t ɑ n ə}|ավագ դասարաններում նրանք հավաքվում էին ու տանը փորձեր անում
+common_voice_hy-AM_26540296|hy-AM_trimmed|{kʰ ɑ ʁ ɑ kʰ ɑ t sʰ i ɑ k ɑ n sil p ɑ t ɛ ɾ ɑ z m i sil ʒ ɑ m ɑ n ɑ k p ɑ n i ɔ ɾ d i n sil pʰ ɾ k v ɛ t sʰ sil i ɾ h ɔ ʁ ɛ ɾ i t sʰ b ɑ ʒ ɑ n ɛ l u h ɑ m ɑ ɾ}|քաղաքացիական պատերազմի ժամանակ պանի որդին փրկվեց' իր հողերից բաժանելու համար
+common_voice_hy-AM_26610445|hy-AM_trimmed|{m ɑ n d ɛ l ʃ t ɑ m i h ɑ n ɾ ɑ ɡ i t ɑ ɾ ɑ n i sil ɡ l χ ɑ v ɔ ɾ χ m b ɑ ɡ i ɾ n ɛ ɾ}|մանդելշտամի հանրագիտարանի գլխավոր խմբագիրն էր
+common_voice_hy-AM_26499318|hy-AM_trimmed|{u n ɛ ɾ sil ɡ i n u ə n t i ɾ sil t ɛ s ɑ k n ɛ ɾ}|ուներ գինու ընտիր տեսակներ
+common_voice_hy-AM_26600899|hy-AM_trimmed|{pʰ r ʃ t ɔ t sʰ k ɑ ɾ ɔ ʁ ɛ sil ɑ r ɑ d ʒ ɑ n ɑ l n ɑ ɛ v sil v ɑ ɾ ɑ k i t ʃʰ sil ɛ v v ɛ ɾ i n ʃ n t ʃʰ u ʁ i n ɛ ɾ i h i v ɑ n d u tʰ j u n n ɛ ɾ i ʒ ɑ m ɑ n ɑ k}|փռշտոց կարող է առաջանալ նաև վարակիչ և վերին շնչուղիների հիվանդությունների ժամանակ
+common_voice_hy-AM_26627905|hy-AM_trimmed|{ɑ r ɑ d ʒ i n sil ɛ ɾ ɛ kʰ sil spn sil spn sil ɛ n}|ներսից առաջին երեք հարկերը քառակուսի են, վերջինը' գլանաձև
+common_voice_hy-AM_26540416|hy-AM_trimmed|{d ɾ ɑ k ɑ n sil m ɛ t s ɑ ɾ d z ɑ ɡ ɑ n kʰ sil ɡ t ɑ v sil n ɾ ɑ l ɑ v h ɑ ʃ v ɑ ɾ k v ɑ t s m i sil kʰ ɑ j l ə}|դրական մեծ արձագանք գտավ նրա լավ հաշվարկված մի քայլը
+common_voice_hy-AM_26591422|hy-AM_trimmed|{ɑ ʃ χ ɑ t ɑ n kʰ i sil ɡ ɾ m ɑ n k ɔ n k ɾ ɛ t sil tʰ v ɑ k ɑ n ə h ɑ j t n i sil t ʃʰ ɛ}|աշխատանքի գրման կոնկրետ թվականը հայտնի չէ
+common_voice_hy-AM_26499340|hy-AM_trimmed|{ɑ j s t ɛ ʁ sil ɛ ɑ n t sʰ k ɑ t sʰ ɾ ɛ l sil m ɑ n k u tʰ j u n n u}|այստեղ է անցկացրել մանկությունն ու պատանեկությունը
+common_voice_hy-AM_26600893|hy-AM_trimmed|{d ʒ ɾ ɑ j i n}|հանրապետութեան կարեւորագոյն ջրային շնչերակներէն մէկը
+common_voice_hy-AM_26499390|hy-AM_trimmed|{ɑ j n u ɑ m ɛ n ɑ j n i v sil p ɑ t ɛ ɾ ɑ z m i ʃ n ɔ ɾ h i v sil d ɑ ʃ n ɑ k i t sʰ n ɛ ɾ n sil s t ɑ t sʰ ɑ n kʰ ɑ ʁ ɑ kʰ ɑ t sʰ i u tʰ j ɑ n sil i ɾ ɑ v u n kʰ}|այնուամենայնիվ, պատերազմի շնորհիվ դաշնակիցներն ստացան քաղաքացիության իրավունք
+common_voice_hy-AM_26520633|hy-AM_trimmed|{ə n t ɑ n i kʰ n sil ɑ p ɾ u m ɛ ɾ sil l ɑ j n sil p ɑ j m ɑ n n ɛ ɾ u m}|ընտանիքն ապրում էր լայն պայմաններում
+common_voice_hy-AM_26499290|hy-AM_trimmed|{h ɑ t u k spn sil spn ɡ ɔ j u tʰ j u n sil t ʃʰ u n i}|հատուկ ախտորոշիչ թեստ գոյություն չունի
+common_voice_hy-AM_26610435|hy-AM_trimmed|{u n ɛ ɾ sil h ɑ j k ɑ k ɑ n sil ɛ k ɛ ʁ ɛ t sʰ i}|ուներ հայկական եկեղեցի
+common_voice_hy-AM_26572890|hy-AM_trimmed|{i r l ɑ n d ɑ t sʰ i k ɑ tʰ ɔ l i k n ɛ ɾ i sil ɔ ɾ d i}|իռլանդացի կաթոլիկների որդի
+common_voice_hy-AM_26591430|hy-AM_trimmed|{s n v u m sil ɛ n sil spn sil spn sil spn i n t ʃʰ p ɛ s sil n ɑ ɛ v}|սնվում են ծառի տերևներով, մրգերով, ինչպես նաև ծաղիկներով
+common_voice_hy-AM_26572888|hy-AM_trimmed|{h ɔ ʁ ɛ ɾ u m sil χ ɔ ɾ h ɾ d ɑ j i n i ʃ χ ɑ n u tʰ j u n ɛ}|ղազախստանի հողերում խորհրդային իշխանություն է հաստատվել
+common_voice_hy-AM_26466548|hy-AM_trimmed|{n ɔ ɾ ɑ z ɑ t ɑ m t ɑ k ɑ n ɑ tʰ j u n ə k ɑ ɾ ɛ v ɔ ɾ u m ɛ n ɑ ɛ v m ɑ ɾ d u sil i ɾ ɑ v u n kʰ n ɛ ɾ ə h ɑ k ɑ ɑ m b ɔ ʁ d ʒ ɑ t i ɾ u tʰ j u n ə ɛ v ɑ j l n}|նորազատամտականաթյունը կարևորում է նաև մարդու իրավունքները, հակաամբողջատիրությունը և այլն
+common_voice_hy-AM_26610443|hy-AM_trimmed|{ɛ ɾ ɑ ʒ ʃ t ɑ k ɑ n spn sil ɛ n sil spn sil spn sil ɛ v}|երաժշտական գործիքներից են լանգշպիլը աղեղնավոր և ջութակը
+common_voice_hy-AM_26582775|hy-AM_trimmed|{n ɑ h ɑ t ʃ ɑ χ ɑ k i sil ɑ j t sʰ ɛ l ɛ l ɛ sil n ɾ ɑ sil d ɑ s ɑ χ ɔ s u tʰ j u n n ɛ ɾ i n}|նա հաճախակի այցելել է նրա դասախոսություններին
+common_voice_hy-AM_26499276|hy-AM_trimmed|{k t ɑ v u m sil ɛ ɾ ɛ kʰ sil k ɛ ɾ p ɑ ɾ ɑ n kʰ n ɛ ɾ ə sil m i ɑ v ɔ ɾ v ɑ t s sil ɛ n h ɔ ɡ ɛ v ɔ ɾ u sil ɡ ɛ n ɛ t i k k ɑ p ɔ v h ɑ ɾ ɑ z ɑ t u tʰ j ɑ m b}|կտավում երեք կերպարանքները միավորված են հոգևոր ու գենետիկ կապով, հարազատությամբ
